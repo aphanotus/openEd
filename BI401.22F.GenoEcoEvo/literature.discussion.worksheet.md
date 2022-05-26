@@ -26,3 +26,6 @@ My assessment of the writing quality in this article. *How does it compare to wr
 2.   Two
 3.   Three
 
+---
+
+[Example of a completed worksheet](https://github.com/aphanotus/openEd/blob/main/BI401.22F.GenoEcoEvo/literature.discussion.worksheet.example.md)
