@@ -1,0 +1,87 @@
+# BI401 Senior Seminar 
+
+## Genomics in Ecology & Evolutionary Biology
+![](header.jpg)
+
+**Colby College  -  Fall 2022  -  Section A  -  Syllabus**
+
+#### Meeting times
+
+Fridays 1-1:50 pm, TBD
+
+#### Instructor
+
+Dr. David R. Angelini 
+
+e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
+
+Office hours: TBD
+
+### Course Description
+
+The sequencing of genomes and related genetic material has become a routine tool in studies of biology as the largest scales. Familiarity with genomics is now essential for people working in evolutionary biology, ecology, conservation biology, as well as in disciplines oriented to medicine, cells and basic genetics. In this seminar course, students will select and lead group discussion of primary literature that considers topics in ecology and evolution using genomic methods. Students will also be required to attend the biology department speaker series. 
+
+#### Prerequisites
+
+Biology major senior standing, or instructor authorization.
+
+### Discussion Guidelines
+
+The basis of this class is the discussion of published papers, led by students. During the second class, we will decide as a group on the papers to be read and on who will lead each discussion. Student leaders are intended to direct the discussions, not to do all the talking. In fact, I might expect the discussion leaders to do the least amount of talking during a good discussion. [Discussion leaders](https://github.com/aphanotus/openEd/blob/main/BI401.22F.GenoEcoEvo/rubric.for.discussion.leaders.md) will be responsible for reading the [Discussion Preparation Worksheets](https://github.com/aphanotus/openEd/blob/main/BI401.22F.GenoEcoEvo/literature.discussion.worksheet.md) from the rest of the students, and assuring that students present their most interesting ideas to the rest of the class during the discussion. To facilitate these discussions, specific responsibilities are outlined below.
+
+- Ahead of a Friday literature discussion, each student must submit a [Discussion Preparation Worksheet](https://github.com/aphanotus/openEd/blob/main/BI401.22F.GenoEcoEvo/literature.discussion.worksheet.md) to the discussion leaders by Wednesday at noon (that is, 48 hours before the paper will be discussed). Discussion leaders do not need to complete a Discussion Preparation sheet. 
+
+- Discussion Leaders will use the Worksheets and the [Rubric for Discussion Leaders](https://github.com/aphanotus/openEd/blob/main/BI401.22F.GenoEcoEvo/rubric.for.discussion.leaders.md) to help guide the discussion. 
+
+This course seeks to build a more antiracist community. While it is not the focus of our subject, discussions may raise issues of racism, colonialism, sexism, and other forms of interpersonal discrimination in the past and present. It is my hope that these conversations, while potentially uncomfortable, will be embraced with respect, compassion and mindful reflection. At any time, if anyone feels that any comments in discussion, any readings or any structures of the course treat these subjects inappropriately, that critique is welcomed, openly or privately. 
+
+### Visiting Speakers
+
+A tradition in science is that when researchers publish exciting results, they may be invited to other institutions to share their findings and interpretations with a public audience. This semester, Colby will host several invited speakers. You will be expected to participate in these events as a part of BI401. In preparation, you will be expected to read an article by the speaker. You are also asked to engage with the speakers by asking a question at their presentation, or by joining speakers for informal conversations either at lunch before the presentation or social time afterward.
+
+### Schedule
+
+| date | activity |
+|:----:|:------------- |
+| Sept 9 | Introductions |
+| Sept 16 | Selection of articles for discussion |
+| Sept 23 | Visiting speaker: TBD, University of TBD, hosted by Chris Moore |
+| Sept 30 | Student-led discussion |
+| Oct 7 | Student-led discussion |
+| Oct 14 | Student-led discussion |
+| Oct 21 | Student-led discussion |
+| Oct 28 | Student-led discussion |
+| Nov 4 | Visiting speaker: TBD, University of TBD, hosted by Josh Martin |
+| Nov 11 | Student-led discussion |
+| Nov 18 | Visiting speaker: TBD, University of TBD, hosted by Ye Mon Thu |
+| Dec 2 | Student-led discussion |
+| Dec 9 | Concluding group discussion |
+
+### Grading
+
+Final grades for this course will be assigned based on the quality of your preparation, evidenced by literature discussion worksheets and  your involvement in weekly discussions. Keep in mind that good discussion does not always mean being right or always having the answer; it can also mean asking good questions, taking a risk by sharing a speculative idea, or helping us all to work through a problem as a group.
+
+#### Rubric
+
+**A. Excellent.** Evidence that reading has been done completely and evidence of significant preparation for class discussion, including formulation of independent ideas, outside research, efforts toward comprehensive understanding, and attention to in-class themes. Characterized by active, constructive, and thoughtful participation in class discussion, including a willingness to take intellectual risks, initiate discussion leadership, respond to other students’ contributions, and take responsibility for one's own learning.
+
+**B. Good.** Evidence that reading has been done completely and evidence of some preparation for class discussion. Characterized by generally attentive attitude and some thoughtful and constructive participation in the day's discussion.
+
+**C. Acceptable.** Evidence that the reading has been done completely, but without effort at independent comprehension. Characterized by passive or occasional participation in discussions.
+
+**D. Marginal.** Evidence that only part of the reading has been done or that the reading has been done poorly, or participation that is not constructive. Poor reading includes not looking up unfamiliar words or completing the additional preparation exercises. Arriving to class late, texting, and coming to class without a copy of the reading.
+
+**F. Unacceptable.** Evidence that the reading has not been done. Use of devices for activities that do not relate to the topic under discussion. Absence from class or extreme tardiness merit an F. 
+
+### Accommodations for the COVID-19 pandemic
+
+Discussion with your peers is important to the learning objectives of this course. Nevertheless, the COVID-19 pandemic presents a serious danger of the health of us all. Therefore, complete cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to BI401A include:
+
+- Invited speakers will appear digitally. Whenever possible, their presentations will be recorded.
+- It may become necessary for the course to transition to a Zoom format at any time.
+- Office hours may be held on Zoom. Hours may need to be modified. 
+- If you become ill, please follow college policy and inform your advising dean as soon as possible.
+
+### Sustainability 
+
+Environmental degradation is a serious biological and societal issue. [Colby](http://www.colby.edu/administration_cs/green/) is committed to practices that promote sustainable living. To help minimize the environmental impact of this course, I encourage you to minimize paper use by reading articles on a device when possible, rather than printing copies. It is acceptable to take notes on a laptop or tablet during class. If you choose to print, please print double-sided on recycled paper. Recycle unnecessary paper after the end of the semester. 
