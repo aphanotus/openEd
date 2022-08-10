@@ -7,15 +7,15 @@
 
 #### Meeting times
 
-Fridays 1-1:50 pm, TBD
+Fridays 1-1:50 pm, **location TBD**
 
 #### Instructor
 
-Dr. David R. Angelini 
+[Dr. David R. Angelini](https://www.colby.edu/directory/profile/dave.angelini/) 
 
 e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
-Office hours: TBD
+Office hours: Mondays 12-1pm, Tuesdays 4-5pm, Wednesdays 8-9am
 
 ### Course Description
 
@@ -44,16 +44,16 @@ A tradition in science is that when researchers publish exciting results, they m
 | date | activity |
 |:----:|:------------- |
 | Sept 9 | Introductions |
-| Sept 16 | Selection of articles for discussion |
-| Sept 23 | Visiting speaker: TBD, University of TBD, hosted by Chris Moore |
+| Sept 16 | Visiting speaker: [Brad Davidson](https://www.swarthmore.edu/profile/bradley-davidson), Swarthmore College, hosted by [Christina Cota](https://www.colby.edu/directory/profile/christina.cota/) |
+| Sept 23 | Selection of articles for discussion |
 | Sept 30 | Student-led discussion |
 | Oct 7 | Student-led discussion |
 | Oct 14 | Student-led discussion |
 | Oct 21 | Student-led discussion |
 | Oct 28 | Student-led discussion |
-| Nov 4 | Visiting speaker: TBD, University of TBD, hosted by Josh Martin |
+| Nov 4 | Student-led discussion |
 | Nov 11 | Student-led discussion |
-| Nov 18 | Visiting speaker: TBD, University of TBD, hosted by Ye Mon Thu |
+| Nov 18 | Student-led discussion |
 | Dec 2 | Student-led discussion |
 | Dec 9 | Concluding group discussion |
 
@@ -73,9 +73,9 @@ Final grades for this course will be assigned based on the quality of your prepa
 
 **F. Unacceptable.** Evidence that the reading has not been done. Use of devices for activities that do not relate to the topic under discussion. Absence from class or extreme tardiness merit an F. 
 
-### Accommodations for the COVID-19 pandemic
+### Accommodations for public health
 
-Discussion with your peers is important to the learning objectives of this course. Nevertheless, the COVID-19 pandemic presents a serious danger of the health of us all. Therefore, complete cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to BI401A include:
+Discussion with your peers is important to the learning objectives of this course. Nevertheless, the COVID-19 pandemic presents an on-going danger to public health. Cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to BI401A include:
 
 - Invited speakers will appear digitally. Whenever possible, their presentations will be recorded.
 - It may become necessary for the course to transition to a Zoom format at any time.
