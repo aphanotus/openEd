@@ -49,7 +49,7 @@ No individual extra credit assignments will be offered.
 #### Lecture grades
 
 | component                    | percent of course grade |
-| ---------------------------- | ----------------------- |
+|:---------------------------- |:-----------------------:|
 | Exam 1                       | 17%                     |
 | Exam 2                       | 22%                     |
 | Exam 3 (final)               | 26%                     |
@@ -58,7 +58,7 @@ No individual extra credit assignments will be offered.
 #### Final course grades
 
 | point range | grade assigned                                               |
-| ----------- | ------------------------------------------------------------ |
+|:----------- |:------------------------------------------------------------ |
 | > 90%       | A (most likely <93 A-, >93 A, A+ for exceptional performance) |
 | 80-90%      | B (most likely <83 B-, 83-87 B, >87 B+)                      |
 | 70-80%      | C (most likely <73 C-, 73-77 C, >77 C+)                      |
@@ -77,7 +77,7 @@ Moodle ( http://moodle.colby.edu/ ) will be the primary electronic method of con
 There will be three lecture-based exams during the semester, including two mid-term exams and one final comprehensive (cumulative) exam covering the whole semester. These exams will be closed-book, closed-note, individual-effort exams. Leave all electronic devices out of the room. Exams will take place on the following days (note the evening times of the first two): 
 
 | exam       | date                        | time  | location |
-| ---------- | --------------------------- | ----- | -------- |
+|:---------- |:--------------------------- |:----- |:-------- |
 | Exam 1     | **TBD**: week of October 3  | 7-9pm | TBD      |
 | Exam 2     | **TBD**: week of November 7 | 7-9pm | TBD      |
 | Final Exam | **TBD**: December 14-19     | TBD   | TBD      |
@@ -114,7 +114,7 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 ### Tentative Course Schedule
 
 | week of     | topic               | Freeman chapter | notes                            |
-| :---------- | :------------------ | --------------- | -------------------------------- |
+| :---------- | :------------------ |:--------------- |:-------------------------------- |
 | Sept 7      | Cell theory         | 1; BioSkills 13 |                                  |
 | Sept 12     | Lipids              | 2; 6            |                                  |
 | Sept 19     | Proteins            | 3               |                                  |
