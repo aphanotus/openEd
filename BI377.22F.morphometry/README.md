@@ -36,7 +36,7 @@ This course will raise issues of sexism, racism and colonialism. While this cour
 
 ### Digital platforms
 
-This course will make use of several online venues. We will collaborate using GitHub, based on the course's page at https://github.com/colby-morphometry/ We will also use a custom Rstudio web server for this course.
+This course will make use of several online venues to collaborate. We will also use a custom Rstudio web server for this course.
 
 
 ### Grades
