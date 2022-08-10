@@ -18,7 +18,7 @@ Office hours: Mondays 12-1pm, Tuesdays 4-5pm, Wednesdays 8-9am
 
 ### Prerequisites
 
-SC212 Intro to Statistics or instructor authorization
+[SC212](https://www.colby.edu/catalogue/courses/SC/) Intro to Statistics or instructor authorization
 
 ### Learning Objectives
 
@@ -96,20 +96,20 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 
 Be warned: This schedule is subject to continuous revision!
 
-| date    | topic                                         | in-class activity               | quiz | exercise                          | reading                                                     |
-| ------- | --------------------------------------------- | ------------------------------- | ---- | --------------------------------- | ----------------------------------------------------------- |
-| Sept 13 | Introductions & Overview                      | Intro/Refresher on R & Markdown |      | 1. Markdown                       | Zelditch et al. Ch 1-2                                      |
-| Sept 20 | Open science; Hypothesis testing              | Git & GitHub                    |      | 2. GitHub practice                | O'Dea et al. 2021; Salsburg Ch TBD                          |
-| Sept 27 | Measurement; Sampling; Descriptive statistics | Sampling, Tests of variance     | 1    | 3. Descriptive statistics         | Kondrashov Ch TBD                                           |
-| Oct 4   | Intro to geometric morphometrics; ANOVA       | Digitization, univariate ANOVA  |      | 4. Digitization, univariate ANOVA | [Forstmeier et al. 2016](https://doi.org/10.1111/brv.12315) |
-| Oct 11  | History and social impacts of morphometry     | Data curation                   | 2    | 5. TBD                            | Zimmer Ch TBD                                               |
-| Oct 25  | Procrustes alignment                          | Procrustes alignment            | 3    | 6. Procrustes alignment           | Zelditch et al. Ch 3 (pp51, 53-573)                         |
-| Nov 1   | Morphospace; Ordination                       | PCA                             |      | 7. PCA                            | Zelditch et al. Ch 3 (p59-60, 62-67, 69-73)                 |
-| Nov 8   | Generalized linear modeling                   | Advanced alignment methods      | 4    | 8. GLM                            | Kondrashov Ch TBD                                           |
-| Nov 15  | Logistic and beta regression                  | Residual plots                  |      | 9. Analysis of color data         | [Peck et al. 2017](https://doi.org/10.1128/JB.00303-17)     |
-| Nov 22  | Modeling in a phylogenetic context            | PIC & PGLS                      | 5    | 10. PGLS                          |                                                             |
-| Nov 29  | Writing workshop                              | Work on final projects          |      |                                   |                                                             |
-| Dec 6   |                                               | Final presentations             |      | Final project due                 |                                                             |
+| date    | topic                                         | in-class activity               | quiz | exercise                          | reading                                                      |
+| ------- | --------------------------------------------- | ------------------------------- | ---- | --------------------------------- | ------------------------------------------------------------ |
+| Sept 13 | Introductions & Overview                      | Intro/Refresher on R & Markdown |      | 1. Markdown                       | Zelditch et al. Ch 1-2                                       |
+| Sept 20 | Open science; Hypothesis testing              | Git & GitHub                    |      | 2. GitHub practice                | [O'Dea et al. 2021](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01006-3); Salsburg Ch TBD |
+| Sept 27 | Measurement; Sampling; Descriptive statistics | Sampling, Tests of variance     | 1    | 3. Descriptive statistics         | Kondrashov Ch TBD                                            |
+| Oct 4   | Intro to geometric morphometrics; ANOVA       | Digitization, univariate ANOVA  |      | 4. Digitization, univariate ANOVA | [Forstmeier et al. 2016](https://doi.org/10.1111/brv.12315)  |
+| Oct 11  | History and social impacts of morphometry     | Data curation                   | 2    | 5. TBD                            | Zimmer Ch TBD                                                |
+| Oct 25  | Procrustes alignment                          | Procrustes alignment            | 3    | 6. Procrustes alignment           | Zelditch et al. Ch 3 (pp51, 53-573)                          |
+| Nov 1   | Morphospace; Ordination                       | PCA                             |      | 7. PCA                            | Zelditch et al. Ch 3 (p59-60, 62-67, 69-73)                  |
+| Nov 8   | Generalized linear modeling                   | Advanced alignment methods      | 4    | 8. GLM                            | Kondrashov Ch TBD                                            |
+| Nov 15  | Logistic and beta regression                  | Residual plots                  |      | 9. Analysis of color data         | [Peck et al. 2017](https://doi.org/10.1128/JB.00303-17)      |
+| Nov 22  | Modeling in a phylogenetic context            | PIC & PGLS                      | 5    | 10. PGLS                          |                                                              |
+| Nov 29  | Writing workshop                              | Work on final projects          |      |                                   |                                                              |
+| Dec 6   |                                               | Final presentations             |      | Final project due                 |                                                              |
 
 ---
 
