@@ -18,9 +18,9 @@ Office hours: Mondays 12-1pm, Tuesdays 4-5pm, Wednesdays 8-9am
 
 #### Learning Assistants
 
-- [Olivia Petrini-Poli](mailto:ompetr25@colby.edu)
-- [Michelle Bechtel](mailto:msbech25@colby.edu)
-- [Jamie Page](mailto:jepage23@colby.edu)
+- Olivia Petrini-Poli
+- Michelle Bechtel
+- Jamie Page
 
 ### Course Description
 
@@ -34,7 +34,7 @@ A student successfully completing this course will demonstrate an understanding 
 
 #### Required textbook
 
-*Biological Science*, Scott Freeman, et al., 6th edition. [[Amazon]](https://www.amazon.com/Biological-Science-6th-Scott-Freeman/dp/0321976495/)
+*Biological Science*, Scott Freeman, et al., 6th edition. <a href="https://www.amazon.com/Biological-Science-6th-Scott-Freeman/dp/0321976495/" target="_blank">[Amazon]</a> <a href="https://www.powells.com/book/biological-science-9780321976499" target="_blank">[Powells]</a>
 
 You should read the assigned chapters or pages before or immediately after the corresponding class period. Students are encouraged to purchase used copies of the textbook. Any additional readings will be provided via Moodle.
 
