@@ -16,6 +16,12 @@ e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
 Office hours: Mondays 12-1pm, Tuesdays 4-5pm, Wednesdays 8-9am
 
+#### Learning Assistants
+
+- [Olivia Petrini-Poli](mailtp:ompetr25@colby.edu)
+- [Michelle Bechtel](mailtp:msbech25@colby.edu)
+- [Jamie Page](mailtp:jepage23@colby.edu)
+
 ### Course Description
 
 This course conducts an examination of cells as the fundamental unit of life. Aspects of evolutionary biology, cell biology, molecular biology, and genetics are reviewed. A major objective is the development of intellectual tools to ask and answer interesting biological questions. The laboratory will allow each student to design and conduct experiments, to analyze and present data, and practice writing in the scientific format. BI163 is the first half of a year-long series introducing the fundamental concept of biology. 
@@ -84,11 +90,13 @@ There will be three lecture-based exams during the semester, including two mid-t
 
 ### Accommodations for public health
 
-Cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to BI163 may include:
+Cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to BI163 include:
 
-- It may become necessary for the course to transition to a Zoom format at any time.
-- Office hours may be held on Zoom. Hours may need to be modified. 
-- If you become ill, please follow college policy and inform your advising dean as soon as possible.
+- If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html), including fever or chills, cough, fatigue and headache, please do not attend class in person.
+- Masking is optional, but strongly encouraged. I encourage everyone to mask while listening. While lecturing, I will not mask unless I show symptoms of flu or covid. Students are welcome to unmask to speak to one another or to the class. But exercise good judgement: Mask after recent travel, if you experience symptoms, or if you perceive symptoms in others nearby.
+- In the case of a covid case surge, it may become necessary for the course to transition to a Zoom format. In which case, changes to the syllabus may be necessary.
+- Office hours may be held on Zoom. Hours may need to be modified.
+- This policy may be modified as conditions change.
 
 ### Academic support
 
@@ -114,7 +122,7 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 ### Tentative Course Schedule
 
 | week of     | topic               | Freeman chapter | notes                            |
-| :---------- | :------------------ |:--------------- |:-------------------------------- |
+| :---------- | :------------------ | :-------------- | :------------------------------- |
 | Sept 7      | Cell theory         | 1; BioSkills 13 |                                  |
 | Sept 12     | Lipids              | 2; 6            |                                  |
 | Sept 19     | Proteins            | 3               |                                  |
