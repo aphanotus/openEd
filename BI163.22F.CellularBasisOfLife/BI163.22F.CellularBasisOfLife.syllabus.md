@@ -18,9 +18,9 @@ Office hours: Mondays 12-1pm, Tuesdays 4-5pm, Wednesdays 8-9am
 
 #### Learning Assistants
 
-- [Olivia Petrini-Poli](mailtp:ompetr25@colby.edu)
-- [Michelle Bechtel](mailtp:msbech25@colby.edu)
-- [Jamie Page](mailtp:jepage23@colby.edu)
+- [Olivia Petrini-Poli](mailto:ompetr25@colby.edu)
+- [Michelle Bechtel](mailto:msbech25@colby.edu)
+- [Jamie Page](mailto:jepage23@colby.edu)
 
 ### Course Description
 
