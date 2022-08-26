@@ -6,7 +6,7 @@
 
 #### Meeting times
 
-Tuesdays 1-4pm, [Olin 019B](https://map.colby.edu/)
+Tuesdays 1-4pm, [classroom TBD](https://map.colby.edu/)
 
 #### Instructor
 
@@ -20,7 +20,7 @@ Office hours: Mondays 12-1pm, Tuesdays 4-5pm, Wednesdays 8-9am
 
 [SC212](https://www.colby.edu/catalogue/courses/SC/) Intro to Statistics or instructor authorization. 
 
-> **Note that this course is not limited to biology majors!** Students in geology, CS, math, stats, anthropology, art, and other majors may find this course interesting and useful. SC212 is required because the course will employ some statistical methods for which a basic knowledge will be helpful. If you are interested in taking BI377 and have a knowledge of statistics comparable to what is presented in SC212 please [contact Dr. Angelini](mailto:dave.angelini@colby.edu) for authorization! 
+> **Note that this course is not limited to biology majors!** Students in geology, CS, math, stats, anthropology, art, and other majors may find this course interesting and useful. SC212 is required because the course will employ some statistical methods for which a basic knowledge will be helpful. If you are interested in taking BI377, haven't had SC212, but do have a comparable knowledge of statistics please [contact Dr. Angelini](mailto:dave.angelini@colby.edu) for authorization! 
 
 ### Learning Objectives
 
