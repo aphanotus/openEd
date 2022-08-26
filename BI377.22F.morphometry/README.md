@@ -18,7 +18,9 @@ Office hours: Mondays 12-1pm, Tuesdays 4-5pm, Wednesdays 8-9am
 
 ### Prerequisites
 
-[SC212](https://www.colby.edu/catalogue/courses/SC/) Intro to Statistics or instructor authorization
+[SC212](https://www.colby.edu/catalogue/courses/SC/) Intro to Statistics or instructor authorization. 
+
+> **Note that this course is not limited to biology majors!** Students in geology, CS, math, stats, anthropology, art, and other majors may find this course interesting and useful. SC212 is required because the course will employ some statistical methods for which a basic knowledge will be helpful. If you are interested in taking BI377 and have a knowledge of statistics comparable to what is presented in SC212 please [contact Dr. Angelini](mailto:dave.angelini@colby.edu) for authorization! 
 
 ### Learning Objectives
 
@@ -32,7 +34,7 @@ None.
 
 This course is intended to be a hands-on exploration of analytical methods. Classes will be a mixture of active lecture, student presentations, and digital / coding activities. Each student will be asked to make brief presentations of the primary literature at least twice during the semester. Because of the interactive nature of this course, attendance and engagement are critical. Please contact me if you anticipate an absence from class. Be aware that classes cannot be missed for an athletic practice. However, if your request is made in advance, I generally allow absences for an athletic contest. Poor attendance will negatively affect your participation grade and may result in an academic warning. During class, please be considerate of other students and make sure that any electronic device is muted. 
 
-This course will raise issues of sexism, racism and colonialism. While this course will focus on biology, the social history of the topic must be acknowledged as we seek to build a more antiracist community. Therefore, it is expected that conversations on these topics, while potentially uncomfortable, will be embraced with respect, compassion and mindful reflection. At any time, if anyone feels that readings, comments in discussion, or structures of the course treat these subjects inappropriately, that critique is welcomed, openly or privately. 
+This course will raise issues of sexism, racism and colonialism. While this course will focus on natural science, the social history of the topic must be acknowledged as we seek to build a more antiracist community. Therefore, it is expected that conversations on these topics, while potentially uncomfortable, will be embraced with respect, compassion and mindful reflection. At any time, if anyone feels that readings, comments in discussion, or structures of the course treat these subjects inappropriately, that critique is welcomed, openly or privately. 
 
 ### Digital platforms
 
@@ -64,11 +66,13 @@ Your final grade for the course will be calculated based on a 1000 point total a
 
 ### Accommodations for public health
 
-Cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to BI163 may include:
+Cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to this course include:
 
-- It may become necessary for the course to transition to a Zoom format at any time.
-- Office hours may be held on Zoom. Hours may need to be modified. 
-- If you become ill, please follow college policy and inform your advising dean as soon as possible.
+- If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html), including fever or chills, cough, fatigue and headache, please do not attend class in person.
+- Masking is optional, but strongly encouraged. I encourage everyone to mask while listening. While lecturing, I will not mask unless I show symptoms of flu or covid. Students are welcome to unmask to speak to one another or to the class. But exercise good judgement: Mask after recent travel, if you experience symptoms, or if you perceive symptoms in others nearby.
+- In the case of a covid case surge, it may become necessary for the course to transition to a Zoom format. In which case, changes to the syllabus may be necessary.
+- Office hours may be held on Zoom. Hours may need to be modified.
+- This policy may be modified as conditions change.
 
 ### Academic support
 
