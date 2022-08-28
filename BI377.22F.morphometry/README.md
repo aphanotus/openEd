@@ -6,7 +6,7 @@
 
 #### Meeting times
 
-Tuesdays 1-4pm, [classroom TBD](https://map.colby.edu/)
+Tuesdays 1-4pm, [Diamond 123](https://map.colby.edu/)
 
 #### Instructor
 
