@@ -7,7 +7,7 @@
 
 #### Meeting times
 
-Fridays 1-1:50 pm, **location TBD**
+Fridays 1-1:50 pm, [Lovejoy 207](https://map.colby.edu/)
 
 #### Instructor
 
