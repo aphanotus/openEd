@@ -92,8 +92,8 @@ There will be three lecture-based exams during the semester, including two mid-t
 
 Cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to BI163 include:
 
-- If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html), including fever or chills, cough, fatigue and headache, please do not attend class in person.
-- Masking is optional, but strongly encouraged. I encourage everyone to mask while listening. While lecturing, I will not mask unless I show symptoms of flu or covid. Students are welcome to unmask to speak to one another or to the class. But exercise good judgement: Mask after recent travel, if you experience symptoms, or if you perceive symptoms in others nearby.
+- If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html), including fever or chills, cough, fatigue and headache, do not attend class in person. Report these results using the CoVerified app or [web interface](https://campus.coverified.us/login). 
+- While in class, please wear a face mask, such as an [N-95](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) or similar design.
 - In the case of a covid case surge, it may become necessary for the course to transition to a Zoom format. In which case, changes to the syllabus may be necessary.
 - Office hours may be held on Zoom. Hours may need to be modified.
 - This policy may be modified as conditions change.

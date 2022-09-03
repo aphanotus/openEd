@@ -54,7 +54,7 @@ A tradition in science is that when researchers publish exciting results, they m
 | Nov 4 | Student-led discussion |
 | Nov 11 | Student-led discussion |
 | Nov 18 | Student-led discussion |
-| Dec 2 | Student-led discussion |
+| Dec 2 | Visiting speaker: [Will Sander](https://online.vetmed.illinois.edu/william-sander), University of Illinois College of Veterinary Medicine, hosted by [Russell Johnson](https://www.colby.edu/directory/profile/russ.johnson/) and [Dave Angelini](https://www.colby.edu/directory/profile/dave.angelini/) |
 | Dec 9 | Concluding group discussion |
 
 ### Grading
@@ -77,10 +77,11 @@ Final grades for this course will be assigned based on the quality of your prepa
 
 Discussion with your peers is important to the learning objectives of this course. Nevertheless, the COVID-19 pandemic presents an on-going danger to public health. Cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to BI401A include:
 
-- Invited speakers will appear digitally. Whenever possible, their presentations will be recorded.
-- It may become necessary for the course to transition to a Zoom format at any time.
-- Office hours may be held on Zoom. Hours may need to be modified. 
-- If you become ill, please follow college policy and inform your advising dean as soon as possible.
+- If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html), including fever or chills, cough, fatigue and headache, do not attend class in person. Report these results using the CoVerified app or [web interface](https://campus.coverified.us/login). 
+- While in class, please wear a face mask, such as an [N-95](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) or similar design.
+- In the case of a covid case surge, it may become necessary for the course to transition to a Zoom format. In which case, changes to the syllabus may be necessary.
+- Office hours may be held on Zoom. Hours may need to be modified.
+- This policy may be modified as conditions change.
 
 ### Sustainability 
 
