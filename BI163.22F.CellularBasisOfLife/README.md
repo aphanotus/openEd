@@ -54,12 +54,12 @@ No individual extra credit assignments will be offered.
 
 #### Lecture grades
 
-| component                    | percent of course grade |
-|:---------------------------- |:-----------------------:|
-| Exam 1                       | 17%                     |
-| Exam 2                       | 22%                     |
-| Exam 3 (final)               | 26%                     |
-| graded assignments / quizzes | 10%                     |
+| component      | percent of course grade |
+| :------------- | :---------------------: |
+| Quizzes        |           10%           |
+| Exam 1         |           17%           |
+| Exam 2         |           22%           |
+| Exam 3 (final) |           26%           |
 
 #### Final course grades
 
@@ -82,11 +82,11 @@ Moodle ( http://moodle.colby.edu/ ) will be the primary electronic method of con
 ### Exams
 There will be three lecture-based exams during the semester, including two mid-term exams and one final comprehensive (cumulative) exam covering the whole semester. These exams will be closed-book, closed-note, individual-effort exams. Leave all electronic devices out of the room. Exams will take place on the following days (note the evening times of the first two): 
 
-| exam       | date                        | time  | location |
-|:---------- |:--------------------------- |:----- |:-------- |
-| Exam 1     | **TBD**: week of October 3  | 7-9pm | TBD      |
-| Exam 2     | **TBD**: week of November 7 | 7-9pm | TBD      |
-| Final Exam | **TBD**: December 14-19     | TBD   | TBD      |
+| exam       | date                                  | time  | location |
+| :--------- | :------------------------------------ | :---- | :------- |
+| Exam 1     | Wednesday, October 5                  | 7-9pm | Olin 001 |
+| Exam 2     | Wednesday, November 9                 | 7-9pm | Olin 001 |
+| Final Exam | **TBD**: December 14-19 (finals week) | TBD   | TBD      |
 
 ### Accommodations for public health
 
@@ -127,12 +127,12 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 | Sept 12     | Lipids              | 2; 6            |                                  |
 | Sept 19     | Proteins            | 3               |                                  |
 | Sept 26     | Enzymes             | 8               |                                  |
-| Oct 3       | Cell structure      | 7               | Exam 1, details TBD              |
+| Oct 3       | Cell structure      | 7               | Exam 1 on Wednesday (Oct 5)      |
 | Oct 10      | Cellular repiration | 9               |                                  |
 | Oct 17      | Photosynthesis      | 10              | Fall Break, no class Oct 17      |
 | Oct 24      | Nucleic Acids       | 4               |                                  |
 | Oct 31      | Cell division       | 12              |                                  |
-| Nov 7       | DNA replication     | 15              | Exam 2, details TBD              |
+| Nov 7       | DNA replication     | 15              | Exam 2 on Wednesday (Nov 9)      |
 | Nov 14      | DNA repair          | 15              |                                  |
 | Nov 21      | Transcription       | 16              | Thanksgiving, no class Nov 23-25 |
 | Nov 28      | Translation         | 17              |                                  |
