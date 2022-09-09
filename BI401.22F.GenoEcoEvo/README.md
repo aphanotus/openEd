@@ -44,12 +44,12 @@ A tradition in science is that when researchers publish exciting results, they m
 | date | activity |
 |:----:|:------------- |
 | Sept 9 | Introductions |
-| Sept 16 | Visiting speaker: [Brad Davidson](https://www.swarthmore.edu/profile/bradley-davidson), Swarthmore College, hosted by [Christina Cota](https://www.colby.edu/directory/profile/christina.cota/) |
+| Sept 16 | Visiting speaker: [Brad Davidson](https://www.swarthmore.edu/profile/bradley-davidson), Swarthmore College, hosted by [Christina Cota](https://www.colby.edu/directory/profile/christina.cota/). "The Biology of Reincarnation: How one genome programs four distinct bodies in chordate doliolids" |
 | Sept 23 | Selection of articles for discussion |
 | Sept 30 | Student-led discussion |
 | Oct 7 | Student-led discussion |
 | Oct 14 | Student-led discussion |
-| Oct 21 | Student-led discussion |
+| Oct 21 | Visiting speaker: [Andrew Mountcastle](https://www.bates.edu/faculty-expertise/profile/andrew-m-mountcastle/), Bates College, hosted by [Josh Martin](https://www.colby.edu/directory/profile/joshua.martin/) |
 | Oct 28 | Student-led discussion |
 | Nov 4 | Student-led discussion |
 | Nov 11 | Student-led discussion |
