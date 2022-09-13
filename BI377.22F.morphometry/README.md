@@ -100,7 +100,7 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 
 | date | quiz | topic of the day | reading (completed in advance) | in-class activity | exercise (complete before next class) |
 |:---- |:----:|:---------------- |:------------------------------ |:---- |:--- |
-| Sept 13 |  | Introductions & Overview |  | Markdown; Refresher on R | 1. Markdown & R |
+| Sept 13 |  | Introductions & Overview |  | Markdown; [Refresher on R](https://hackmd.io/@ColbyBI377/Rtutorial) | 1. Markdown & R |
 | Sept 20 |  | Open science; Measurement; Hypothesis testing | [O'Dea et al. 2021](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01006-3); [Ross-Hellauer 2022](https://www.nature.com/articles/d41586-022-00724-0); Nguyen 2021 ([abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12823) or [video](https://www.youtube.com/watch?v=8JEzXL5OXPI)); Kondrashov 2016 p9-25, 60-69, 75-100 | Distributions; Sampling; Tests of variance | 2. Descriptive statistics, hypothesis testing |
 | Sept 27 | 1 | Sampling; ANOVA | Salsburg Ch TBD; [Forstmeier et al. 2016](https://doi.org/10.1111/brv.12315) | Data curation; univariate ANOVA | 3. Data curation; univariate ANOVA |
 | Oct 4 |  | Intro to geometric morphometrics | Zelditch et al. 2012 (p1-17, 23-35) | Landmark-based digitization | 4. Anatomical digitization |
