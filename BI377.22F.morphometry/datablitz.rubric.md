@@ -4,16 +4,17 @@ Short presentations of data are becoming more common at professional conferences
 
 | points | criteria                                        |
 | :----: | :---------------------------------------------- |
-|  0-3   | Explained the study’s main purpose              |
-|  0-3   | Explained necessary background                  |
-|  0-3   | Explained the rationale for methods             |
-|  0-3   | Results were depicted clearly in a single slide |
-|  0-3   | Explained the interpretation of results         |
-|  0-3   | Explained signifiance of the conclusions        |
-|  0-3   | Presentation was organized                      |
-|  0-3   | Presentation was 5 minutes                      |
-|   1    | Presenting on the scheduled date                |
-| **25** | **maximum points to be earned**                 |
+|  0-5   | Explained the study’s main purpose              |
+|  0-5   | Explained necessary background                  |
+|  0-5   | Explained the rationale for methods             |
+|  0-5   | Results were depicted clearly in a single slide |
+|  0-5   | Explained the interpretation of results         |
+|  0-5   | Explained significance of the conclusions       |
+|  0-5   | Included appropriate critiques or criticisms    |
+|  0-5   | Presentation was organized                      |
+|  0-5   | Presentation was 5 minutes                      |
+|  0-5   | Presenting on the scheduled date                |
+| **50** | **maximum points to be earned**                 |
 
 
 
@@ -21,5 +22,7 @@ Short presentations of data are becoming more common at professional conferences
 | :----: | :------------------------------------- |
 |   0    | missing                                |
 |   1    | significant improvements are necessary |
-|   2    | improvements are possible              |
-|   3    | very good                              |
+|   2    | improvements are necessary             |
+|   3    | some improvements are possible         |
+|   4    | very good                              |
+|   5    | no improvements are necessary          |
