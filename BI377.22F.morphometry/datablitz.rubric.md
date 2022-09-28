@@ -5,13 +5,13 @@ Short presentations of data are becoming more common at professional conferences
 | points | criteria                                        |
 | :----: | :---------------------------------------------- |
 |  0-3   | Explained the study’s main purpose              |
-|  0-4   | Explained necessary background                  |
-|  0-5   | Explained the rationale for methods             |
-|  0-6   | Results were depicted clearly in a single slide |
-|  0-7   | Explained the interpretation of results         |
-|  0-8   | Explained signifiance of the conclusions        |
-|  0-9   | Presentation was organized                      |
-|  0-10  | Presentation was 5 minutes                      |
+|  0-3   | Explained necessary background                  |
+|  0-3   | Explained the rationale for methods             |
+|  0-3   | Results were depicted clearly in a single slide |
+|  0-3   | Explained the interpretation of results         |
+|  0-3   | Explained signifiance of the conclusions        |
+|  0-3   | Presentation was organized                      |
+|  0-3   | Presentation was 5 minutes                      |
 |   1    | Presenting on the scheduled date                |
 | **25** | **maximum points to be earned**                 |
 
