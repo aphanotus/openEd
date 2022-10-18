@@ -16,13 +16,10 @@ ggplot(penguins, aes(x=body_mass_g)) +
 # - Normal distribution of the data
 # - Absence of outliers
 
-# Independence of the samples
-# 
-# Well, we have no reason to assume the measurement 
-# of one penguin species should influence the
-# measurement of another...
 
 # Equal sample sizes?
+
+penguins
 
 penguins %>% 
   filter(!is.na(body_mass_g)) %>% 
@@ -77,13 +74,14 @@ shapiro.test(log(gentoo.mass))
 
 # Absence of outliers?
 
-IQR(adelie.mass)
+boxplot(penguins$body_mass_g ~ penguins$species)
+
+# Or... 
 
 are.there.outliers <- function(x) {
-  any(
-    x < quantile(x, 0.25) - 1.5*IQR(x) |
-    x > quantile(x, 0.75) + 1.5*IQR(x)
-  )
+    any(x < quantile(x, 0.25) - 1.5*IQR(x)) 
+    |
+    any(x > quantile(x, 0.75) + 1.5*IQR(x))
 }
 
 are.there.outliers(adelie.mass)
@@ -101,18 +99,13 @@ which.outliers(chin.mass)
 
 i <- which.outliers(chin.mass)
 
-penguins[i,]
-# OOPS!
-
 penguins %>% 
   filter(species == "Chinstrap") %>% 
   slice(i)
 
 
-
 # Let's try ANOVA anyway!
 
-# By species
 ggplot(penguins, aes(x=body_mass_g)) +
   theme_bw() +
   facet_grid( species ~ . ) +
@@ -127,7 +120,6 @@ summary(aov.species)
 # Post hoc tests: Which species actually differ?
 
 TukeyHSD(aov.species)
-
 
 
 # Two-way ANOVA by species and sex
@@ -169,15 +161,23 @@ with(penguins,
 
 
 # Non-parametric ANOVA: The Kruskal-Wallis Rank Sum Test
-kw.species <- kruskal.test(body_mass_g ~ species, data = penguins)
-kw.species
+kruskal.test(body_mass_g ~ species, data = penguins)
 
 # Post hoc
 wilcox.test(adelie.mass, chin.mass)
 wilcox.test(gentoo.mass, chin.mass)
 wilcox.test(adelie.mass, gentoo.mass)
 
-# Multifactor designs are not possible with the KWRST
+library(dunn.test)
+
+dunn.test(penguins$body_mass_g, penguins$species, method = "bh")
+
+with(penguins, 
+  dunn.test(body_mass_g, species)
+)
+
+
+# Multi-factor designs are not possible with the KWRST
 kw.sp.sex <- kruskal.test(body_mass_g ~ species + sex, data = penguins)
 
 # but...
@@ -189,5 +189,4 @@ pen2 <- penguins %>%
   filter(!is.na(sex)) %>% 
   mutate(sp.sex = paste(species, sex, sep = "."))
 
-kw.sp.sex <- kruskal.test(body_mass_g ~ sp.sex, data = pen2)
-kw.sp.sex
+kruskal.test(body_mass_g ~ sp.sex, data = pen2)
