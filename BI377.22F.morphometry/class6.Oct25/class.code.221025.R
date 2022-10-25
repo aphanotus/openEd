@@ -183,26 +183,6 @@ blinded.metadata <- read.csv("bi377.demo.borealis.v.fervidus.metadata.csv")
 blinded.metadata
 
 
-# Forewing PCA
-pca.fw <- gm.prcomp(gpa.fw$gdf$coords)
-pcvar(pca.fw)
-
-shape.space(pca.fw, group = blinded.metadata$species, convex.hulls = TRUE, 
-            include.legend = TRUE, group.title = "species")
-
-species <- rep(blinded.metadata$species,8)
-
-shape.space(pca.fw, group = species, convex.hulls = TRUE, 
-            include.legend = TRUE, group.title = "species")
-
-shape.space(pca.fw, group = species, convex.hulls = TRUE, 
-            include.legend = TRUE, group.title = "species",
-            axis1 = 1, axis2 = 3)
-
-shape.space(pca.fw, group = species, convex.hulls = TRUE, 
-            include.legend = TRUE, group.title = "species",
-            backtransform.examples = TRUE,
-            ref.shape = gpa.fw$consensus)
 
 
 
