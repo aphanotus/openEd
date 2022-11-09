@@ -101,17 +101,17 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 | date | quiz | topic of the day | reading (completed in advance) | in-class activity | exercise (complete before next class) |
 |:---- |:----:|:---------------- |:------------------------------ |:---- |:--- |
 | Sept 13 |  | Introductions & Overview |  | Markdown; [Refresher on R](https://hackmd.io/@ColbyBI377/Rtutorial) | 1. Markdown & R |
-| Sept 20 |  | Open science; Measurement; Hypothesis testing | [O'Dea et al. 2021](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01006-3); [Ross-Hellauer 2022](https://www.nature.com/articles/d41586-022-00724-0); Nguyen 2021 ([abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12823) or [video](https://www.youtube.com/watch?v=8JEzXL5OXPI)); Kondrashov 2016 p9-25, 60-69, 75-100 | Distributions; Sampling; Tests of variance | 2. Descriptive statistics, hypothesis testing |
-| Sept 27 | 1 | Sampling; ANOVA | Salsburg Ch TBD; [Forstmeier et al. 2016](https://doi.org/10.1111/brv.12315) | Data curation; univariate ANOVA | 3. Data curation; univariate ANOVA |
-| Oct 4 |  | Intro to geometric morphometrics | Zelditch et al. 2012 (p1-17, 23-35) | Landmark-based digitization | 4. Anatomical digitization |
-| Oct 11 | 2 | Procrustes alignment | Zelditch et al. 2012 (p51, 53-57) | Procrustes alignment | 5. Procrustes alignment |
-| Oct 25 |  | Morphospace; Ordination | Zelditch et al. 2012 (p59-60, 62-67, 69-73) | Tree-thinking; PCA | 6. PCA |
-| Nov 1 | 3 | Generalized linear modeling | Kondrashov 2016 (pages TBA) | Advanced alignment methods | 7. GLM |
-| Nov 8 |  | Logistic and beta regression | [Peck et al. 2017](https://doi.org/10.1128/JB.00303-17); TBA | Residual plots; Visit the Museum | 8. Analysis of color data |
-| Nov 15 | 4 | Modeling in a phylogenetic context | TBA | PIC & PGLS | 9. PGLS |
-| Nov 22 |  | History and social impacts of morphometry | Zimmer 2018 (pages TBA) | Work on final projects | 10. Data-gathering |
-| Nov 29 | 5 | Writing workshop | TBA | Writing workshop |  |
-| Dec 6 |  |  |  | Final presentations | Final project due |
+| Sept 20 |  | Open science; Measurement; Hypothesis testing | [O'Dea et al. 2021](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01006-3); [Ross-Hellauer 2022](https://www.nature.com/articles/d41586-022-00724-0); Nguyen 2021 ([abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12823) or [video](https://www.youtube.com/watch?v=8JEzXL5OXPI)); Kondrashov 2016 (p9-25, 60-69, 75-100) | Distributions; Sampling; Tests of variance | 2. Descriptive statistics, hypothesis testing |
+| Sept 27 |  | Sampling; ANOVA | Salsburg Ch TBD; [Forstmeier et al. 2016](https://doi.org/10.1111/brv.12315) | Data curation; univariate ANOVA | 3. Data curation; univariate ANOVA |
+| Oct 4 | 1 | Intro to geometric morphometrics | Zelditch et al. 2012 (p1-17, 23-35) | Landmark-based digitization | 4. Anatomical digitization |
+| Oct 18 |  | Procrustes alignment | Zelditch et al. 2012 (p51, 53-57) | GPA | 5. GPA |
+| Oct 25 | 2 | Morphospace; Ordination | Zelditch et al. 2012 (p59-60, 62-67, 69-73, 75-102) | PCA | 6. PCA |
+| Nov 1 |  | Generalized linear modeling | Kondrashov 2016 (p 177-196) | [Tree thinking](https://www.science.org/doi/10.1126/science.1117727) | 7. GLM |
+| Nov 8 | 3 | Colorimetry; Residual plots | [Peck et al. 2017](https://doi.org/10.1128/JB.00303-17) Suppl.; [Weller & Westneat 2019](https://peerj.com/articles/6398/) | [Visit the Museum](https://museum.colby.edu/education-and-engagement/colby-faculty/) | 8. Planning final projects |
+| Nov 15 |  | Phylogenetic context | Symonds & Blomberg 2014 | PGLS | 9. PGLS |
+| Nov 22 | 4 | History and social impacts | Zimmer 2018 (pages TBA) | Work on final projects | 10. Data-gathering |
+| Nov 29 |  | Writing workshop | TBA | Writing workshop |  |
+| Dec 6 | 5 |  |  | Final presentations | Final project due |
 
 
 ---
