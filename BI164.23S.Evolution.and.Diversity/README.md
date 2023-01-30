@@ -139,7 +139,7 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 | March 27 | Phenotypic evolution | 22.0-5; 23.3 |  |
 | April 3 | Macroevolution | 25.0-4 |  |
 | April 10 | Speciation | 24.0-3 | Midterm 3 is Thursday evening |
-| April 17 | Plants | 28.1-3-4 |  |
-| April 24 | Animals | 25.3; 30.1-2,4; 31.1-3; 32.1-4 |  |
-| May 1 | Ecology | 49.0-5; 52.0-4; 54.0-4 |  |
+| April 17 | Ecology | 49.0-5; 52.0-4; 54.0-4 |  |
+| April 24 | Plants | 28.1-3-4 |  |
+| May 1 | Animals | 25.3; 30.1-2,4; 31.1-3; 32.1-4 |  |
 
