@@ -28,17 +28,16 @@ Biological diversity supports the existence of life itself. It is also a source 
 
 ### Course Objectives
 
-1. Understand the general principles of inheritance 
-2. Understand the general principles of population genetics and the processes that cause changes in gene frequencies
-3. Understand the patterns of macroevolution
-4. Survey the patterns of biodiversity using a phylogenetic framework
-5. Understand the ecological interactions that promote and maintain biological diversity
+1. Understand the philosophy of science and scientific methodologies as they are applied in biology
+2. Understand the general principles of evolutionary biology, including heritability, genetic and phenotypic variability and how they change over time, speciation and species interactions.
+3. Build foundational knowledge of biological diversity at multiple levels of organization
+4. Develop skills in laboratory techniques, data analysis, and scientific writing
 
 #### Required textbook
 
 *Biological Science*, Scott Freeman, et al., 6th edition. <a href="https://www.amazon.com/Biological-Science-6th-Scott-Freeman/dp/0321976495/" target="_blank">[Amazon]</a> <a href="https://www.powells.com/book/biological-science-9780321976499" target="_blank">[Powells]</a>
 
-You should read the assigned chapters or pages before or immediately after the corresponding class period. Students are encouraged to purchase used copies of the textbook. Any additional readings will be provided via Moodle.
+You should complete the assigned readings before each class. Reading in advance will allow you to engage in that day's activities. Students are encouraged to purchase used copies of the textbook. Any additional readings will be provided via Moodle.
 
 ### Laboratory
 
@@ -58,12 +57,12 @@ No individual extra credit assignments will be offered.
 
 | component                           | points |
 | :---------------------------------- | :----: |
+| Lab                                 |  250   |
+| Quizzes                             |  100   |
+| Assignments and class participation |  130   |
 | Midterm exams (3, 130 pts each)     |  390   |
 | Final exam                          |  130   |
-| Assignments and class participation |  130   |
-| Quizzes                             |  100   |
-| Lab                                 |  250   |
-| **total**                           | 1,000  |
+| **total**                          | 1,000  |
 
 #### Final course grades
 
@@ -131,13 +130,13 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 | February 1 | Evolution & Diversity | Freeman Ch. 1.3-6 |  |
 | February 6 | Heredity | 13.0-2; 14.0-5; 16.0-4 | No class on Feb. 6 |
 | February 13 | Variation | 23.6, 51.2; Jablonka & Lamb p140–152 |  |
-| February 20 | Viruses & Prokaryotes | 33.1,3-4; 25.2,4; 26.0-1,3-4 | Midterm 1 is Tuesday evening |
+| February 20 | Viruses & Prokaryotes | 33.1,3-4; 26.0-1,3-4 | Midterm 1 is Tuesday evening |
 | February 27 | Microevolution | 23.0-2,4 |  |
 | March 6 | Population genetics | 23.5 |  |
 | March 13 | Protists & Fungi | 27.1,3-4; 29.1,3-4 | Midterm 2 is Wednesday evening |
 | March 20 | **Spring Break** |  |  |
 | March 27 | Phenotypic evolution | 22.0-5; 23.3 |  |
-| April 3 | Macroevolution | 25.0-4 |  |
+| April 3 | Macroevolution | 25.0-4; 21.5 |  |
 | April 10 | Speciation | 24.0-3 | Midterm 3 is Thursday evening |
 | April 17 | Ecology | 49.0-5; 52.0-4; 54.0-4 |  |
 | April 24 | Plants | 28.1-3-4 |  |
