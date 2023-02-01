@@ -87,9 +87,9 @@ There will be three midterm exams during the semester, and one comprehensive (cu
 
 | exam       | date                 | time        | location |
 | :--------- | :------------------- | :---------- | :------- |
-| Midterm 1  | Tuesday, February 21 | 6:00-7:30pm | TBD      |
-| Midterm 2  | Wednesday, March 15  | 6:00-7:30pm | TBD      |
-| Midterm 3  | Thursday, April 13   | 6:00-7:30pm | TBD      |
+| Midterm 1  | Tuesday, February 21 | 6:00-7:30pm | Olin 001 |
+| Midterm 2  | Wednesday, March 15  | 6:00-7:30pm | Olin 001 |
+| Midterm 3  | Thursday, April 13   | 6:00-7:30pm | Olin 001 |
 | Final Exam | **TBD**: finals week | TBD         | TBD      |
 
 ### Accommodations for public health
