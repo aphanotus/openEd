@@ -129,7 +129,7 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 |:--- |:--- |:--- |:--- |
 | February 1 | Evolution & Diversity | Freeman Ch. 1.3-6 |  |
 | February 6 | Heredity | 13.0-2; 14.0-5; 16.0-4 | No class on Feb. 6 |
-| February 13 | Variation | 23.6, 51.2; Jablonka & Lamb p140–152 |  |
+| February 13 | Variation | 23.6, 51.2 |  |
 | February 20 | Viruses & Prokaryotes | 33.1,3-4; 26.0-1,3-4 | Midterm 1 is Tuesday evening |
 | February 27 | Microevolution | 23.0-2,4 |  |
 | March 6 | Population genetics | 23.5 |  |
