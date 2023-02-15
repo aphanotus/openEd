@@ -18,9 +18,20 @@ Office hours: Mondays 12-1pm and Tuesdays 10am-12pm, or by appointment
 
 #### Learning Assistants
 
-- [Grace Meikle](gsmeik22@colby.edu)
-- [Jackie Ortiz Lopez](jortiz25@colby.edu)
-- [Paige Bolyard](plboly25@colby.edu)
+- [Grace Meikle](mailto:gsmeik22@colby.edu)
+- [Jackie Ortiz Lopez](mailto:jortiz25@colby.edu)
+- [Paige Bolyard](mailto:plboly25@colby.edu)
+
+##### LA Sessions
+
+The LAs will provide drop-in sessions (DRIPS) where students can bring questions or ask to review specific topics. LA Plus Sessions (LAPS) are organized by the LAs to provide specific skill development.
+
+| session             | day        | time        | location         |
+| ------------------- | ---------- | ----------- | ---------------- |
+| Drop-In with Grace  | Tuesdays   | 3:30-4:30pm | Miller 1st floor |
+| LA Plus             | Tuesdays   | 8-9pm       | **TBD**          |
+| Drop-In with Paige  | Wednesdays | 8-9pm       | Olin 019         |
+| Drop-In with Jackie | Thursdays  | 8-9pm       | Miller 1st floor |
 
 ### Course Description
 
