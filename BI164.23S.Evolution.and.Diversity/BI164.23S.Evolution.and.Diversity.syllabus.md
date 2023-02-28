@@ -96,12 +96,12 @@ Moodle ( http://moodle.colby.edu/ ) will be the primary electronic method of con
 ### Exams
 There will be three midterm exams during the semester, and one comprehensive (cumulative) final exam covering the whole semester. Midterm exams will be closed-book, closed-note, individual-effort exams.
 
-| exam       | date                 | time        | location |
-| :--------- | :------------------- | :---------- | :------- |
-| Midterm 1  | Tuesday, February 21 | 6:00-7:30pm | Olin 001 |
-| Midterm 2  | Wednesday, March 15  | 6:00-7:30pm | Olin 001 |
-| Midterm 3  | Thursday, April 13   | 6:00-7:30pm | Olin 001 |
-| Final Exam | **TBD**: finals week | TBD         | TBD      |
+| exam       | date                 | time         | location |
+| :--------- | :------------------- | :----------- | :------- |
+| Midterm 1  | Tuesday, February 21 | 6:00-7:30pm  | Olin 001 |
+| Midterm 2  | Wednesday, March 15  | 6:00-7:30pm  | Olin 001 |
+| Midterm 3  | Thursday, April 13   | 6:00-7:30pm  | Olin 001 |
+| Final Exam | Thursday, May 11     | 9:00-11:30am | TBD      |
 
 ### Accommodations for public health
 
