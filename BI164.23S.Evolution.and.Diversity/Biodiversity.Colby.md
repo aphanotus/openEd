@@ -27,31 +27,33 @@ An important goal of *BI164 Evolution and Diversity* is to appreciate to amazing
 
 ### Taxon-specific awards
 
-| title | points | description |
+These awards ago to the student who submits the most species in each taxon below.
+
+| title | points | taxon |
 |:--- |:---:|:--- |
-| Master of Most Mammals | 3 | Most species of mammals |
-| Dinosaur Hunter | 3 | Most species of birds |
-| Herp Hero | 3 | Most species of amphibians |
-| Award for Aquatic Awesomeness | 3 | Most species of fish |
-| Seasquirter | 3 | Most species of urochordates |
-| Excellence in Echinoderms | 3 | Most species of echinoderms |
-| Master of Metamorphosis | 3 | Most species of holometabolous insect |
-| Best in Bugs | 3 | Most species of hemimetabolous insect |
-| Worm Warrior | 3 | Most species of annelids |
-| Award for Finding Nematodes | 3 | Most species of nematodes |
-| Green Beret | 3 | Most species of dicots |
-| Greatest in Grass | 3 | Most species of monocots |
-| Pine Tree State Champion | 3 | Most species of conifers |
-| Fern Fiend | 3 | Most species of Pteridophytes |
-| Moss Master | 3 | Most species of Bryophytes |
-| Super Spore | 3 | Most species of Ascomycota |
-| Master of Mycology | 3 | Most species of Basidiomycota |
-| Most Symbiotic | 3 | Most species of lichen |
-| Kelp Keeper | 3 | Most species of Chromista |
-| Red Badge of Honor | 3 | Most species of Rhodophyta |
-| Master of Miscellaneous | 3 | Most species of unicellular eukaryotes |
-| Woese Award for Effort | 3 | Most species of Archaea |
-| Frank Fekete Award for Bacteriology | 3 | Most species of Bacteria |
+| Master of Most Mammals | 3 | mammals |
+| Dinosaur Hunter | 3 | birds |
+| Herp Hero | 3 | amphibians |
+| Award for Aquatic Awesomeness | 3 | fish |
+| Seasquirter | 3 | urochordates |
+| Excellence in Echinoderms | 3 | echinoderms |
+| Master of Metamorphosis | 3 | holometabolous insect |
+| Best in Bugs | 3 | hemimetabolous insect |
+| Worm Warrior | 3 | annelids |
+| Award for Finding Nematodes | 3 | nematodes |
+| Green Beret | 3 | dicots |
+| Greatest in Grass | 3 | monocots |
+| Pine Tree State Champion | 3 | conifers |
+| Fern Fiend | 3 | Pteridophytes |
+| Moss Master | 3 | Bryophytes |
+| Super Spore | 3 | Ascomycota |
+| Master of Mycology | 3 | Basidiomycota |
+| Most Symbiotic | 3 | lichen |
+| Kelp Keeper | 3 | Chromista |
+| Red Badge of Honor | 3 | Rhodophyta |
+| Master of Miscellaneous | 3 | unicellular eukaryotes |
+| Woese Award for Effort | 3 | Archaea |
+| Frank Fekete Award for Bacteriology | 3 | Bacteria |
 
 ### Other awards
 
@@ -67,8 +69,10 @@ An important goal of *BI164 Evolution and Diversity* is to appreciate to amazing
 
 ### Rules
 
+- Observations must be submitted by May 9.
 - Remember, this is meant to be fun! (and educational)
 - Students must submit their own observations and must provide a reasonable identification for each organism.
+- New awards may be added at any time.
 - In the case of a tie, winners will split the point value, rounded up.
 - Runners-up will receive the award value -1 point.
 - To count towards an award, organisms must be in their natural environment. (Greenhouses, zoos, aquariums, natural history collections, etc. don't count.)
