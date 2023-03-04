@@ -7,8 +7,9 @@ For Spring 2023 students in [BI164C](https://github.com/aphanotus/openEd/blob/ma
 ## How to get involved?
 
 1. **Create an account with [iNaturalist](https://www.inaturalist.org/)**. It's free and your participation as a citizen scientist will benefit environmental research! Download the app to your smart device or create an account at https://www.inaturalist.org/ 
-2. **Join [Biodiversity Colby](https://www.inaturalist.org/projects/biodiversity-colby)**. Enter "Biodiversity Colby" in the search box at the top of the iNaturalist webpage. On the app, select Projects, then the search icon and enter "Biodiversity Colby". Select the project and tap Join.
-3. **Upload pictures of living things**. Use your cell phone's camera or any other digital camera. You can upload "Observations" from within the iNaturalist app, either in real time or from your photo reel. Digital camera photos can be transferred to a computer and uploaded on the iNaturalist website. 
+[![](/Users/drangeli/Documents/5.teaching/openEd/BI164.23S.Evolution.and.Diversity/iNat.x500.png)](https://www.inaturalist.org/ )
+3. **Join [Biodiversity Colby](https://www.inaturalist.org/projects/biodiversity-colby)**. Enter "Biodiversity Colby" in the search box at the top of the iNaturalist webpage. On the app, select Projects, then the search icon and enter "Biodiversity Colby". Select the project and tap Join.
+4. **Upload pictures of living things**. Use your cell phone's camera or any other digital camera. You can upload "Observations" from within the iNaturalist app, either in real time or from your photo reel. Digital camera photos can be transferred to a computer and uploaded on the iNaturalist website. 
 
 All members of the Colby College Community are welcome to participate!
 
