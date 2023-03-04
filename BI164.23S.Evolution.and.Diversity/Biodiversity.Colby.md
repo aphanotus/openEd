@@ -78,5 +78,5 @@ These awards ago to the student who submits the most species in each taxon below
 - To count towards an award, organisms must be in their natural environment. (Greenhouses, zoos, aquariums, natural history collections, etc. don't count.)
 - The total for bonus points from this project will be capped at 25 points per student.
 
-- Dr. Angelini has ultimate discretion to deter all outcomes of this competition, including judgements of "cuteness" and "danger".
+- Dr. Angelini has ultimate discretion to determine all outcomes of this competition, including judgements of "cuteness" and "danger".
 
