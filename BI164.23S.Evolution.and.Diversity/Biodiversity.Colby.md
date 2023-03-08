@@ -71,12 +71,12 @@ These awards ago to the student who submits the most species in each taxon below
 ### Rules
 
 - Remember, this is meant to be fun! (and educational)
-- Observations must be submitted to iNaturalist between March 6 and May 9, 2023.
+- Observations must be submitted to iNaturalist between March 8 and May 9, 2023.
 - Students must submit their own observations 
 - Students must provide a reasonable identification of each organism at the time it is submitted. However, the observation will count towards the taxon that the iNaturalist community ultimately identifies it as.
 - To count towards an award, organisms must be in their natural environment. (Greenhouses, zoos, aquariums, natural history collections, etc. don't count.) 
 - Humans and pets cannot be submitted as observations.
-- New awards may be added at any time.
+- New awards may be added at any time!
 - In the event of a tie, winners will split the point value, rounded up.
 - Runners-up will receive the award value -1 point.
 - The total for bonus points from this project will be capped at 20 points per student.
@@ -88,5 +88,5 @@ These awards ago to the student who submits the most species in each taxon below
 - You don't need to venture far away! Plenty of organisms live right beside us if you just look up or down, and slow down to be observant. 
 - It's always a good idea to go in a group when venturing into natural areas. If you are unfamiliar with outdoor activities please seek the advice of more experienced people.
 - This activity is meant to be fun and friendly. So please cheer on your classmates!
-- If you collect organisms that are microscopic, talk with Dr. Angelini or your lab instructor able using a microscope to take pictures. Please realize that this might not always be possible due to timing or logistic constraints.
-- The list above is really long! It's not expected that you make observations of all of those taxa. This activity is not meant to take up all your time.
+- If you collect organisms that are microscopic, talk with Dr. Angelini or your lab instructor about using a microscope to take pictures. Please realize that this might not always be possible due to timing or logistical constraints.
+- The list of taxa above is really long! It's not expected that you should make observations of every one! This activity is not meant to take up all of your time!
