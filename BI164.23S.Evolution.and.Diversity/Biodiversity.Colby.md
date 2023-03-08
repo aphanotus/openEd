@@ -14,7 +14,7 @@ All members of the Colby College Community are welcome to participate!
 
 ## BI164 BioBlitz
 
-An important goal of *[BI164 Evolution and Diversity](https://github.com/aphanotus/openEd/blob/main/BI164.23S.Evolution.and.Diversity/BI164.23S.Evolution.and.Diversity.syllabus.md)* is to appreciate to amazing range of living things. Towards that end, extra credit (bonus points) will be awarded to students involved in this project, with special bonuses for project leaders.
+An important goal of *[BI164 Evolution and Diversity](https://github.com/aphanotus/openEd/blob/main/BI164.23S.Evolution.and.Diversity/BI164.23S.Evolution.and.Diversity.syllabus.md)* is to appreciate the amazing range of living things. Towards that end, extra credit (bonus points) will be awarded to students involved in this project, with special bonuses for project leaders.
 
 ### Participation awards
 
@@ -59,7 +59,7 @@ These awards ago to the student who submits the most species in each taxon below
 | title | points | description |
 |:--- |:---:|:--- |
 | Herald of Spring | 5 | Earliest [bumble bee](https://www.inaturalist.org/taxa/52775-Bombus) observation of the year |
-| Local Legend | 5 | Most observations made on [Colby's c campus grounds](https://www.google.com/maps/@44.5638729,-69.6670136,1443m/data=!3m1!1e3) |
+| Local Legend | 5 | Most observations made on [Colby's campus grounds](https://www.google.com/maps/@44.5638729,-69.6670136,1443m/data=!3m1!1e3) |
 | World Traveler | 3 | Most distant or remote observation |
 | Go-Getter | 5 | Most observations made before March 20 |
 | Early Riser | 3 | Most observations made between 5:00am and 8:00am |
