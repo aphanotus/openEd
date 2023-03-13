@@ -51,7 +51,8 @@ These awards ago to the student who submits the most species in each taxon below
 | Most Symbiotic | 5 | [lichens](https://www.inaturalist.org/taxa/54743-Lecanoromycetes) |
 | Kelp Keeper | 5 | [Chromista](https://www.inaturalist.org/taxa/48222-Chromista) |
 | Red Badge of Courage | 5 | [Rhodophyta](https://www.inaturalist.org/taxa/57774-Rhodophyta) |
-| Super Slime | 5 | [unicellular eukaryotes](https://www.inaturalist.org/observations?taxon_id=47686) |
+| Alveolate Ally | 5 | [Dinoflagellates](https://www.inaturalist.org/taxa/1410906-Dinoflagellata/) |
+| Super Slime | 5 | [slime molds](https://www.inaturalist.org/taxa/47685-Mycetozoa) (iNat doesn't include Amoebozoa as a taxon!) |
 | Woese Award for Unusual Effort | 5 | [Archaea](https://www.inaturalist.org/taxa/151817-Archaea) and [Bacteria](https://www.inaturalist.org/taxa/67333-Bacteria) |
 
 ### Other awards
