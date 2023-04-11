@@ -38,6 +38,9 @@ These awards ago to the student who submits the most species in each taxon below
 | Excellence in Echinoderms | 5 | [echinoderms](https://www.inaturalist.org/taxa/47549-Echinodermata) |
 | Master of Metamorphosis | 5 | [holometabolous insects](https://www.inaturalist.org/observations?taxon_id=47158) |
 | Best in Bugs | 5 | hemimetabolous [insects](https://www.inaturalist.org/taxa/47158-Insecta) |
+| Exoskeletal Extravert | 5 | [crustaceans](https://www.inaturalist.org/taxa/85493-Crustacea) |
+| Award for Most Legs | 5 | [myriapods](https://www.inaturalist.org/taxa/144128-Myriapoda) |
+| Amazing Spiderperson | 5 | [chelicerates](https://www.inaturalist.org/taxa/245097-Chelicerata), including [spiders](https://www.inaturalist.org/taxa/47118-Araneae) |
 | Worm Warrior | 5 | [annelids](https://www.inaturalist.org/taxa/47491-Annelida) |
 | Clam Champ | 5 | [molluscs](https://www.inaturalist.org/observations?taxon_id=47115) |
 | Finding Nemo Award | 5 | [nematodes](https://www.inaturalist.org/taxa/54960-Nematoda) |
@@ -46,6 +49,7 @@ These awards ago to the student who submits the most species in each taxon below
 | Pine Tree State Champion | 5 | [conifers](https://www.inaturalist.org/taxa/136329-Pinopsida) |
 | Fern Fiend | 5 | [Pteridophytes](https://www.inaturalist.org/taxa/121943-Polypodiopsida) |
 | Moss Master | 5 | [Bryophytes](https://www.inaturalist.org/taxa/311249-Bryophyta) |
+| Chopped Liver | 5 | [Marchantiophyta](https://www.inaturalist.org/taxa/64615-Marchantiophyta) (liverworts) |
 | Super Spore | 5 | [Ascomycota](https://www.inaturalist.org/taxa/48250-Ascomycota) |
 | Master of Mycology | 5 | [Basidiomycota](https://www.inaturalist.org/taxa/47169-Basidiomycota) |
 | Most Symbiotic | 5 | [lichens](https://www.inaturalist.org/taxa/54743-Lecanoromycetes) |
@@ -59,7 +63,8 @@ These awards ago to the student who submits the most species in each taxon below
 
 | title | points | description |
 |:--- |:---:|:--- |
-| Herald of Spring | 5 | Earliest [bumble bee](https://www.inaturalist.org/taxa/52775-Bombus) observation of the year |
+| Herald of Spring (Global) | 5 | Earliest [bumble bee](https://www.inaturalist.org/taxa/52775-Bombus) observation of the year, outside Maine |
+| Herald of Spring (Local) | 5 | Earliest [bumble bee](https://www.inaturalist.org/taxa/52775-Bombus) observation of the year, in Maine |
 | Local Legend | 5 | Most observations made on [Colby's campus grounds](https://www.google.com/maps/@44.5638729,-69.6670136,1443m/data=!3m1!1e3) |
 | World Traveler | 3 | Most distant or remote observation |
 | Go-Getter | 5 | Most observations made before March 20 |
