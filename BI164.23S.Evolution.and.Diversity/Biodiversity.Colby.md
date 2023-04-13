@@ -96,3 +96,13 @@ These awards ago to the student who submits the most species in each taxon below
 - This activity is meant to be fun and friendly. So please cheer on your classmates!
 - If you collect organisms that are microscopic, talk with Dr. Angelini or your lab instructor about using a microscope to take pictures. Please realize that this might not always be possible due to timing or logistical constraints.
 - The list of taxa above is really long! It's not expected that you should make observations of every one! This activity is not meant to take up all of your time!
+
+## Results so far
+
+As of 13 April, we have 343 observations! Lots of dicots. And a surprising number of reptiles!
+
+![](/Users/drangeli/Documents/5.teaching/openEd/BI164.23S.Evolution.and.Diversity/plot.observations.by.taxon.png)
+
+Of those observations, here's the distribution by unique species, at least based on current identifications.
+
+![](/Users/drangeli/Documents/5.teaching/openEd/BI164.23S.Evolution.and.Diversity/plot.award.species.numbers.png)
