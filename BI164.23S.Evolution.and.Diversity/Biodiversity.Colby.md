@@ -101,8 +101,8 @@ These awards ago to the student who submits the most species in each taxon below
 
 As of 13 April, we have 343 observations! Lots of dicots. And a surprising number of reptiles!
 
-![](/Users/drangeli/Documents/5.teaching/openEd/BI164.23S.Evolution.and.Diversity/plot.observations.by.taxon.png)
+![](plot.observations.by.taxon.png)
 
 Of those observations, here's the distribution by unique species, at least based on current identifications.
 
-![](/Users/drangeli/Documents/5.teaching/openEd/BI164.23S.Evolution.and.Diversity/plot.award.species.numbers.png)
+![](plot.award.species.numbers.png)
