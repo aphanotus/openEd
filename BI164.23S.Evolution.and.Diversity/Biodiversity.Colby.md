@@ -2,7 +2,11 @@
 
 This activity allows members of the [Colby College](https://www.colby.edu/) community to explore and share local biodiversity. 
 
-For Spring 2023 students in [BI164C](https://github.com/aphanotus/openEd/blob/main/BI164.23S.Evolution.and.Diversity/BI164.23S.Evolution.and.Diversity.syllabus.md), this project is also an opportunity to earn extra credit.
+For students in [BI164C](https://github.com/aphanotus/openEd/blob/main/BI164.23S.Evolution.and.Diversity/BI164.23S.Evolution.and.Diversity.syllabus.md), this project is also an opportunity to earn extra credit.
+
+**The project has finished for Spring 2023! [Check out the results!](Biodiversity.Colby.results.md)** Observations and analysis code can be accessed on [the BI164 GitHub repo](https://github.com/aphanotus/openEd/tree/main/BI164.23S.Evolution.and.Diversity). Looking forward to doing this again next time I teach the course! Until then I'll leave these pages up. 
+
+
 
 ## How to get involved?
 
