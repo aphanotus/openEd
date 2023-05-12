@@ -2,21 +2,15 @@
 
 ## Final Results!
 
-The project ran from March 8 to May 9 and received 1,351 observations from 32 student-naturalists.
+The project ran from March 8 to May 9 and received 1,351 observations from 32 student-naturalists for [444 different species](https://www.inaturalist.org/observations?place_id=any&project_id=biodiversity-colby&subview=table&view=species).
+
+[![](some.species.png)](https://www.inaturalist.org/observations?place_id=any&project_id=biodiversity-colby&subview=table&view=species)
 
 ![](plot.observations.by.taxon.png)
 
 Of those observations, here's the distribution by unique species (based on their identifications as of May 11).
 
 ![](plot.award.species.numbers.png)
-
-### Participation awards
-
-| title | points | description | winners |
-|:--- |:---:|:--- |---- |
-| Team Member | 3 | Submit at least 3 observations | 32 students! |
-| Above Average | 2 | In the upper 50% of observation numbers | 15 student |
-| Award for Active Animals | 5 | Most phyla of animals | 5 phyla: ajheld, bswasson, hannahw6, mollyelizabethsantlovesplants3; runner's up (4 phyla): anchalm, calebboxwell, dakshprashar, djuzych, jlcombs26, kateihanson, shantagardner, teaganturner26 |
 
 ### Taxon-specific awards
 
