@@ -26,7 +26,7 @@ Developmental biology is the study of the formation and growth of individual org
 
 ### Learning Objectives
 
-Through this course students will (1) become familiar with the history of developmental biology, (2) practice the use of experimental evidence in evaluating alternative hypotheses, (3) practice discussion, peer review, and presentation. 
+Through this course students will (1) become familiar with the history of developmental biology, (2) practice the use of experimental evidence in evaluating alternative hypotheses, (3) practice discussion, writing for general and professional audiences, and peer review. 
 
 ### Required text
 
@@ -47,21 +47,21 @@ This course will make use of two online venues. Discussion of readings will take
 
 Your final grade for the course will be calculated based on a 1000 point total as listed below. 
 
-| assessment                                   | points |
-| -------------------------------------------- | -----: |
-| Quizzes (10)                                 |    400 |
-| Blog post                                    |     50 |
-| Blog comments                                |    100 |
-| Leading group discussion                     |     50 |
-| Writing assignment 1: Interpreting data      |     30 |
-| Writing assignment 2: Annotated Bibliography |     50 |
-| Writing assignment 3: Topic Review           |     50 |
-| Writing assignment 4: Experimental Proposal  |     50 |
-| Writing assignment 5: Abstracting            |     40 |
-| Writing assignment 6: GFRP draft             |     30 |
-| Writing assignment 7: Final GFRP proposal    |    120 |
-| General course participation                 |     30 |
-| **total**                                    |   1000 |
+| assessment                                                   | points |
+| ------------------------------------------------------------ | -----: |
+| Quizzes (10)                                                 |    400 |
+| [Blog post](https://web.colby.edu/devbio/)                   |     50 |
+| Blog comments                                                |    100 |
+| Leading group discussion                                     |     50 |
+| [Writing assignment 1: Experimental Design](writing.assignment1.md) |     30 |
+| Writing assignment 2: Annotated Bibliography                 |     50 |
+| Writing assignment 3: Topic Review                           |     50 |
+| Writing assignment 4: Experimental Proposal                  |     50 |
+| Writing assignment 5: Abstracting                            |     40 |
+| Writing assignment 6: GFRP draft                             |     30 |
+| Writing assignment 7: Final GFRP proposal                    |    120 |
+| General course participation                                 |     30 |
+| **total**                                                    |   1000 |
 
 
 
