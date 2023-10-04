@@ -16,7 +16,7 @@ Your submission for the assignment must have
 
 - citations to at least 8 articles (from peer-reviewed journals indexed by [PubMed](https://pubmed.ncbi.nlm.nih.gov))
 
-- citations should be in the form of a biological journal -- There's lot of variation in those formats and I will not be dogmatic about style. However, it should contain the authors' surnames and initials int he correct order, year of publication, journal name, volume and pages numbers (if the journal uses those), and ideally a [DOI](https://www.doi.org/) or [URL](https://en.wikipedia.org/wiki/URL) (internet address). For example, you could use the format of the journal *[Development](https://dev.biologists.org/content/manuscript-prep#3.3.)*. If you use a 
+- citations should be in the form of a biological journal -- There's lot of variation in those formats and I will not be dogmatic about style. However, it should contain the authors' surnames and initials int he correct order, year of publication, journal name, volume and pages numbers (if the journal uses those), and ideally a [DOI](https://www.doi.org/) or [URL](https://en.wikipedia.org/wiki/URL) (internet address). For example, you could use the format of the journal *[Development](https://dev.biologists.org/content/manuscript-prep#3.3.)*.
 
   **Lee, J.R., and Kuo, D.H.** (2020). Netrin expressed by the ventral ectoderm lineage guides mesoderm migration in epibolic gastrulation of the leech. *Developmental Biology*. **463**, 39-52. https://doi.org/10.1016/j.ydbio.2020.04.002
 
