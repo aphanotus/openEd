@@ -12,7 +12,7 @@ Your submission for this assignment must include
 
 - Your name. 
 - A [working title](https://en.wikipedia.org/wiki/Working_title) or short sentence stating the question, issue, or phenomenon you are interested in exploring
-- 700 to 1000 words reviewing background on your topic. Some review of methods may be included, but the focus should be a biological subject, not a method or technique. Use may use large language models (e.g. ChatGPT), but do so responsibly in accordance with the recommendations from our workshop in October 18-20. 
+- 700 to 1000 words reviewing background on your topic. Some review of methods may be included, but the focus should be a biological subject, not a method or technique. You may use large language models (e.g. [ChatGPT](https://chat.openai.com/)), but do so responsibly in accordance with the recommendations from our workshop in October 18-20. 
 - Citations to at least 10 articles (from peer-reviewed journals indexed by [PubMed](https://pubmed.ncbi.nlm.nih.gov)). Citations should be in the style of a biological journal -- There's lot of variation in those formats, and I will not be dogmatic about style. However, it should contain the authors' surnames and initials in the correct order, year of publication, journal name, volume and page numbers (if the journal uses those), and ideally a [DOI](https://www.doi.org/) or [URL](https://en.wikipedia.org/wiki/URL) (internet address). For example, you could use the format of the journal *[Development](https://dev.biologists.org/content/manuscript-prep#3.3.)*.
 - Your document must adhere to the [formatting requirements](https://www.nsf.gov/pubs/2023/nsf23605/nsf23605.htm#prep) of the GFRP. Submissions that do not conform will be returned without a grade.
   - Times New Roman font
@@ -28,7 +28,7 @@ Please complete this assignment individually. You are welcome to discuss it with
 
 This assignment is worth 50 points toward the final course grade. 
 
-Please submit your assignment on Moodle in [markdown](https://www.markdownguide.org/) or [PDF](https://www.adobe.com/acrobat/about-adobe-pdf.html) format by Friday, October 27 at 10:00pm.
+Please submit your assignment on Moodle in [markdown](https://www.markdownguide.org/) or [PDF](https://www.adobe.com/acrobat/about-adobe-pdf.html) format by Sunday, October 29 at 10:00pm.
 
 
 
