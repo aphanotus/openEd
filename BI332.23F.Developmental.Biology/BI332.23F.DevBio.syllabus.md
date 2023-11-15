@@ -49,14 +49,14 @@ Your final grade for the course will be calculated based on a 1000 point total a
 
 | assessment                                                   | points |
 | ------------------------------------------------------------ | -----: |
-| Quizzes (10)                                                 |    400 |
+| Quizzes (best 10)                                            |    400 |
 | [Blog post](https://web.colby.edu/devbio/)                   |     50 |
 | Blog comments                                                |    100 |
 | Leading group discussion                                     |     50 |
 | [Writing assignment 1: Experimental Design](writing.assignment1.md) |     30 |
-| Writing assignment 2: Annotated Bibliography                 |     50 |
-| Writing assignment 3: Topic Review                           |     50 |
-| Writing assignment 4: Experimental Proposal                  |     50 |
+| [Writing assignment 2: Annotated Bibliography](writing.assignment2.md) |     50 |
+| [Writing assignment 3: Topic Review](writing.assignment3.md) |     50 |
+| [Writing assignment 4: Experimental Proposal](writing.assignment4.md) |     50 |
 | Writing assignment 5: Abstracting                            |     40 |
 | Writing assignment 6: GFRP draft                             |     30 |
 | Writing assignment 7: Final GFRP proposal                    |    120 |
