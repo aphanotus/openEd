@@ -57,7 +57,7 @@ Your final grade for the course will be calculated based on a 1000 point total a
 | [Writing assignment 2: Annotated Bibliography](writing.assignment2.md) |     50 |
 | [Writing assignment 3: Topic Review](writing.assignment3.md) |     50 |
 | [Writing assignment 4: Experimental Proposal](writing.assignment4.md) |     50 |
-| Writing assignment 5: GFRP draft                             |     40 |
+| [Writing assignment 5: GFRP draft](writing.assignment5.md)   |     40 |
 | Writing assignment 6: Abstracting                            |     30 |
 | Writing assignment 7: Final GFRP proposal                    |    120 |
 | General course participation                                 |     30 |
