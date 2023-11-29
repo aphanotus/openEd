@@ -28,7 +28,7 @@ Please complete this assignment individually. Although you are welcome to discus
 
 This assignment is worth 40 points toward the final course grade. 
 
-Please submit your assignment on Moodle in [docx](https://docs.fileformat.com/word-processing/docx/) format (MS Word) or as a link to a [Google Doc](https://docs.google.com/) by **Friday, December 1 at 10:00pm**.
+Please submit your assignment on Moodle in [docx](https://docs.fileformat.com/word-processing/docx/) format (MS Word) or as a link to a [Google Doc](https://docs.google.com/) by **Saturday, December 2 at 10:00pm**.
 
 
 
