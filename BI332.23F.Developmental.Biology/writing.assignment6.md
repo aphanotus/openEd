@@ -17,7 +17,7 @@ Please complete this assignment individually. You are welcome to discuss it with
 
 This assignment is worth 30 points toward the final course grade. 
 
-Please submit your assignment on Moodle in [markdown](https://www.markdownguide.org/) or [PDF](https://www.adobe.com/acrobat/about-adobe-pdf.html) format by Wednesday, December 13 at 10:00pm.
+Please submit your assignment on Moodle in [markdown](https://www.markdownguide.org/) or [PDF](https://www.adobe.com/acrobat/about-adobe-pdf.html) format by **Wednesday, December 13 at 10:00pm**.
 
 
 

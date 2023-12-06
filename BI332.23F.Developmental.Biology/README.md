@@ -57,9 +57,9 @@ Your final grade for the course will be calculated based on a 1000 point total a
 | [Writing assignment 2: Annotated Bibliography](writing.assignment2.md) |     50 |
 | [Writing assignment 3: Topic Review](writing.assignment3.md) |     50 |
 | [Writing assignment 4: Experimental Proposal](writing.assignment4.md) |     50 |
-| [Writing assignment 5: GFRP draft](writing.assignment5.md)   |     40 |
-| Writing assignment 6: Abstracting                            |     30 |
-| Writing assignment 7: Final GFRP proposal                    |    120 |
+| [Writing assignment 5: GRFP draft](writing.assignment5.md)   |     40 |
+| [Writing assignment 6: Write Your Own Exam Question](writing.assignment6.md) |     30 |
+| [Final writing project: GRFP proposal](final.writing.project.md) |    120 |
 | General course participation                                 |     30 |
 | **total**                                                    |   1000 |
 
@@ -89,7 +89,7 @@ Reading the scientific literature will be crucial to your advanced study of biol
 - **Leading discussion** will be graded on your preparedness and your ability to foster discussion. 
 - **Participation** in all discussions is expected. Be ready and willing to share an informed thought during each class. If you are uncomfortable expressing yourself in class, please discuss this with me during office hours. Consistent attendance is expected and unjustified absences will impact your discussion grade. 
 - **Quizzes** will be given regularly, typically via Moodle over the weekend and due Monday morning. Quizzes are meant to be low-stakes tests of your knowledge from the previous week’s material, providing an opportunity for us both to gauge how you’re doing. 
-- **Writing assignments** in the course will build towards the production of an experimental proposal in the style of an [NSF Graduate Research Fellowship Program (GFRP)](https://www.nsfgrfp.org/) proposal.
+- **Writing assignments** in the course will build towards the production of an experimental proposal in the style of an [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/) proposal.
 
 ### Accommodations for public health
 
