@@ -10,7 +10,7 @@ Mondays, Wednesdays, and Fridays 11:00-11:50am, in [Lovejoy 215](https://map.col
 
 #### Instructor
 
-[Dr. David R. Angelini](https://www.colby.edu/directory/profile/dave.angelini/) 
+[Dr. David R. Angelini](https://www.colby.edu/people/people-directory/dave-angelini/) 
 
 e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
@@ -45,12 +45,6 @@ There are is no required textbook for this course. However, students are **stron
 
 - Klug W.S. et al. *Concepts of Genetics, 12th Edition*. 2019. Pearson/Benjamin Cummings. Students are encouraged to purchase used copies of the textbook. Support cannot be provided­ for older or international editions of this text. 
 
-Alternatively topics in the course are also covered by several titles from the free online publisher LibreTexts. Their textbooks are available for free in PDF format at https://bio.libretexts.org/Bookshelves/ and bound copies can also be ordered at a marginal cost.
-
-- Nickle T. and Barrette-Ng I. *Online Open Genetics*. 2020.
-- Bergtrom, G. *Basic Cell and Molecular Biology*. 2021.
-- Hardison, R. *Working with Molecular Genetics*. 2020. 
-
 Additional readings will be provided via Moodle.
 
 ### Participation
@@ -66,15 +60,16 @@ Discussions of genetics may raise issues of sexism, racism and colonialism. Whil
 
 Your grade for BI163 will be based on the lecture (70%) and laboratory (30%) sections of the course. The specifics of your laboratory grade, and a lab syllabus, will be provided by your lab instructor. Your final grade for the course will be calculated based on a 1000 point total as listed below. 
 
-| assessment                            | points |
-| ------------------------------------- | -----: |
-| Quizzes                               |    100 |
-| Exam 1                                |        |
-| Exam 2                                |        |
-| Exam 3                                |        |
-| In-class participation and activities |    100 |
-| Lab Assignments                       |    300 |
-| **total**                             |   1000 |
+| assessment                       | points |
+| -------------------------------- | -----: |
+| In-class participation           |     45 |
+| Quizzes (9; 5 points each)       |     45 |
+| Problem sets (6; 35 points each) |    210 |
+| Midterm 1 (February 27)          |    120 |
+| Midterm 2 (April 8)              |    140 |
+| Midterm 3 (May 8)                |    140 |
+| Lab Assignments                  |    300 |
+| **total**                        |   1000 |
 
 | points        | final course grade |
 | ------------- | ------------------ |
@@ -91,9 +86,13 @@ Remember that while diligent studying is typically essential for success, on its
 This course will include a mix of formative and summative assessments. **Formative assessments** are meant to encourage you to build knowledge and skills, and they allow you to gauge your progress with the material before more high-stakes assessments. In these assignments you have flexibility to try (and perhaps fail) to apply skills and concepts with little or no contribution to your final grade at stake. However, to get the most out of this course, your engagement in every activity is necessary. You will encounter multiple overlapping concepts throughout the semester and review from previous courses. This design is intentional, because it will foster greater fluency and deeper understanding. **Summative assessments**, such as exams and the final lab paper allow you to demonstrate mastery of content and concepts.
 
 - **Participation** can best be described as displaying your earnest attempt to engage the material. Although I encourage all of you to be active participants during in-class activities, I realize that different people may be comfortable expressing themselves in different contexts. Therefore, participation may also include questions after class or brought during office hours. 
-- **Quizzes** will be given regularly, typically via Moodle over the weekend and due Monday morning. Quizzes are meant to be low-stakes tests of your knowledge from the previous week’s material, providing an opportunity for us both to gauge how you’re doing. 
+
+- **Quizzes** will be given regularly, typically via Moodle, and typically over the weekend. Quizzes are meant to be low-stakes tests of your knowledge from the previous week’s material, providing an opportunity for us both to gauge how you’re doing. 
+
 - **Problem sets** are formative assessments that will challenge you to apply facts and concepts covered in class. Your answers should be descriptive, even when questions require a specific numerical answer. The logical steps used to arrive at the answer must be included. Students may consult any source they choose and work together when answering the questions, but each student must turn in answers explained in their own words. 
-- **Exams** are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. The highest grades will require creative solutions to novel questions. Each exam will include a mix of questions in different formats. Unless otherwise announced, exams will be given in the evenings, 7-9pm, on Monday, 29 March and Wednesday, 12 May. If you know that you have a conflict with a scheduled exam, such as for an athletic contest or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request. 
+
+- **Midterm** exams are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. The highest grades will require creative solutions to novel questions. Each exam will include a mix of questions in different formats. Unless otherwise announced, exams will be given in the evenings, 7-9pm, on 27 February, 8 April, and 8 May. If you know that you have a conflict with a scheduled exam, such as for an athletic contest or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request.
+
 - **The lab** will give you hands-on experience exploring the principles of genetics discussed in class. You will learn about the proper use of equipment, manipulation of DNA, methods of data analysis, and practice scientific writing. Most aspects of the laboratory (communication, assignments, instruction) will be managed by your lab instructor. Please be aware that a passing grade in your lab section is required to pass the course.
 
 If you plan to observe religious holidays that coincide with class meetings or assignment due dates, please consult with me in the first three weeks of classes so that we may reach a mutual understanding of how you can meet the terms of your religious observance and the requirements for this course. 
@@ -132,6 +131,6 @@ Cooperation with the [college’s plan for pandemic response](https://covid19.co
 
 Environmental degradation is a serious biological and societal issue. [Colby](https://www.colby.edu/people/offices-directory/facilities/sustainability/) is committed to practices that promote sustainable living. To help minimize the environmental impact of this course, I encourage you to buy used books. Minimize paper use by reading slides on a device when possible, rather than printing copies. It is acceptable to take notes on a laptop or tablet during class. If you choose to print, please print double-sided on recycled paper. Multiple slides may be printed to a single sheet. Recycle unnecessary paper after the end of the semester.
 
-### Course Schedule
+### Tentative Course Schedule
 
-![](schedule.png)
+![](images/schedule.png)
