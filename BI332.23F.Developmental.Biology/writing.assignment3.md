@@ -40,7 +40,7 @@ Please submit your assignment on Moodle in [markdown](https://www.markdownguide.
 
 - A research topic relevant to Development Biology is stated or indicated by the title.
 
-Score: `X`/5
+Score: **5**/5
 
 #### Coverage of Background Information
 
@@ -72,7 +72,7 @@ Score: `X`/5
 - Ideas are organized and clearly described.
 - Use of standard scientific English and correct terminology.
 
-Score: `X`/5
+Score: **3**/5
 
 #### Sources
 
@@ -81,7 +81,7 @@ Score: `X`/5
 - Sources are from reputable scientific journals or edited volumes that have been peer-reviewed
 - Citation formats are acceptable for biology
 
-Score: `X`/5
+Score: **5**/5
 
 
 
