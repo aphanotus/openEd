@@ -106,7 +106,7 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 
 ### Course Schedule
 
-| date | quiz | topic of the day | reading | in-class activity | exercise ^1^ |
+| date | quiz | topic of the day | reading | in-class activity | exercise <sup>1</sup> |
 |:---- |:----:|:---- |:---- |:---- |:---- |
 | Sept 9 |  | Introductions & Overview |  | Markdown; Refresher on R | 1. Markdown & R |
 | Sept 16 | 1 | Open science; Measurement; Hypothesis testing | [O'Dea et al. 2021](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01006-3); [Ross-Hellauer 2022](https://www.nature.com/articles/d41586-022-00724-0); Nguyen 2021 ([abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12823) or [video](https://www.youtube.com/watch?v=8JEzXL5OXPI)); Kondrashov 2016 (p9-25, 60-69, 75-100) | Distributions; Sampling; Tests of variance | 2. Descriptive statistics, hypothesis testing |
@@ -120,7 +120,7 @@ Environmental degradation is a serious biological and societal issue. [Colby](ht
 | Nov 18 | 5 | History and social impacts | Terhune et al. 2018; Zhang et al. 2022 | Work on final projects | 10. Data-gathering |
 | Dec 2 |  | Final presentations |  | Final presentations | Final project due |
 
-^1^ complete before next class
+<sup>1</sup> complete before next class
 
 
 
