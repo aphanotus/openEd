@@ -43,6 +43,8 @@ This course is intended to be a hands-on exploration of analytical methods. Clas
 
 This course will raise issues of sexism, racism and colonialism. While this course will focus on natural science, the social history of the topic must be acknowledged as we seek to build a more antiracist community. Therefore, it is expected that conversations on these topics, while potentially uncomfortable, will be embraced with respect, compassion and mindful reflection. At any time, if anyone feels that readings, comments in discussion, or structures of the course treat these subjects inappropriately, that critique is welcomed, openly or privately. 
 
+Class rosters are provided to each instructor with each student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this early in the semester so that I can make appropriate changes to my records. 
+
 ### Computational Resources
 
 During this course we will explore the principles of [open data](https://opendatahandbook.org/guide/en/what-is-open-data/) and [open science](https://www.cos.io/about). In that spirit, the [syllabus](https://github.com/aphanotus/openEd/blob/main/BI377.morphometry/BI377.24F.morphometry.syllabus.md) and other static resources are available and updated on [GitHub](https://github.com/aphanotus/openEd/tree/main/BI377.morphometry). Copyrighted materials will be shared using Colby's learning management system, [Moodle](https://moodle.colby.edu/). We will make measurements of photographic data using the free imaging suite [Fiji](https://imagej.net/software/fiji/). Students should be familiar with [Google Sheets](https://workspace.google.com/products/sheets/), where we will share data. We will introduce analytical tools and pipelines in the statistical programming language [R](https://www.r-project.org/), and the course has a dedicated [Rstudio](https://posit.co/products/open-source/rstudio/) server accessible at https://bi377.colby.edu/ (Colby Access or VPN connection required.) To facilitate peer-to-peer collaboration on coding, we will use [Markdown](https://www.markdownguide.org/) via [HackMD](https://hackmd.io/@ColbyBI377/landingpage). Each student will be asked to set-up a free account with [HackMD](https://hackmd.io/). 
@@ -62,8 +64,6 @@ Your final grade for the course will be calculated based on a 1000 point total a
 | Final project                |  170 |        |      |                                      |
 | total                        | 1000 | points |      |                                      |
 
-### Evaluations
-
 - **Participation** in all discussions is expected. Be ready and willing to share an informed thought during each class. If you are uncomfortable expressing yourself in class, please discuss this with me during office hours. 
 - Most class meetings will include one or more short (5 min) student **presentations** of recent primary literature using methods covered in this course, followed by questions and discussion led by the presenting student. This is opportunity for students to share their own interests and practice presentation.
 
@@ -71,7 +71,7 @@ Your final grade for the course will be calculated based on a 1000 point total a
 - Weekly **exercises** will allow students to practice and develop new skills. These assignments will be a mix of individual and team exercises. Grades for these assignments will be satisfactory, needs improvement, or unsatisfactory. More detailed feedback may be provided on the returned exercises, to the entire class in a subsequent meeting, or in one-on-one consultation.
 - Your **final project** will use morphometric methods to conduct your own comparative study, or a meta-analysis or re-analysis of published data. These projects will be conducted in small groups of 2-3 students, in close consultation with Dr. Angelini. Finished projects will be presented as posters at the end of the semester.
 
-### Accommodations for public health
+### Public health
 
 Cooperation with the [college’s plan for pandemic response](https://covid19.colby.edu/covid-19-health-and-safety/) is expected. Specific impacts to this course include:
 
@@ -81,28 +81,41 @@ Cooperation with the [college’s plan for pandemic response](https://covid19.co
 - Office hours may be held on Zoom; hours may need to be modified.
 - This policy may be modified as public health conditions change.
 
+### Sustainability 
+
+Environmental degradation is a serious biological and societal issue. [Colby](http://www.colby.edu/administration_cs/green/) is committed to practices that promote sustainable living. To help minimize the environmental impact of this course, I encourage you to buy used books. Minimize paper use by reading slides on a device when possible, rather than printing copies. It is acceptable to take notes on a laptop or tablet during class. If you choose to print, please print double-sided on recycled paper. Multiple slides may be printed to a single sheet. Recycle unnecessary paper after the end of the semester.
+
 ### Access and Support
 
 First, please speak with me early if you are having trouble in the course.
 
-- [Counseling Services](http://www.colby.edu/counseling/) (x4460) provided from the Health Center offer professional, confidential consultations regarding family problems, stress, depression, cultural adjustments, concerns with sexuality, alcohol and drug use, trauma and other personal issues.
+- [Counseling Services](http://www.colby.edu/counseling/) (207-859-4490) provided from the Health Center offer professional, confidential consultations regarding family problems, stress, depression, cultural adjustments, concerns with sexuality, alcohol and drug use, trauma and other personal issues.
 - [Class Deans](mailto:deanofstudies@colby.edu) can guide students through a range of issues. Students can reach out to their class dean via email or by calling x4560. They are also welcome to visit the Dean of Studies Office in Eustis 107 for assistance with scheduling or other inquiries. 
-- The [Office of the Dean of Students](http://www.colby.edu/administration_cs/student-affairs/deanofstudents/studentconduct/offices_services/dos/) offers services for students with learning differences. If you suspect you have a learning difference that might require accommodations in this course, please inquire with the Dean of Students Office.
+- If you encounter barriers to your full participation in this course, please let me know immediately so we can determine if there is an accommodation that can be made. If you are a student with a disability, or think you may have a disability, the [Dean of Students Office](https://www.colby.edu/studentadvising/student-access-and-disability-services/) works with students and faculty to identify reasonable accommodations. 
 - The [Farnham Writing Center](http://web.colby.edu/farnham-writerscenter/) offers support for students on basic writing and reading skills.
 - [DavisConnects](https://davisconnects.colby.edu/) helps students  explore internship, career, and study abroad opportunities. Make [an appointment](https://colby.joinhandshake.com/login) with an advisor through the Handshake portal.
 
-### Academic honesty 
+### Academic Integrity 
 
-Honesty, integrity, and personal responsibility are cornerstones of a Colby education and provide the foundation for scholarly inquiry, intellectual discourse, and an open and welcoming campus community. These values are articulated in the Colby Affirmation and are central to this course. Students are expected to demonstrate academic honesty in all aspects of this course. Academic dishonesty includes, but is not limited to: plagiarism (which includes paraphrasing from sources, even with a citation); claiming another’s work or a modification of another’s work as one’s own; buying or attempting to buy papers or other assignments; fabricating information or citations; knowingly assisting others in acts of academic dishonesty; violating clearly stated rules for taking an exam; misrepresentations to faculty within the context of a course; and submitting the same work, including an essay that you wrote, in more than one course. Sanctions for academic dishonesty are assigned by an academic review board and may include failure on the assignment, failure in the course, or suspension or expulsion from the College.
+Honesty, integrity, and personal responsibility are cornerstones of a Colby education and provide the foundation for scholarly inquiry, intellectual discourse, and an open and welcoming campus community. These values are articulated in the Colby Affirmation and are central to this course. You are expected to demonstrate academic honesty in all aspects of this course. Academic dishonesty includes, but is not limited to: plagiarism (which includes paraphrasing from sources, even with a citation); claiming another’s work or a modification of another’s work as one’s own; buying or attempting to buy papers or other assignments; fabricating information or citations; knowingly assisting others in acts of academic dishonesty; violating clearly stated rules for taking an exam; misrepresentations to faculty within the context of a course; and submitting the same work, including an essay that you wrote, in more than one course. Sanctions for academic dishonesty are assigned by an academic review board and may include failure on the assignment, failure in the course, or suspension or expulsion from the College.
 
 For more information on recognizing and avoiding plagiarism, see these guides:
 
 - [Avoiding Plagiarism](http://libguides.colby.edu/avoidingplagiarism)
 - [Academic Honesty](http://web.colby.edu/farnham-writerscenter/academic-honesty/)
 
-### Sustainability 
+### Sexual Misconduct
 
-Environmental degradation is a serious biological and societal issue. [Colby](http://www.colby.edu/administration_cs/green/) is committed to practices that promote sustainable living. To help minimize the environmental impact of this course, I encourage you to buy used books. Minimize paper use by reading slides on a device when possible, rather than printing copies. It is acceptable to take notes on a laptop or tablet during class. If you choose to print, please print double-sided on recycled paper. Multiple slides may be printed to a single sheet. Recycle unnecessary paper after the end of the semester.
+Colby College prohibits [sexual misconduct or gender based discrimination](http://www.colby.edu/studentlife/handbook-section/f-sexualmisconduct/) and is obligated, by federal and state laws, to respond to reports and provide resources to students. As your professor I am considered a "responsible employee" which requires me to report incidence of sexual assault, sexual harassment, dating violence, or stalking to the[ Title IX Coordinator](https://www.colby.edu/directory/?sq=Meg Hatch). 
+
+If you wish to access confidential support services, you may contact: 
+
+- [Counseling Services](http://www.colby.edu/counseling/) (207-859-4490) 
+- [Title IX Confidential Advocate](https://life.colby.edu/your-safety/sexual-violence-title-ix/meet-the-staff/) (207-509-9122) 
+- [Office of Religious and Spiritual Life](https://life.colby.edu/what-to-do/spiritual-life/) (207-859-4272 )
+- [Maine Coalition Against Sexual Assault](https://www.mecasa.org/) (24/7 helpline: 1-800-871-7741)
+
+
 
 ### Course Schedule
 
