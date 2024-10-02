@@ -52,24 +52,34 @@ During this course we will explore the principles of [open data](https://opendat
 
 ### Assessments
 
-Your final grade for the course will be calculated based on a 1000 point total as listed below. 
+Based on our conversations in the first two weeks in this semester, we will adopt an approach know as  **ungrading**. This approach will still assign a letter grade for the course at the end of the semester. However, instead of awarding points for individual assessments throughout the semester, you will build a portfolio of work, consisting of the exercises, quizzes, DataBlitz presentations and the final project. My goal will each assignment will be to provide you with constructive feedback, but you will not receive a numeric or letter grade on individual assignments. I will meet with each of you at least once mid-semester to candidly discuss your progress and again at the end of the semester to discuss the grade you will be assigned. You and I are able to discuss the final grade as something that should reflect your effort and the trajectory of your learning across the semester without *a priori* assumptions. Compared to traditional grading systems, receiving only descriptive feedback in ungrading may lead to some uncertainty about your standing in the course. This system is based on communication, so if you ever feel uncertain, please come and talk with me!
 
-| Evaluations                  |      |        |      | Final course grades                  |
-| :--------------------------- | ---: | :----- | ---- | :----------------------------------- |
-| Participation & Engagement   |   50 | points |      | 900-1000     pts    A (of some kind) |
-| Literature presentations (2) |  100 |        |      | 800-899      pts    B (of some kind) |
-| Quizzes (5)                  |  200 |        |      | 700-799      pts    C (of some kind) |
-| Exercises (10)               |  400 |        |      | 600-699      pts    D (of some kind) |
-| Final presentation           |   80 |        |      | 599   pts or below   F               |
-| Final project                |  170 |        |      |                                      |
-| total                        | 1000 | points |      |                                      |
+| course assignments                    | number |
+| :------------------------------------ | -----: |
+| Participation & Engagement            |        |
+| Literature presentations (DataBlitzs) |      2 |
+| Quizzes                               |      5 |
+| Exercises                             |     10 |
+| Final presentation                    |      1 |
+| Final project                         |      1 |
 
 - **Participation** in all discussions is expected. Be ready and willing to share an informed thought during each class. If you are uncomfortable expressing yourself in class, please discuss this with me during office hours. 
 - Most class meetings will include one or more short (5 min) student **presentations** of recent primary literature using methods covered in this course, followed by questions and discussion led by the presenting student. This is opportunity for students to share their own interests and practice presentation.
 
 - Roughly bi-weekly **quizzes** will check students' understanding of fundamental course concepts. 
-- Weekly **exercises** will allow students to practice and develop new skills. These assignments will be a mix of individual and team exercises. Grades for these assignments will be satisfactory, needs improvement, or unsatisfactory. More detailed feedback may be provided on the returned exercises, to the entire class in a subsequent meeting, or in one-on-one consultation.
+- Weekly **exercises** will allow students to practice and develop new skills. These assignments will be a mix of individual and team exercises. 
 - Your **final project** will use morphometric methods to conduct your own comparative study, or a meta-analysis or re-analysis of published data. These projects will be conducted in small groups of 2-3 students, in close consultation with Dr. Angelini. Finished projects will be presented as posters at the end of the semester.
+
+#### Template for conversations on final grade assignment
+
+While ungrading allows us to focus on course goals without the potential preoccupation with grades on minor assignments, we nevertheless must arrive at a letter grade for the course. Therefore it will be necessary for us to candidly discuss your development towards achievement of the course goals. Such conversations may be unfamiliar or even awkward. The template below is meant to lead us towards a conversation that will help determine an appropriate final grade. 
+
+- Talk about the work you've done this semester in our course, and reflect on the feedback you've received.
+- Consider the course learning goals. In which areas do you think we've learned the most or built new skills?
+- Reflect on your contribution to the final project. How do you think it represents your strengths and weaknesses?
+- Based on this conversation, what final grade do you think you should receive and why? What are the highest and lowest grades that fairly represent your learning in this course?
+
+Ultimately, the goal of this meeting will be to identify a grade we both agree fairly represents your learning.
 
 ### Public health
 
