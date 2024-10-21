@@ -1,4 +1,4 @@
-# BI377 Fall 2024 
+# BI377 Fall 2024
 # In-Class Code
 # Week 6
 
@@ -15,7 +15,7 @@ library(borealis)
 # Importing the data
 ########################
 
-# Landmark data from Cyprindon pecosensis body shapes, with indication of 
+# Landmark data from Cyprindon pecosensis body shapes, with indication of
 # Sex and Population from which fish were sampled (Marsh or Sinkhole).
 # (Collyer et al. 2015 Heredity)
 data(pupfish, package = "geomorph")
@@ -45,7 +45,7 @@ data(pupfish, package = "geomorph")
 
 
 # Calculate the proportion of variance described by each PC axis
-# Recall that variance is standard deviation squared, and that variance is additive.  
+# Recall that variance is standard deviation squared, and that variance is additive.
 
 
 
@@ -115,15 +115,20 @@ data(pupfish, package = "geomorph")
 # If you already have the GPA objects in your R environment, then
 # you may not need to re-run these lines
 fw.links <- matrix(
-  c(1,2, 1,5, 5,4, 4,3, 3,2, 5,6, 6,7, 7,8, 8,9, 
-    9,4, 3,11, 11,12, 11,10, 9,10, 10,14, 14,15, 15,16, 
-    16,18, 18,20, 16,17, 17,8, 12,13, 13,19, 14,13, 18,19, 
+  c(1,2, 1,5, 5,4, 4,3, 3,2, 5,6, 6,7, 7,8, 8,9,
+    9,4, 3,11, 11,12, 11,10, 9,10, 10,14, 14,15, 15,16,
+    16,18, 18,20, 16,17, 17,8, 12,13, 13,19, 14,13, 18,19,
     2,12),
   ncol = 2, byrow = TRUE
 )
 # Or
 # (fw.links <- as.matrix(read.csv("fw.links.csv")))
 hw.links <- matrix(c(1:5,2:6), ncol = 2, byrow = FALSE)
+
+# It was necessary to curate some of the specimen IDs in the raw data.
+# Therefore, please upload them again from
+# https://github.com/aphanotus/openEd/tree/main/BI377.morphometry/class5.Oct7
+# and repeat the steps below.
 
 create.tps(
   input.filename = "bi377.demo.borealis.v.fervidus.forewings.class.csv",
@@ -167,16 +172,17 @@ pca.hw <- gm.prcomp(gpa.hw$gdf$coords)
 # are consistent with the presence of one or two species
 
 # Blinded metadata!
+# https://raw.githubusercontent.com/aphanotus/openEd/refs/heads/main/BI377.morphometry/class6.Oct21/bi377.demo.borealis.v.fervidus.metadata.csv
 blinded.metadata <- read.csv("bi377.demo.borealis.v.fervidus.metadata.csv")
 blinded.metadata
 
-# Isolate the Specimen IDs from digitizers' initials 
+# Isolate the Specimen IDs from digitizers' initials
 x <- str_split_fixed(gpa.fw$gdf$specimen.id,"__",2)[,1]
 
 # Match specimen IDs in the main dataset (`x`) with those in the `blinded.metadata`
 i <- match(x,blinded.metadata$specimen_ID)
 
-# Check that everything has a match (that there are no NAs) 
+# Check that everything has a match (that there are no NAs)
 any(is.na(i))
 
 # Create a new element of ther `gdf` list component with species information
@@ -187,6 +193,3 @@ gpa.fw$gdf$specimen.id <- x
 
 
 # Shape space plots
-
-
-
