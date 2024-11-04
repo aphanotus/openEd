@@ -129,23 +129,18 @@ If you wish to access confidential support services, you may contact:
 
 ### Course Schedule
 
-| date | quiz | topic of the day | reading | in-class activity | exercise <sup>1</sup> |
-|:---- |:----:|:---- |:---- |:---- |:---- |
-| Sept 9 |  | Introductions & Overview |  | Markdown; Refresher on R | 1. Markdown & R |
-| Sept 16 | 1 | Open science; Measurement; Hypothesis testing | [O'Dea et al. 2021](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01006-3); [Ross-Hellauer 2022](https://www.nature.com/articles/d41586-022-00724-0); Nguyen 2021 ([abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12823) or [video](https://www.youtube.com/watch?v=8JEzXL5OXPI)); [Heard 2023](https://scientistseessquirrel.wordpress.com/2023/11/14/the-case-against-open-data/); Kondrashov 2016 (p9-25, 60-69, 75-100) | Distributions; Sampling; Tests of variance | 2. Descriptive statistics, hypothesis testing |
-| Sept 23 |  | Sampling; ANOVA | [Forstmeier et al. 2016](https://doi.org/10.1111/brv.12315); [Numbers around us 2024](https://medium.com/number-around-us/guarding-against-misleading-data-503424ecd457) | Data curation; univariate ANOVA | 3. Data curation; univariate ANOVA |
-| Sept 30 | 2 | Intro to geometric morphometrics | Zelditch et al. 2012 (p1-17, 23-35) | Landmark-based digitization | 4. Anatomical digitization |
-| Oct 7 |  | Procrustes alignment | Zelditch et al. 2012 (p51, 53-57) | GPA | 5. GPA |
-| Oct 21 | 3 | Morphospace; Ordination | Zelditch et al. 2012 (p59-60, 62-67, 69-73, 75-102) | PCA | 6. PCA |
-| Oct 28 |  | Generalized linear modeling | Kondrashov 2016 (p 177-196) | [Tree thinking](https://www.science.org/doi/10.1126/science.1117727) | 7. GLM |
-| Nov 4 | 4 | Phylogenetic context | Revell & Harmon 2022; Symonds & Blomberg 2014 | PIC; PGLS | 8. PGLS |
-| Nov 11 |  | Colorimetry; Residual plots | [Peck et al. 2017](https://doi.org/10.1128/JB.00303-17) Suppl.; [Weller & Westneat 2019](https://peerj.com/articles/6398/) |  | 9. Planning final projects |
-| Nov 18 | 5 | History and social impacts | Terhune et al. 2018; Zhang et al. 2022 | Work on final projects | 10. Data-gathering |
-| Dec 2 |  | Final presentations |  | Final presentations | Final project due |
-
-<sup>1</sup> complete before next class
-
-
-
----
+| date | quiz | topic | readings | exercise |
+|:---- |:----:|:---- |:---- |:---- |
+| Sept 9 |  | Introductions & Overview |  | 1. Markdown & R |
+| Sept 16 | 1 | Open science; Measurement; Hypothesis testing | [O'Dea et al. 2021](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01006-3); [Ross-Hellauer 2022](https://www.nature.com/articles/d41586-022-00724-0); Nguyen 2021 ([abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12823) or [video](https://www.youtube.com/watch?v=8JEzXL5OXPI)); [Heard 2023](https://scientistseessquirrel.wordpress.com/2023/11/14/the-case-against-open-data/); Kondrashov 2016 (p9-25, 60-69, 75-100) | 2. Descriptive statistics, hypothesis testing |
+| Sept 23 |  | Sampling; ANOVA | [Forstmeier et al. 2016](https://doi.org/10.1111/brv.12315); [Numbers around us 2024](https://medium.com/number-around-us/guarding-against-misleading-data-503424ecd457) | 3. Data curation; univariate ANOVA |
+| Sept 30 | 2 | Introduction to geometric morphometrics | Zelditch et al. 2012 (p1-17, 23-35) | 4. Anatomical digitization |
+| Oct 7 |  | Procrustes alignment | Zelditch et al. 2012 (p51, 53-57) | 5. GPA |
+| Oct 21 | 3 | Morphospace; Ordination | Zelditch et al. 2012 (p59-60, 62-67, 69-73, 75-102) | 6. PCA |
+| Oct 28 |  | Generalized linear modeling | Kondrashov 2016 (p 177-196) | 7. GLM |
+| Nov 4 | 4 | Disparity; Modularity; Phylogeny | Revell & Harmon 2022; Symonds & Blomberg 2014 | 8. PGLS |
+| Nov 11 |  | Colorimetry; Residual plots | [Peck et al. 2017](https://doi.org/10.1128/JB.00303-17) Suppl.; [Weller & Westneat 2019](https://peerj.com/articles/6398/) | 9. Planning final projects |
+| Nov 18 | 5 | History and social impacts | [Zhang et al. 2022](https://www.nature.com/articles/s41588-022-01038-7); [Nemeth et al 2025](https://www.sciencedirect.com/science/article/pii/S0003687024001522?via%3Dihub) | 10. Data-gathering |
+| Dec 2 |  | Graphic design; Data visualization; Work on final projects | [O'Donoghue et al. 2018](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-080917-013424) |  |
+| Dec 12 (Thursday of finals week) | | Final presentations | |  |
 
