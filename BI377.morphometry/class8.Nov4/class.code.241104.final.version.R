@@ -322,7 +322,7 @@ btree$tip.label <- str_split_fixed(btree$tip.label," ",2)[,2]
 ?strtrim
 
 # **Critical step**
-btree$tip.label <- strtrim(btree$tip.labe,5)
+btree$tip.label <- strtrim(btree$tip.label,5)
 
 # Now we'll use a function from the phylogenetics package `phytools`
 # to trim the tree now to match the species we have in our shape data.
