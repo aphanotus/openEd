@@ -37,17 +37,27 @@ Biological diversity supports the existence of life itself. It is also a source 
 
 #### Required textbook
 
-*Biological Science*, Scott Freeman, et al., 6th edition. <a href="https://www.amazon.com/Biological-Science-6th-Scott-Freeman/dp/0321976495/" target="_blank">[Amazon]</a> <a href="https://www.powells.com/book/biological-science-9780321976499" target="_blank">[Powells]</a>
+*Biological Science*, Scott Freeman, et al., 6th edition. 
 
-You should complete the assigned readings before each class. Reading in advance will allow you to engage in that day's activities. Students are encouraged to purchase used copies of the textbook. Any additional readings will be provided via Moodle.
+![](textbookcover.jpeg)
+
+I encourage you to purchase <a href="https://www.powells.com/book/biological-science-9780321976499" target="_blank">used copies</a> of the textbook. 
+
+You should complete the assigned readings before each class. Reading in advance will allow you to engage in that day's activities.
+
+### Class meetings
+
+This course is intended to be an introduction to major concepts in biology. Classes will be a mixture of lecture and small group work. Your active engagement is important to your development of skills and an understanding of biology. Therefore attendance is expected. 
+
+Class rosters are provided to each instructor with each student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this early in the semester so that I can make appropriate changes to my records. 
+
+Be aware that classes cannot be missed for an athletic practice. However, if your request is made in advance, I typically allow absences for athletic competition. 
+
+Your involvement with in-class assignments will be assessed weekly, and cannot be made-up if you are absent. If you are aware in advance that you must miss class for exceptional circumstances, please discuss this with me in advance. Isolated, occasional absences are tolerable; frequent absences will negatively affect your participation grade. Attending a different section of BI164 is not an acceptable way to make up for a missed class. (The other sections may be discussing a completely different topic on any day.) Poor attendance will also result in an academic warning.
 
 ### Laboratory
 
-The lab will give you hands-on experience exploring the principles of biology discussed in class. You will learn about the practical aspects of the way that scientists do biology: experimental techniques, proper use of equipment, methods of data analysis, and abundant scientific writing. These concepts serve as a foundation for more advanced courses in the biology major. All aspects of laboratory (communication, assignments, instruction) will be managed by your lab instructor.
-
-
-
- attend the laboratory section assigned to you. Only in the case of a family or medical emergency can you switch to a different laboratory section in a given week, and only with the permission of both lab instructors. Extracurricular activities that conflict with regularly scheduled academic classes are not considered to be emergencies. 
+The lab will give you hands-on experience exploring the principles of biology discussed in class. You will learn about the practical aspects of the way that scientists do biology: experimental techniques, proper use of equipment, methods of data analysis, and abundant scientific writing. These concepts serve as a foundation for more advanced courses in the biology major. Attend the laboratory section assigned to you. All aspects of laboratory (communication, assignments, instruction) will be managed by your lab instructor.
 
 ### Grades
 
@@ -76,14 +86,6 @@ No individual extra credit assignments will be offered.
 | 600-700     | D (<630 D-, 630-670 D, >670 D+)                     |
 | < 600       | F                                                   |
 
-### Class attendance
-
-Attendance at all class meetings is expected. Your active engagement is important to your development of skills and an understanding of biology. Class time will be used for frequent small group activities that will contribute to your participation grade. Your involvement with these in-class assignments will be assessed weekly, and cannot be made-up if you are absent. If you are aware in advance that you must miss class for exceptional circumstances, please discuss this with me in advance. Isolated, occasional absences are tolerable; chronic absence is not. Unexcused absences will negatively affect participation scores. Be aware that classes cannot be missed for an athletic practice. However, if your request is made in advance, I typically allow absences for athletic competition. Attending a different section of BI164 is not an acceptable way to make up for a missed class. (The other sections may be discussing a completely different topic on any day.) Poor attendance will also result in an academic warning.
-
-### Web content & E-mail
-
-Moodle ( http://moodle.colby.edu/ ) will be the primary electronic method of communication for this course. Announcements and material related to the course will be posted there frequently, so please check the site on a regular basis. On the site you will also find the course [syllabus](https://github.com/aphanotus/openEd/blob/main/BI164.Evolution.and.Diversity/README.md) and the schedule of topics, assignments, and PDF files from lecture slides.
-
 ### Exams
 There will be three midterm exams during the semester, and one comprehensive (cumulative) final exam covering the whole semester. Midterm exams will be closed-book, closed-note, individual-effort exams given in our regular class time on the dates below.
 
@@ -93,6 +95,10 @@ There will be three midterm exams during the semester, and one comprehensive (cu
 | Midterm 2  | Monday, April 7 |
 | Midterm 3  | Monday, May 5   |
 | Final Exam | TBA             |
+
+### Learning management platform (Moodle)
+
+Moodle ( http://moodle.colby.edu/ ) will be my primary method for communicating materials and announcements to you outside of class. There you will also find the course [syllabus](https://github.com/aphanotus/openEd/blob/main/BI164.Evolution.and.Diversity/README.md) and the schedule of topics, assignments, and PDF files from lecture slides. To contact me, please email.
 
 ### Access and Support
 
@@ -131,20 +137,24 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 
 ### Course Schedule
 
-| week of | topic | reading | notes |
-|:--- |:--- |:--- |:--- |
-| February 1 | Evolution & Diversity | Freeman Ch. 1.3-6 |  |
-| February 6 | Heredity | 13.0-2; 14.0-5; 16.0-4 | No class on Feb. 6 |
-| February 13 | Variation | 23.6, 51.2 |  |
-| February 20 | Viruses & Prokaryotes | 33.1,3-4; 26.0-1,3-4 | Midterm 1 is Tuesday evening |
-| February 27 | Microevolution | 23.0-2,4 |  |
-| March 6 | Population genetics | 23.5 |  |
-| March 13 | Protists & Fungi | 27.1,3-4; 29.1,3-4 | Midterm 2 is Wednesday evening |
-| March 20 | **Spring Break** |  |  |
-| March 27 | Phenotypic evolution | 22.0-5; 23.3 |  |
-| April 3 | Macroevolution | 25.0-4; 21.5 |  |
-| April 10 | Speciation | 24.0-3 | Midterm 3 is Thursday evening |
-| April 17 | Ecology | 49.0-5; 52.0-4; 54.0-4 |  |
-| April 24 | Plants | 28.1-3-4 |  |
-| May 1 | Animals | 25.3; 30.1-2,4; 31.1-3; 32.1-4 |  |
+| week of | topic                          | reading                            |
+| ----------- | ------------------------------ | ---------------------------------- |
+| February 5 | Introductions & Overview       | Freeman Ch 1.3-5                   |
+| February 10 | Chromosomes and their movements | 12.0-2; 13.0-3; 27.0-1,3-4; 28.0-3 |
+| February 17 | Transmission genetics          | 14.0-2                             |
+| February 24 | Inheritance of multiple traits | 14.3-6; 29.0-4                     |
+|  | ***Midterm 1 is March 3*** |  |
+| March 3     | Population genetics            | 23.0-1,6,2                         |
+| March 10    | Genetic drift                  | 23.5,4                             |
+| March 17 | Natural Selection              | 23.3; 22.4                         |
+| March 24    | *Spring break*               |                                    |
+| March 31    | Tree thinking                  | 22.0-3                             |
+|  | ***Midterm 2 is April 7*** |  |
+| April 7     | Macroevolution                 | 22.5; 25.2-4                       |
+| April 14    | Speciation                     | 24.0-4                             |
+| April 21    | Phylogenetics                  | 25.0-1                             |
+| April 28    | Important evolutionary transitions | 30.0-4; 31.0-3; 32.1-5             |
+|  | ***Midterm 3 is May 5*** |  |
+| May 5       | Biodiversity                   | 54.0-1                             |
+|  | ***Final exam  date and time  TBA*** |  |
 
