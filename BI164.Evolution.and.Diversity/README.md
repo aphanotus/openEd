@@ -10,7 +10,7 @@ Mondays, Wednesdays and Fridays 10-10:50 am, [Olin 001](https://map.colby.edu/)
 
 #### Instructor
 
-[Dr. David R. Angelini](https://www.colby.edu/directory/profile/dave.angelini/) 
+[Dr. David R. Angelini](https://www.colby.edu/people/people-directory/dave-angelini/) 
 
 e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
