@@ -64,16 +64,14 @@ Discussions of genetics may raise issues of sexism, racism and colonialism. Whil
 
 Your grade for BI279 will be based on the lecture (70%) and laboratory (30%) sections of the course. The specifics of your laboratory grade, and a lab syllabus, will be provided by your lab instructor. Your final grade for the course will be calculated based on a 1000 point total as listed below. 
 
-| course component                 | points |
-| -------------------------------- | -----: |
-| In-class participation           |     45 |
-| Quizzes (9; 5 points each)       |     45 |
-| Problem sets (6; 35 points each) |    210 |
-| Midterm 1 (February 27)          |    120 |
-| Midterm 2 (April 8)              |    140 |
-| Midterm 3 (May 8)                |    140 |
-| Lab Assignments                  |    300 |
-| **total**                        |   1000 |
+| course component                    | points |
+| ----------------------------------- | -----: |
+| In-class participation              |     50 |
+| Quizzes (10 x 5 points each)        |     50 |
+| Problem sets (4 x 50 points each)   |    200 |
+| Midterm exams (4 x 100 points each) |    400 |
+| Lab                                 |    300 |
+| **total**                           |   1000 |
 
 Students must earn a passing grade (>60%) in their lab section in order to pass the course.
 
@@ -99,15 +97,15 @@ This course will include a mix of formative and summative assessments. **Formati
 
 - **Quizzes** will be given regularly, typically via Moodle, and typically over the weekend. Quizzes are meant to be low-stakes tests of your knowledge from the previous week’s material, providing an opportunity for us both to gauge how you’re doing. 
 
-- **Problem sets** are formative assessments that will challenge you to apply facts and concepts covered in class. Your answers should be descriptive, even when questions require a specific numerical answer. The logical steps used to arrive at the answer must be included. Students may consult any source they choose and work together when answering the questions, but each student must turn in answers explained in their own words. 
+- **Problem sets** are formative assessments that will challenge you to apply facts and concepts covered in class. Your answers should be descriptive, even when questions require a specific numerical answer. The logical steps used to arrive at the answer must be included. Students may consult any source they choose and work together when answering the questions, but each student must turn in answers explained in their own words. The highest grades will require creative solutions to novel questions. 
 
-- **Midterm** exams are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. The highest grades will require creative solutions to novel questions. Each exam will include a mix of questions in different formats. Unless otherwise announced, exams will be given in the evenings, 7-9pm. If you know that you have a conflict with a scheduled exam, such as for an athletic competition or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request.
+- **Midterm** exams are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. Each exam will include a mix of questions in different formats. Unless otherwise announced, exams will be given in the evenings, 7-9pm. If you know that you have a conflict with a scheduled exam, such as for an athletic competition or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request.
 
 - **The lab** will give you hands-on experience exploring the principles of genetics discussed in class. You will learn about the proper use of equipment, manipulation of DNA, methods of data analysis, and practice scientific writing. Most aspects of the laboratory (communication, assignments, instruction) will be managed by your lab instructor. Please be aware that a passing grade in your lab section is required to pass the course.
 
 If you plan to observe religious holidays that coincide with class meetings or assignment due dates, please consult with me in the first three weeks of classes so that we may reach a mutual understanding of how you can meet the terms of your religious observance and the requirements for this course. 
 
-Late assignments without prior approval may be penalized (10% of the grade for each late day). Assignments that are late more than 7 days will not be accepted without prior agreement. 
+Late assignments without prior approval will be penalized 10% of the grade for each late day. Assignments that are late more than 7 days will not be accepted. 
 
 ### Learning management platform (Moodle)
 
