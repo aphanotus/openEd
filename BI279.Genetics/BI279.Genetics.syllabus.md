@@ -1,4 +1,4 @@
-# BI279 Genetics (DRAFT)
+# BI279 Genetics
 
 ![](images/header_waxwing1.jpg)
 
@@ -65,7 +65,7 @@ Discussions of genetics may raise issues of sexism, racism and colonialism. Whil
 Your grade for BI279 will be based on the lecture (70%) and laboratory (30%) sections of the course. The specifics of your laboratory grade, and a lab syllabus, will be provided by your lab instructor. Your final grade for the course will be calculated based on a 1000 point total as listed below. 
 
 | course component                   | points |
-| ---------------------------------- | -----: |
+|:---------------------------------- | -----: |
 | In-class participation             |     50 |
 | Quizzes (10 x 5 points each)       |     50 |
 | Problem sets (4 x 75 points each)  |    300 |
@@ -97,9 +97,9 @@ This course will include a mix of formative and summative assessments. **Formati
 
 - **Quizzes** will be given regularly, typically via Moodle, and typically over the weekend. Quizzes are meant to be low-stakes tests of your knowledge from the previous week’s material, providing an opportunity for us both to gauge how you’re doing. 
 
-- **Problem sets** are formative assessments that will challenge you to apply facts and concepts covered in class. Your answers should be descriptive, even when questions require a specific numerical answer. The logical steps used to arrive at the answer must be included. Students may consult any source they choose and work together when answering the questions, but each student must turn in answers explained in their own words. The highest grades will require creative solutions to novel questions. 
+- **Problem sets** are formative assessments that will challenge you to apply facts and concepts covered in class. Your answers should be descriptive, even when questions require a specific numerical answer. The logical steps used to arrive at the answer must be included. Students may consult any source they choose and work together when answering the questions, but each student must turn in answers explained in their own words. The highest grades will require creative solutions to novel questions. Problem sets will be made available for at least one week, around the time of an exam. Problem sets and midterm exams will cover similar content in different formats. 
 
-- **Midterm** exams are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. Each exam will include a mix of questions in different formats. Unless otherwise announced, exams will be given in the evenings, 7-9pm. If you know that you have a conflict with a scheduled exam, such as for an athletic competition or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request.
+- **Midterm exams** are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. Each exam will include a mix of questions in different formats. Exams will be given in class, on Mondays. If you know that you have a conflict with a scheduled exam date, such as for an athletic competition or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request. Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 36 hours of the scheduled exam.
 
 - **The lab** will give you hands-on experience exploring the principles of genetics discussed in class. You will learn about the proper use of equipment, manipulation of DNA, methods of data analysis, and practice scientific writing. Most aspects of the laboratory (communication, assignments, instruction) will be managed by your lab instructor. Please be aware that a passing grade in your lab section is required to pass the course.
 
@@ -148,8 +148,8 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 
 ### Tentative Course Schedule
 
-| week | date        | topic                                 | reading (Klug)                                               |
-| ---- | ----------- | ------------------------------------- | ------------------------------------------------------------ |
+| week | date        | topic        | reading (Klug)  |
+|:----:|:----------- |:------------ |:--------- |
 | 1    | February 5  | Introduction; Overview                |                                                              |
 |      |             | The chemical nature of inheritance    | 10.3                                                         |
 |      | February 7  | Review of DNA structure               | 10.6-7                                                       |
