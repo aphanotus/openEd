@@ -1,4 +1,4 @@
-# BI279 Genetics
+# BI279 Genetics (DRAFT)
 
 ![](images/header_waxwing1.jpg)
 
@@ -64,14 +64,14 @@ Discussions of genetics may raise issues of sexism, racism and colonialism. Whil
 
 Your grade for BI279 will be based on the lecture (70%) and laboratory (30%) sections of the course. The specifics of your laboratory grade, and a lab syllabus, will be provided by your lab instructor. Your final grade for the course will be calculated based on a 1000 point total as listed below. 
 
-| course component                    | points |
-| ----------------------------------- | -----: |
-| In-class participation              |     50 |
-| Quizzes (10 x 5 points each)        |     50 |
-| Problem sets (4 x 50 points each)   |    200 |
-| Midterm exams (4 x 100 points each) |    400 |
-| Lab                                 |    300 |
-| **total**                           |   1000 |
+| course component                   | points |
+| ---------------------------------- | -----: |
+| In-class participation             |     50 |
+| Quizzes (10 x 5 points each)       |     50 |
+| Problem sets (4 x 75 points each)  |    300 |
+| Midterm exams (4 x 75 points each) |    300 |
+| Lab                                |    300 |
+| **total**                          |   1000 |
 
 Students must earn a passing grade (>60%) in their lab section in order to pass the course.
 
