@@ -170,7 +170,8 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 |      | March 7     | Eukaryotic RNA processing             | 13.10-11                                                     |
 |      |             | Alternative splicing                  | 18.1                                                         |
 |      |             | mRNA decay                            | 18.2                                                         |
-| 6    | March 10    | Gene regulation in bacteria           | 16.0-5                                                       |
+| 6 | March 10 | Genetic and allelic nomenclature | 4.1-2 |
+|     |     | Gene regulation in bacteria           | 16.0-5                                                       |
 |      | March 12    | Gal1 regulation in yeast              | 17.6                                                         |
 |      |             | Eukaryotic gene regulation            | 17.0-5                                                       |
 |      |             | Eukaryotic chromatin structure        | 12.4                                                         |
@@ -184,15 +185,14 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 |      | March 21    | Transmission of alleles for one trait | 3.0-2                                                        |
 |      | March 24    | *Spring break*                        |                                                              |
 | 8    | March 31    | Independent assortment                | 3.3-6                                                        |
-|      | April 2     | Statistical genetics                  | 3.7-8                                                        |
-|      |             | Pedigree notation                     | 3.9                                                          |
-|      |             | Genetic and allelic nomenclature      | 4.0-2                                                        |
+|  | April 2 | Pedigree notation | 3.9 |
+|      |      | Statistical genetics                  | 3.7-8                                                        |
 |      | April 4     | Partial dominance of alleles          | 4.3                                                          |
 |      |             | Codominance of alleles                | 4.4                                                          |
 |      |             | Three or more alleles at one locus    | 4.5                                                          |
 |      |             | Lethal alleles                        | 4.6                                                          |
 |      |             | Sex limitation & sex influence        | 4.12                                                         |
-|      |             | maternal effect inheritance           | 9.4                                                          |
+|      |             | Maternal effect inheritance          | 9.4                                                          |
 | 9    | April 7     | Chromosomal sex determination         | 7.0-2                                                        |
 |      |             | Sex chromosome linkage                | 4.11                                                         |
 |      | April 9     | Complementation                       | 4.9                                                          |
