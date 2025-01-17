@@ -37,11 +37,11 @@ Biological diversity supports the existence of life itself. It is also a source 
 
 #### Required textbook
 
-*Biological Science*, Scott Freeman, et al., 6th edition. 
+*Biological Science*, Scott Freeman, et al., 7th edition. 
 
 ![](textbookcover.jpeg)
 
-I encourage you to purchase <a href="https://www.powells.com/book/biological-science-9780321976499" target="_blank">used copies</a> of the textbook. 
+I encourage you to purchase <a href="https://www.powells.com/book/biological-science-9780134678320" target="_blank">used copies</a> of the textbook. 
 
 You should complete the assigned readings before each class. Reading in advance will allow you to engage in that day's activities.
 
