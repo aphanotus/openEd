@@ -157,9 +157,9 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 | 2    | February 10 | Genes and regulatory elements         | 21.3-6                                                       |
 |      |             | Semiconservative DNA replication      | 11.0-1                                                       |
 |      | February 12 | PCR                                   | 20.3                                                         |
-|      | February 14 | Cellular DNA replication              | 11.2-6                                                       |
+| | February 14 | Reverse transcription; Realtime PCR | 20.3 |
+| 3 | February 17 | Cellular DNA replication              | 11.2-6                                                       |
 |      |             | Telomeres                             | 11.7                                                         |
-| 3    | February 17 | Reverse transcription; Realtime PCR   | 20.3                                                         |
 |      | February 19 | Chain-termination DNA sequencing      | 20.5                                                         |
 |      | February 21 | High-throughput DNA sequencing        |                                                              |
 | 4    | February 24 | **Exam 1**                            |                                                              |
@@ -167,7 +167,7 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 |      | February 28 | Gene editing                          | p478-9; ST1                                                  |
 | 5    | March 3     | Transcription                         | 13.0,8-9                                                     |
 |      | March 5     | The genetic code                      | 13.1-4,6                                                     |
-|      | March 7     | Eukaryotic RNA processing             | 13.10-11                                                     |
+|      | March 7     | Eukaryotic mRNA processing            | 13.10-11                                                     |
 |      |             | Alternative splicing                  | 18.1                                                         |
 |      |             | mRNA decay                            | 18.2                                                         |
 | 6 | March 10 | Genetic and allelic nomenclature | 4.1-2 |
