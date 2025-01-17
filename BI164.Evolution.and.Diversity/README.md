@@ -91,7 +91,7 @@ There will be three midterm exams during the semester, and one comprehensive (cu
 
 | exam       | date            |
 | :--------- | :-------------- |
-| Midterm 1  | Monday, March 2 |
+| Midterm 1  | Monday, March 3 |
 | Midterm 2  | Monday, April 7 |
 | Midterm 3  | Monday, May 5   |
 | Final Exam | TBA             |
