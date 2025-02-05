@@ -14,7 +14,7 @@ Mondays, Wednesdays, and Fridays 11:00-11:50am, in [Lovejoy 215](https://map.col
 
 e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
-Office hours: [TBD](https://docs.google.com/forms/d/e/1FAIpQLSdOAN1m0mFAcKsBidD8sVxt4MHCZPYKzDqa1Dj3thMcL2WcIA/viewform?usp=sharing)
+Office hours: Wednesdays 12:30 - 1:30 pm, Thursdays 10:30 - 11:30 am, or by appointment
 
 ### Prerequisite
 
@@ -99,7 +99,7 @@ This course will include a mix of formative and summative assessments. **Formati
 
 - **Problem sets** are formative assessments that will challenge you to apply facts and concepts covered in class. Your answers should be descriptive, even when questions require a specific numerical answer. The logical steps used to arrive at the answer must be included. Students may consult any source they choose and work together when answering the questions, but each student must turn in answers explained in their own words. The highest grades will require creative solutions to novel questions. Problem sets will be made available for at least one week, around the time of an exam. Problem sets and midterm exams will cover similar content in different formats. 
 
-- **Midterm exams** are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. Each exam will include a mix of questions in different formats. Exams will be given in class, on Mondays. If you know that you have a conflict with a scheduled exam date, such as for an athletic competition or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request. Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 36 hours of the scheduled exam.
+- **Midterm exams** are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. Each exam will include a mix of questions in different formats. Exams will be given in class, on Mondays. If you know that you have a conflict with a scheduled exam date, such as for an athletic competition or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request. Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 48 hours of the scheduled exam.
 
 - **The lab** will give you hands-on experience exploring the principles of genetics discussed in class. You will learn about the proper use of equipment, manipulation of DNA, methods of data analysis, and practice scientific writing. Most aspects of the laboratory (communication, assignments, instruction) will be managed by your lab instructor. Please be aware that a passing grade in your lab section is required to pass the course.
 

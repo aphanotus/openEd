@@ -14,11 +14,13 @@ Mondays, Wednesdays and Fridays 10-10:50 am, [Olin 001](https://map.colby.edu/)
 
 e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
-Office hours: [TBD](https://docs.google.com/forms/d/e/1FAIpQLSdOAN1m0mFAcKsBidD8sVxt4MHCZPYKzDqa1Dj3thMcL2WcIA/viewform?usp=sharing)
+Office hours: Wednesdays 12:30 - 1:30 pm, Thursdays 10:30 - 11:30 am, or by appointment
 
 #### Learning Assistants
 
-- TBD
+- Hannah Junn
+- Jackie Ortiz
+- Gemma Chatham
 
 ##### LA Sessions
 
@@ -95,6 +97,8 @@ There will be three midterm exams during the semester, and one comprehensive (cu
 | Midterm 2  | Monday, April 7 |
 | Midterm 3  | Monday, May 5   |
 | Final Exam | TBA             |
+
+Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 24 hours of the scheduled exam.
 
 ### Learning management platform (Moodle)
 
