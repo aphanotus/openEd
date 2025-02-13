@@ -22,9 +22,20 @@ Office hours: Wednesdays 12:30 - 1:30 pm, Thursdays 10:30 - 11:30 am, or by appo
 - Jackie Ortiz
 - Gemma Chatham
 
-##### LA Sessions
+<details open>
+  <summary>**LA Drop-In Sessions (DRIPS)**</summary>
+  - Mondays 6-7pm, outside Olin 019B
+  - Wednesdays 6-7pm, 1st floor Miller tall tables
+  - Thursdays 7-8pm, outside Olin 019B
+</details>
 
-TBD
+<details open>
+  <summary>**LA Plus Sessions (LAPS)**</summary>
+  - Wednesdays 7-8pm, Olin 019B
+  - Sundays 7-8pm, location TBD
+  - Mondays 7-8pm , location TBD
+  *Attending LAPS any two weeks before Exam1 is worth 10 points*
+</details>
 
 ### Course Description
 
