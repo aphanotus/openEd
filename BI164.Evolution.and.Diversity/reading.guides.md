@@ -321,6 +321,8 @@ Practice problem answers are at the back of the book. If you cannot complete the
 		<li><i>Introduction after the subsection heading</i>
 		<li><i>Identifying Alleles as Recessive or Dominant</i>
 	</ul>
+</details>
+
 #### Define the following vocabulary terms
 
 <details closed>
