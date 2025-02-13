@@ -143,12 +143,15 @@ Honesty, integrity, and personal responsibility are cornerstones of a Colby educ
 
 Colby College prohibits [sexual misconduct or gender based discrimination](https://life.colby.edu/your-safety/sexual-violence-title-ix/title-ix-policy-guidance/) and is obligated, by federal and state laws, to respond to reports and provide resources to students. As your professor I am considered a "responsible employee" which requires me to report incidence of sexual assault, sexual harassment, dating violence, or stalking to the [Title IX Coordinator](https://life.colby.edu/your-safety/sexual-violence-title-ix/meet-the-staff/). 
 
-Confidential support services: 
-
-- [Counseling Services](http://www.colby.edu/counseling/) (207-859-4490) 
-- [Title IX Confidential Advocate](https://life.colby.edu/your-safety/sexual-violence-title-ix/meet-the-staff/) (207-509-9122) 
-- [Office of Religious and Spiritual Life](https://life.colby.edu/what-to-do/spiritual-life/) (207-859-4272 )
-- [Maine Coalition Against Sexual Assault](https://www.mecasa.org/) (24/7 helpline: 1-800-871-7741)
+<details closed>
+  <summary><b>Confidential support services</b></summary>
+  <ul>
+    <li><a href="http://www.colby.edu/counseling/">Counseling Services</a> (207-859-4490) 
+    <li><a href="https://life.colby.edu/your-safety/sexual-violence-title-ix/meet-the-staff/">Title IX Confidential Advocate</a> (207-509-9122) 
+    <li><a href="https://life.colby.edu/what-to-do/spiritual-life/">Office of Religious and Spiritual Life</a> (207-859-4272 )
+    <li><a href="https://www.mecasa.org/">Maine Coalition Against Sexual Assault</a> (24/7 helpline: 1-800-871-7741)
+  </ul>
+</details>
 
 ### Accommodations for public health
 

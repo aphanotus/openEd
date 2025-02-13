@@ -21,15 +21,19 @@ The guide tells you:
 - what are some of the things you should be able to do after completing the reading, and
 - which practice problems in the chapter are most relevant for BI164 
 
-#### How should I use the Reading Guide each week?
+#### How should I use this Reading Guide?
 
 > *Tip: Look for notes from Dr. Angelini indented in this style.*
 
-First, you should read the assigned sections and take notes. “Taking notes” means writing notes by hand, annotating the text with your own comments, or typing up a structured notes document. Importantly, copying and pasting text from the textbook into a notes document has been shown to have no benefit for your learning or exam scores! Similarly, simply highlighting the textbook has limited impact.
+Each week, you should read the assigned textbook sections and take notes. “Taking notes” means writing notes by hand, annotating the text with your own comments, or typing up a structured notes document. Importantly, copying and pasting text from the textbook into a notes document has been shown to have no benefit for your learning or exam scores! Similarly, simply highlighting the textbook has limited impact.
+
+Remember, reading notes should be *in addition* to notes you take during class. 
 
 ##### Define the following vocabulary terms
 
-Write out your own definitions of each vocab term and/or check definitions against the glossary at the back of the book.
+Write out your own definitions of each vocab term and/or check definitions against the glossary at the back of the book. 
+
+Vocab sections below will initially be collapsed. You will need to click on the triangle (▶︎) to expand them.
 
 ##### Closely review the following tables / figures
 
@@ -55,20 +59,24 @@ Practice problem answers are at the back of the book. If you cannot complete the
 > *Chapter 1 provides a high-level overview of Biology. Sections 3 and 6 review major concepts from BI163. When I write exam questions, I will not directly be looking to these sections for questions, instead I will assume you know these concepts! Therefore, this brief review is simply for your own benefit. Sections 4 and 5 introduce ideas about evolution and biodiversity that we will develop in this course. Again, I do not plan to write exam questions based on these sections because we will dive deeper into these topics later in the course.* 
 
 #### Define the following vocabulary terms
-
-- Chromosome
-- DNA
-- Double helix
-- Central Dogma
-- RNA
-- Protein
-- ATP
-- Species
-- Heritable
-- Eukaryote
-- Prokaryote
-- Scientific name
-- Control
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+    <li>Chromosome
+    <li>DNA
+    <li>Double helix
+    <li>Central Dogma
+    <li>RNA
+    <li>Protein
+    <li>ATP
+    <li>Species
+    <li>Heritable
+    <li>Eukaryote
+    <li>Prokaryote
+    <li>Scientific name
+    <li>Control    
+  </ul>
+</details>
 
 #### Closely review the following tables/figures 
 
@@ -103,10 +111,15 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 #### Define the following vocabulary terms
 
-- Theory
-- Evolution
-- Natural selection
-- Population
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Theory
+  <li>Evolution
+  <li>Natural selection
+  <li>Population
+  </ul>
+</details>
 
 #### At the end of this reading you should be able to
 
@@ -131,17 +144,22 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 #### Define the following vocabulary terms
 
-- Cell division
-- Embryo
-- Mitosis
-- Somatic cells
-- Cytokinesis
-- Chromosome
-- Gene
-- Chromatid
-- Centromere
-- Sister chromatids
-- M phase
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Cell division
+  <li>Mitosis
+  <li>Somatic cells
+  <li>Germline
+  <li>Cytokinesis
+  <li>Chromosome
+  <li>Gene
+  <li>Chromatid
+  <li>Centromere
+  <li>Sister chromatids
+  <li>M phase
+  </ul>
+</details>
 
 #### Closely review the following tables/figures
 
@@ -175,21 +193,26 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 #### Define the following vocabulary terms
 
-- Sexual reproduction
-- Asexual reproduction
-- Haploid
-- Diploid
-- Ploidy
-- Life cycle
-- Fertilization
-- Mitosis
-- Meiosis
-- Sporophyte
-- Spores
-- Gametophyte
-- Gamete
-- Zygote
-- Alternation of generations
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Sexual reproduction
+  <li>Asexual reproduction
+  <li>Haploid
+  <li>Diploid
+  <li>Ploidy
+  <li>Life cycle
+  <li>Fertilization
+  <li>Mitosis
+  <li>Meiosis
+  <li>Sporophyte
+  <li>Spores
+  <li>Gametophyte
+  <li>Gamete
+  <li>Zygote
+  <li>Alternation of generations
+  </ul>
+</details>
 
 
 #### Review the following tables/figures
@@ -215,32 +238,38 @@ Practice problem answers are at the back of the book. If you cannot complete the
 - Chapter 13.0-3
 
 #### Define the following vocabulary terms
-- Sperm
-- Egg
-- Fertilization
-- Gamete
-- Meiosis
-- Sex chromosome
-- Autosome
-- Homologous pair (know synonyms)
-- Gene
-- Alele
-- Ploidy (diploid, haploid)
-- Haploid number (*n*)
-- Sister chromatid
-- Bivalent
-- Non-sister chromatid
-- Tetrad
-- Meiosis I
-- Meiosis II
-- Chiasmata
-- Asexual reproduction
-- Sexual reproduction
-- Independent assortment
-- Genetic recombination
-- Crossing over
-- Nondisjunction
-- Aneuploid (aneuploidy)
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Sperm
+  <li>Egg
+  <li>Fertilization
+  <li>Gamete
+  <li>Meiosis
+  <li>Sex chromosome
+  <li>Autosome
+  <li>Homologous pair (know synonyms)
+  <li>Gene
+  <li>Alele
+  <li>Ploidy (diploid, haploid)
+  <li>Haploid number (*n*)
+  <li>Sister chromatid
+  <li>Bivalent
+  <li>Non-sister chromatid
+  <li>Tetrad
+  <li>Meiosis I
+  <li>Meiosis II
+  <li>Chiasmata
+  <li>Asexual reproduction
+  <li>Sexual reproduction
+  <li>Independent assortment
+  <li>Genetic recombination
+  <li>Crossing over
+  <li>Nondisjunction
+  <li>Aneuploid (aneuploidy)
+  </ul>
+</details>
 
 #### Closely review the following tables/figures
 
@@ -276,56 +305,66 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 #### Reading
 
-- Chapter 14.4\*, 0-2, 3, 5\*\*, 4\*, 6\*\*\*
-
-> \* *Subsection topics from section 14.4 will be covered in two phases. The first section (p306) will start our coverage of transmission genetics. We will later return to consider the influence of sex and sex chromosomes (p 307-8).*
-> \*\* *Subsection topic from section 14.5:*
->		*How Many Alleles Can a Gene Have?*
->		*Are Alleles Always Dominant or Recessive?*
->		*Does Each Gene Affect Just One Trait?*
->		*Are Traits Determined Exclusively by Gene?*
-> \*\*\* *Subsection topic from section 14.6:*
->		*Introduction after the subsection heading*
->		*Identifying Alleles as Recessive or Dominant* 
-
+<details closed>
+  <summary>Chapter 14.4, 0-2, 3, 5, 4, 6</summary>
+  <ul>
+  <li>Subsection topics from section 14.4 will be covered in two phases. The first section (p306) will start our coverage of transmission genetics. We will later return to consider the influence of sex and sex chromosomes (p 307-8).
+  <li>Subsection topics from section 14.5:
+  <ul>
+		<li><i>How Many Alleles Can a Gene Have?</i>
+		<li><i>Are Alleles Always Dominant or Recessive?</i>
+		<li><i>Does Each Gene Affect Just One Trait?</i>
+		<li><i>Are Traits Determined Exclusively by Gene?</i>
+	</ul>
+	<li>Subsection topics from section 14.6:
+	<ul>
+		<li><i>Introduction after the subsection heading</i>
+		<li><i>Identifying Alleles as Recessive or Dominant</i>
+	</ul>
 #### Define the following vocabulary terms
-- Trait
-- Model organism
-- Self-fertilization
-- Cross
-- Phenotype
-- Genotype
-- Allele
-- Homozygous; Heterozygous
-- Dominant
-- Recessive
-- Test cross
-- Gene
-- Locus
-- P1 generation, F1 generation, etc.
-- Monohybrid cross
-- Dihybrid cross
-- Reciprocal cross
-- Chromosome segregation
-- Independent assortment
-- Mendelian ratio
-- Punnett square
-- Sex chromosome
-- Wild type
-- Mutant
-- sex-linked
-- X-linked
-- Autosome
-- Linkage
-- Multiple allelism
-- Complete dominance
-- Partial dominance
-- Codominance
-- Pleiotropy
-- Discrete trait
-- Quantitative trait
-- Additive allele
-- Pedigree
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Trait
+  <li>Model organism
+  <li>Self-fertilization
+  <li>Cross
+  <li>Phenotype
+  <li>Genotype
+  <li>Allele
+  <li>Homozygous; Heterozygous
+  <li>Dominant
+  <li>Recessive
+  <li>Test cross
+  <li>Gene
+  <li>Locus
+  <li>P1 generation, F1 generation, etc.
+  <li>Monohybrid cross
+  <li>Dihybrid cross
+  <li>Reciprocal cross
+  <li>Chromosome segregation
+  <li>Independent assortment
+  <li>Mendelian ratio
+  <li>Punnett square
+  <li>Sex chromosome
+  <li>Wild type
+  <li>Mutant
+  <li>sex-linked
+  <li>X-linked
+  <li>Autosome
+  <li>Linkage
+  <li>Multiple allelism
+  <li>Complete dominance
+  <li>Partial dominance
+  <li>Codominance
+  <li>Pleiotropy
+  <li>Discrete trait
+  <li>Quantitative trait
+  <li>Additive allele
+  <li>Pedigree
+  </ul>
+</details>
 
 #### Closely review the following tables/figures
 
