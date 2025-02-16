@@ -2,7 +2,7 @@
 
 *These guides are customized for Dr. Angelini’s 2025 Section B.* 
 
-[Chapter 1](Ch1)
+[Chapter 1](#Chapter-1)
 
 
 The best ways to succeed in BI164:
@@ -54,7 +54,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 ## Exam 1 Material
 
 
-### [Chapter 1: Introduction, Review, and Overview](#Ch1)
+### Chapter 1
 
 #### Reading: 1.3-6
 
