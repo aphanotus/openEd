@@ -2,6 +2,9 @@
 
 *These guides are customized for Dr. Angelini’s 2025 Section B.* 
 
+[Chapter 1](Ch1)
+
+
 The best ways to succeed in BI164:
 
 - Come to class and engage with the lecture and activities
@@ -51,8 +54,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 ## Exam 1 Material
 
 
-
-### Chapter 1: Introduction, Review, and Overview
+### [Chapter 1: Introduction, Review, and Overview](#Ch1)
 
 #### Reading: 1.3-6
 
@@ -213,8 +215,6 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Alternation of generations
   </ul>
 </details>
-
-
 #### Review the following tables/figures
 
 - Figure 27.16
@@ -222,7 +222,9 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 #### At the end of this reading you should be able to
 
+- Understand that there are multiple modes of reproduction and sex determination across animals, fungi, and plants
 - Complete a life cycle diagram of a eukaryote, labeling: haploid stages, diploid stages, mitosis, fertilization, zygote, meiosis, gametes, spores, gametophytes, and sporophytes
+- Recognize how life cycles differ for plants, fungi, and animals: haploid, diploid, meiosis, mitosis, fertilization, gamete
 
 #### Relevant practice problems
 
@@ -246,6 +248,8 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Egg
   <li>Fertilization
   <li>Gamete
+  <li>Germline
+  <li>Somatic (or Soma)
   <li>Meiosis
   <li>Sex chromosome
   <li>Autosome
@@ -271,6 +275,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
   </ul>
 </details>
 
+
 #### Closely review the following tables/figures
 
 - Table 13.1 (terminology)
@@ -281,10 +286,16 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 #### At the end of this reading you should be able to
 
-- Draw chromosomes in cells that vary in their replication (unreplicated vs. replicated), with different ploidy 
 - Describe the difference between a sister chromatid, a non-sister chromatid, a chromosome, a homologous pair, and a tetrad
+
+- Understand that the segregation of homologous chromosomes (during meiosis I) leads to a reduction in ploidy
 - Explain how meiosis creates genetic variation
-- Contrast the outcomes of nondisjunction in meiosis I vs meiosis II
+- Understand the events of meiosis I and II 
+- Understand how nondisjunction leads to aneuploidy
+  - Contrast the outcomes of nondisjunction in meiosis I vs meiosis II
+- Understand that the outcome of meiosis in diploid animals is haploid gametes
+- Understand that homologous chromosomes can contain different alleles whereas sister chromatids do not
+- Apply your understanding of ploidy to chromosome numbers within a cell
 
 #### Relevant practice problems: 
 
