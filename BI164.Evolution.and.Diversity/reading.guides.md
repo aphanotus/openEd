@@ -347,7 +347,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 **Transmission Genetics (or “Mendel and the Gene”)**
 
 > [!TIP]
-> Chapter 14 has a lot for us to cover! Spread out your reading, and I suggest going in the order listed above. That's the order in which we will cover topics in the lecture.
+> Chapter 14 has a lot for us to cover! Spread out your reading, and I suggest going in the order listed below. That's the order in which we will cover topics in the lecture.
 
 
 #### Reading
