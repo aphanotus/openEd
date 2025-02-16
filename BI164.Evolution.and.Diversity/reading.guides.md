@@ -3,13 +3,13 @@
 *These guides are customized for Dr. Angelini’s 2025 Section B.* 
 
 > [!NOTE]
-> **Table of Contents**
-> [What is a Reading Guide?](#What-is-a-Reading-Guide)
-> [Chapter 1](#Chapter-1): Introduction, review and overview
-> [Chapter 22](#Chapter-22): Overview of evolution by natural selection
-> [Chapter 12](#Chapter-12): Mitosis
-> [Chapter 27](#Chapter-27): Alternation of generation (with protists as an example) 
-> [Chapter 13](#Chapter-13): Meiosis
+> **Table of Contents**<br>
+> [What is a Reading Guide?](#What-is-a-Reading-Guide)<br>
+> [Chapter 1](#Chapter-1): Introduction, review and overview<br>
+> [Chapter 22](#Chapter-22): Overview of evolution by natural selection<br>
+> [Chapter 12](#Chapter-12): Mitosis<br>
+> [Chapter 27](#Chapter-27): Alternation of generation (with protists as an example) <br>
+> [Chapter 13](#Chapter-13): Meiosis<br>
 > [Chapter 14](#Chapter-14): Transmission Genetics (or “Mendel and the Gene”)
 
 
@@ -245,6 +245,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Alternation of generations
   </ul>
 </details>
+
 #### Review the following tables/figures
 
 - Figure 27.16
@@ -306,6 +307,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Aneuploid (aneuploidy)
   </ul>
 </details>
+
 #### Closely review the following tables/figures
 
 - Table 13.1 (terminology)
