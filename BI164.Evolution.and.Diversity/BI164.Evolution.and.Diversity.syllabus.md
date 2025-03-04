@@ -161,62 +161,62 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 
 ### Course Schedule
 
-|  week  | date        | topic                             | reading (Freeman)      |
-| :----: | ----------- | --------------------------------- | ---------------------- |
-|   1    | February 5  | Introductions                     | 1.3,6                  |
-|        | February 7  | Overview of Evolutionary Biology  | 1.4-5; 22.1            |
-|        |             | Review of Mitosis                 | 12.0-2,4               |
-|   2    | February 10 | Alternation of Generations        | 27.3                   |
-|        |             | Meiosis                           | 13.0-2                 |
-|        |             | Nondisjunction                    | 13.3                   |
-|        | February 12 | Alleic segregation                | 14.4                   |
-|        |             | Transmission genetics             | 14.0-2                 |
-|        | February 14 | Independent assortment            | 14.3                   |
-|   3    | February 17 | Alleles and their interactions    | 14.5                   |
-|        | February 19 | Allele interactions with sex      | 14.5-6                 |
-|        | February 21 | Problem solving in genetics       |                        |
-|   4    | February 24 | Epigenetics                       | 19.2                   |
-|        |             | Non-genetic inheritance           |                        |
-|        | February 26 | Life cycles in diverse eukaryotes | 27.3; 28.3; 29.3, 30.3 |
-|        | February 28 | time to catch up                  |                        |
-|   5    | March 3     | **Exam 1**                        |                        |
-|        | March 5     | The Hardy-Weinberg Model          | 23.0-1                 |
-|        | March 7     | Non-random mating                 | 23.2                   |
-|   6    | March 10    | Mutation                          | 23.6                   |
-|        |             | Migration                         | 23.5                   |
-|        | March 12    | Genetic drift                     | 23.4                   |
-|        | March 14    | Wright's fixation index (Fst)     |                        |
-|   7    | March 17    | Artificial selection              | 22.3                   |
-|        |             | Quantitative traits               | 14.5                   |
-|        | March 19    | Natural selection                 | 23.3                   |
-|        | March 21    | Population genetics of selection  |                        |
-|        |             | Fitness dominance                 |                        |
-|   8    | March 31    | Sexual selection                  | 23.3                   |
-|        | April 2     | Misconceptions about evolution    |                        |
-|        | April 4     | time to catch up                  |                        |
-|   9    | April 7     | **Exam 2**                        |                        |
-|        | April 9     | Tree thinking                     |                        |
-|        | April 11    | Homology; Convergence             | 22.2                   |
-|        |             | Biogeography & Deep Time          | 22.2                   |
-|   10   | April 14    | Phylogenetics                     | 25.0-1                 |
-|        |             | Species concepts                  | 24.0-1                 |
-|        | April 16    | Allopatric speciation             | 24.2                   |
-|        |             | Sympatric speciation              | 24.3                   |
-|        | April 18    | Secondary contact                 | 24.4                   |
-|   11   | April 21    | Adaptive radiations               | 25.3                   |
-|        |             | Evolution(s) of multicellularity  |                        |
-|        |             | Origins of Eukaryotes             | 27.0-1,3               |
-|        |             | Symbiosis                         |                        |
-|        | April 23    | Intro to Animals                  | 30.1-2                 |
-|        |             | The Cambrian Explosion            | 25.3                   |
-|        |             | Animal development                | 25.3; 21.2             |
-|        | April 25    | Protostome body plans             | 31.0-3                 |
-|        |             | Deutrostome body plans            | 32.0-4                 |
-|   12   | April 28    | Biodiversity indices              | 52.2                   |
-|        | April 30    | Amniotes, Synapsids & Dinosaurs   |                        |
-|        |             | Mass extinctions                  | 25.4                   |
-|   13   | May 5       | **Exam 3**                        |                        |
-|        | May 7       | Community ecology                 | 52.1                   |
-|        | May 9       | Global patterns of biodiversity   | 52.4                   |
-| Finals | **TBA**     | **Cumulative final exam**         |                        |
+|  week  | date        | topic                               | reading (Freeman)      |
+| :----: | ----------- | ----------------------------------- | ---------------------- |
+|   1    | February 5  | Introductions                       | 1.3,6                  |
+|        | February 7  | Overview of Evolutionary Biology    | 1.4-5; 22.1            |
+|        |             | Review of Mitosis                   | 12.0-2,4               |
+|   2    | February 10 | Alternation of Generations          | 27.3                   |
+|        |             | Meiosis                             | 13.0-2                 |
+|        |             | Nondisjunction                      | 13.3                   |
+|        | February 12 | Alleic segregation                  | 14.4                   |
+|        |             | Transmission genetics               | 14.0-2                 |
+|        | February 14 | Independent assortment              | 14.3                   |
+|   3    | February 17 | Alleles and their interactions      | 14.5                   |
+|        | February 19 | Allele interactions with sex        | 14.5-6                 |
+|        | February 21 | Problem solving in genetics         |                        |
+|   4    | February 24 | Epigenetics                         | 19.2                   |
+|        |             | Non-genetic inheritance             |                        |
+|        | February 26 | Life cycles in diverse eukaryotes   | 27.3; 28.3; 29.3, 30.3 |
+|        | February 28 | time to catch up                    |                        |
+|   5    | March 3     | **Exam 1**                          |                        |
+|        | March 5     | The Hardy-Weinberg Model            | 23.0-1                 |
+|        | March 7     | Non-random mating                   | 23.2                   |
+|   6    | March 10    | Mutation                            | 23.6                   |
+|        |             | Migration                           | 23.5                   |
+|        | March 12    | Genetic drift                       | 23.4                   |
+|        | March 14    | Wright's fixation index (Fst)       |                        |
+|   7    | March 17    | Artificial selection                | 22.3                   |
+|        |             | Quantitative traits                 | 14.5                   |
+|        | March 19    | Natural selection                   | 23.3                   |
+|        | March 21    | Population genetics of selection    |                        |
+|        |             | Fitness dominance                   |                        |
+|   8    | March 31    | Sexual selection                    | 23.3                   |
+|        | April 2     | Misconceptions about evolution      |                        |
+|        | April 4     | time to catch up                    |                        |
+|   9    | April 7     | **Exam 2**                          |                        |
+|        | April 9     | Tree thinking                       |                        |
+|        | April 11    | Homology; Convergence               | 22.2                   |
+|        |             | Biogeography & Deep Time            | 22.2                   |
+|   10   | April 14    | Phylogenetics                       | 25.0-1                 |
+|        |             | Species concepts                    | 24.0-1                 |
+|        | April 16    | Allopatric speciation               | 24.2                   |
+|        |             | Sympatric speciation                | 24.3                   |
+|        | April 18    | Secondary contact                   | 24.4                   |
+|   11   | April 21    | Adaptive radiations                 | 25.3                   |
+|        |             | Evolution(s) of multicellularity    |                        |
+|        |             | Origins of Eukaryotes               | 27.0-1,3               |
+|        |             | Symbiosis                           |                        |
+|        | April 23    | Intro to Animals                    | 30.1-2                 |
+|        |             | The Cambrian Explosion              | 25.3                   |
+|        |             | Animal development                  | 25.3; 21.2             |
+|        | April 25    | Protostome body plans               | 31.0-3                 |
+|        |             | Deutrostome body plans              | 32.0-4                 |
+|   12   | April 28    | Biodiversity indices                | 52.2                   |
+|        | April 30    | Amniotes, Synapsids & Dinosaurs     |                        |
+|        |             | Mass extinctions                    | 25.4                   |
+|   13   | May 5       | **Exam 3**                          |                        |
+|        | May 7       | Community ecology                   | 52.1                   |
+|        | May 9       | Global patterns of biodiversity     | 52.4                   |
+| Finals | May 14      | **Cumulative final exam** (6:00 PM) |                        |
 
