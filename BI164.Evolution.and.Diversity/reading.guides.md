@@ -125,7 +125,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-## Chapter 22
+### Chapter 22
 
 **Evolution by Natural Selection**
 
@@ -160,7 +160,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-## Chapter 12
+### Chapter 12
 
 **Mitosis**
 
@@ -215,7 +215,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-## Chapter 27
+### Chapter 27
 
 **Alternation of generation (with protists as an example)**
 
@@ -264,7 +264,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-## Chapter 13
+### Chapter 13
 
 **Meiosis**
 
@@ -342,7 +342,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-## Chapter 14
+### Chapter 14
 
 **Transmission Genetics (or “Mendel and the Gene”)**
 
@@ -399,10 +399,12 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Sex chromosome
   <li>Wild type
   <li>Mutant
+  <li>sex-influenced
+  <li>sex-limited
   <li>sex-linked
   <li>X-linked
-  <li>Autosome
-  <li>Linkage
+  <li>autosome
+  <li>linkage
   <li>Multiple allelism
   <li>Complete dominance
   <li>Partial dominance
@@ -454,6 +456,103 @@ Practice problem answers are at the back of the book. If you cannot complete the
 > [!TIP]
 > Everyone loves Punnett Squares! \- But understanding how basic probabilities are used in the fork-line method will provide you with a more reliable and flexible way to approach genetics problems!
 
+## Exam 2 Material
+
+### Chapter 19
+
+**Control of Gene Expression in Eukaryotes**
+
+#### Reading
+
+- Chapter 19.2
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>epigenetics
+  <li>DNA methylation
+  <li>chromatyin remodeling
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- TBD
+
+
+#### At the end of this reading you should be able to
+
+- TBD
+
+
+#### Relevant practice problems
+
+- TBD
+
+
+
+### Chapter 23
+
+**Evolutionary Processes**
+
+> [!TIP]
+> Chapter 23 is important and we'll cover it slowly. Section 23.3 is something we'll initially pass over and return to later.
+
+
+#### Reading
+
+- Chapter 23.0-2, 6, 5, 4, 3
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Evolution
+  <li>Population genetics
+  <li>Population
+  <li>Gene pool
+  <li>Allele
+  <li>Allele frequency (p and q)
+  <li>Hardy-Weinberg equilibrium
+  <li>Random mating
+  <li>Nonrandom mating
+  <li>Inbreeding
+  <li>Gene flow
+  <li>Migration
+  <li>Genetic drift
+  <li>Genotype frequency
+  <li>Self-fertilization
+  <li>Deleterious allele
+  <li>Fitness
+  <li>Inbreeding depression
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Unnumbered Figure p470 for review of terms: allele, genotype, phenotype 
+- Figures 23.2 and 23.3 (to understand how the Hardy-Weinberg equation is derived)
+- Figure 23.4 (to understand how inbreeding decreases heterozygosity)
+- Optional: Review Quantitative Methods 23.1 if you need more support understanding or practicing using the Hardy-Weinberg Principle
+
+
+#### At the end of this reading you should be able to
+
+- Explain why the Hardy-Weinberg principle provides a null model for evolution
+- Know the assumptions of the Hardy-Weinberg model
+- Given the observed genotype frequencies in a population, calculate the allele frequencies using the Hardy-Weinberg model
+- Given the frequencies of two alleles in a population, calculate the predicted offspring genotype frequencies using the Hardy-Weinberg model
+- Explain the effect of nonrandom mating on genotype and/or allele frequencies
+
+
+#### Relevant practice problems
+
+- All of the **blue ✓** questions in sections 23.1-2
+- End of chapter questions: 1, 2, 5, 6
+- Walk through the 23.1 "case study" section
 
 
 ---

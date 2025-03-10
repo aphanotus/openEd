@@ -10,7 +10,7 @@ Mondays, Wednesdays, and Fridays 11:00-11:50am, in [Lovejoy 215](https://map.col
 
 #### Instructor
 
-[Dr. David R. Angelini](https://www.colby.edu/people/people-directory/dave-angelini/) 
+[Dr. David R. Angelini](https://www.colby.edu/people/people-directory/dave-angelini/)
 
 e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
@@ -39,7 +39,7 @@ Throughout this course, our goals are for students to:
 
 There are is no required textbook for this course. However, students are **strongly encouraged** to read from the following text:
 
-Klug W.S. et al. *Concepts of Genetics, 12th Edition*. 2019. Pearson/Benjamin Cummings. Students are encouraged to purchase used copies of the textbook. Support cannot be provided­ for older or international editions of this text. 
+Klug W.S. et al. *Concepts of Genetics, 12th Edition*. 2019. Pearson/Benjamin Cummings. Students are encouraged to purchase used copies of the textbook. Support cannot be provided­ for older or international editions of this text.
 
 ![](images/klug12Ecover.png)
 
@@ -47,22 +47,22 @@ Additional readings will be provided via Moodle.
 
 ### Class meetings
 
-Classes will involve a combination of instructor presentation, in-class problem solving individually and in groups, as well as class discussion. Therefore, attendance and your engagement are expected. Classes should be considered conversational, so please feel free to ask questions at any time. 
+Classes will involve a combination of instructor presentation, in-class problem solving individually and in groups, as well as class discussion. Therefore, attendance and your engagement are expected. Classes should be considered conversational, so please feel free to ask questions at any time.
 
-Class rosters are provided to each instructor with each student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this early in the semester so that I can make appropriate changes to my records. 
+Class rosters are provided to each instructor with each student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this early in the semester so that I can make appropriate changes to my records.
 
-Because of the interactive nature of this course, attendance and engagement are critical. Please contact me if you anticipate an absence from class. 
+Because of the interactive nature of this course, attendance and engagement are critical. Please contact me if you anticipate an absence from class.
 
-Be aware that classes cannot be missed for an athletic practice. However, if your request is made in advance, I typically allow absences for athletic competition. 
+Be aware that classes cannot be missed for an athletic practice. However, if your request is made in advance, I typically allow absences for athletic competition.
 
 If you are aware in advance that you must miss class for exceptional circumstances, please discuss this with me in advance. Isolated, occasional absences are tolerable; frequent absences will negatively affect your participation grade.
 
-Discussions of genetics may raise issues of sexism, racism and colonialism. While this course will focus on biology, the social history of the topic must be acknowledged as we seek to build a more antiracist community. Therefore, it is expected that conversations on these topics, while potentially uncomfortable, will be embraced with respect, compassion and mindful reflection. At any time, if anyone feels that readings, comments in discussion, or structures of the course treat these subjects inappropriately, that critique is welcomed, openly or privately. 
+Discussions of genetics may raise issues of sexism, racism and colonialism. While this course will focus on biology, the social history of the topic must be acknowledged as we seek to build a more antiracist community. Therefore, it is expected that conversations on these topics, while potentially uncomfortable, will be embraced with respect, compassion and mindful reflection. At any time, if anyone feels that readings, comments in discussion, or structures of the course treat these subjects inappropriately, that critique is welcomed, openly or privately.
 
 
 ### Grades
 
-Your grade for BI279 will be based on the lecture (70%) and laboratory (30%) sections of the course. The specifics of your laboratory grade, and a lab syllabus, will be provided by your lab instructor. Your final grade for the course will be calculated based on a 1000 point total as listed below. 
+Your grade for BI279 will be based on the lecture (70%) and laboratory (30%) sections of the course. The specifics of your laboratory grade, and a lab syllabus, will be provided by your lab instructor. Your final grade for the course will be calculated based on a 1000 point total as listed below.
 
 | course component                   | points |
 |:---------------------------------- | -----: |
@@ -77,7 +77,7 @@ Students must earn a passing grade (>60%) in their lab section in order to pass 
 
 Assignments are not accepted late, except in the case of a valid, compelling and documented justification.
 
-No individual extra credit assignments will be offered. 
+No individual extra credit assignments will be offered.
 
 | point range | final grade assigned                                |
 | :---------- | :-------------------------------------------------- |
@@ -93,19 +93,19 @@ Remember that while diligent studying is typically essential for success, on its
 
 This course will include a mix of formative and summative assessments. **Formative assessments** are meant to encourage you to build knowledge and skills, and they allow you to gauge your progress with the material before more high-stakes assessments. In these assignments you have flexibility to try (and perhaps fail) to apply skills and concepts with little or no contribution to your final grade at stake. However, to get the most out of this course, your engagement in every activity is necessary. You will encounter multiple overlapping concepts throughout the semester and review from previous courses. This design is intentional, because it will foster greater fluency and deeper understanding. **Summative assessments**, such as exams allow you to demonstrate mastery of content and concepts.
 
-- **Participation** can best be described as displaying your earnest attempt to engage the material. Although I encourage all of you to be active participants during in-class activities, I realize that different people may be comfortable expressing themselves in different contexts. Therefore, participation may also include questions after class or brought during office hours. 
+- **Participation** can best be described as displaying your earnest attempt to engage the material. Although I encourage all of you to be active participants during in-class activities, I realize that different people may be comfortable expressing themselves in different contexts. Therefore, participation may also include questions after class or brought during office hours.
 
-- **Quizzes** will be given regularly, typically via Moodle, and typically over the weekend. Quizzes are meant to be low-stakes tests of your knowledge from the previous week’s material, providing an opportunity for us both to gauge how you’re doing. 
+- **Quizzes** will be given regularly, typically via Moodle, and typically over the weekend. Quizzes are meant to be low-stakes tests of your knowledge from the previous week’s material, providing an opportunity for us both to gauge how you’re doing.
 
-- **Problem sets** are formative assessments that will challenge you to apply facts and concepts covered in class. Your answers should be descriptive, even when questions require a specific numerical answer. The logical steps used to arrive at the answer must be included. Students may consult any source they choose and work together when answering the questions, but each student must turn in answers explained in their own words. The highest grades will require creative solutions to novel questions. Problem sets will be made available for at least one week, around the time of an exam. Problem sets and midterm exams will cover similar content in different formats. 
+- **Problem sets** are formative assessments that will challenge you to apply facts and concepts covered in class. Your answers should be descriptive, even when questions require a specific numerical answer. The logical steps used to arrive at the answer must be included. Students may consult any source they choose and work together when answering the questions, but each student must turn in answers explained in their own words. The highest grades will require creative solutions to novel questions. Problem sets will be made available for at least one week, around the time of an exam. Problem sets and midterm exams will cover similar content in different formats.
 
-- **Midterm exams** are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. Each exam will include a mix of questions in different formats. Exams will be given in class, on Mondays. If you know that you have a conflict with a scheduled exam date, such as for an athletic competition or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request. Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 48 hours of the scheduled exam.
+- **Midterm exams** are summative assessments meant to sample your knowledge and understanding. You will be expected to know specific facts, basic concepts, and the purpose and interpretation of experiments. Each exam will include a mix of questions in different formats. Exams will be given in class, on Mondays. If you know that you have a conflict with a scheduled exam date, such as for an athletic competition or religious observance, please notify me at least one week in advance and, if possible, arrangements will be made to accommodate your request. Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 48 hours of the scheduled exam. Colby College supports the religious practices of students. Please notify me if any religious obligations will conflict with attendance, exams or other assignments at least 14 days in advance of the date in conflict.
 
 - **The lab** will give you hands-on experience exploring the principles of genetics discussed in class. You will learn about the proper use of equipment, manipulation of DNA, methods of data analysis, and practice scientific writing. Most aspects of the laboratory (communication, assignments, instruction) will be managed by your lab instructor. Please be aware that a passing grade in your lab section is required to pass the course.
 
-If you plan to observe religious holidays that coincide with class meetings or assignment due dates, please consult with me in the first three weeks of classes so that we may reach a mutual understanding of how you can meet the terms of your religious observance and the requirements for this course. 
+If you plan to observe religious holidays that coincide with class meetings or assignment due dates, please consult with me in the first three weeks of classes so that we may reach a mutual understanding of how you can meet the terms of your religious observance and the requirements for this course.
 
-Late assignments without prior approval will be penalized 10% of the grade for each late day. Assignments that are late more than 7 days will not be accepted. 
+Late assignments without prior approval will be penalized 10% of the grade for each late day. Assignments that are late more than 7 days will not be accepted.
 
 ### Learning management platform (Moodle)
 
@@ -116,27 +116,27 @@ Moodle ( http://moodle.colby.edu/ ) will be my primary method for communicating 
 First, please speak with me early if you are having trouble in the course.
 
 - [Counseling Services](http://www.colby.edu/counseling/) (207-859-4490) provided from the Health Center offer professional, confidential consultations regarding family problems, stress, depression, cultural adjustments, concerns with sexuality, alcohol and drug use, trauma and other personal issues.
-- [Class Deans](mailto:deanofstudies@colby.edu) can guide students through a range of issues. Students can reach out to their class dean via email or by calling x4560. They are also welcome to visit the Dean of Studies Office in Eustis 107 for assistance with scheduling or other inquiries. 
-- If you encounter barriers to your full participation in this course, please let me know immediately so we can determine if there is an accommodation that can be made. If you are a student with a disability, or think you may have a disability, the [Dean of Students Office](https://www.colby.edu/studentadvising/student-access-and-disability-services/) works with students and faculty to identify reasonable accommodations. 
+- [Class Deans](mailto:deanofstudies@colby.edu) can guide students through a range of issues. Students can reach out to their class dean via email or by calling x4560. They are also welcome to visit the Dean of Studies Office in Eustis 107 for assistance with scheduling or other inquiries.
+- If you encounter barriers to your full participation in this course, please let me know immediately so we can determine if there is an accommodation that can be made. If you are a student with a disability, or think you may have a disability, the [Dean of Students Office](https://www.colby.edu/studentadvising/student-access-and-disability-services/) works with students and faculty to identify reasonable accommodations.
 - The [Farnham Writing Center](http://web.colby.edu/farnham-writerscenter/) offers support for students on basic writing and reading skills.
 - [DavisConnects](https://davisconnects.colby.edu/) helps students  explore internship, career, and study abroad opportunities. Make [an appointment](https://colby.joinhandshake.com/login) with an advisor through the Handshake portal.
 
-### Sustainability 
+### Sustainability
 
 Environmental degradation is a serious biological and societal issue. [Colby](https://www.colby.edu/green-colby/) is committed to practices that promote environmental sustainability. To help minimize the environmental impact of this course, I encourage you to buy used textbooks. Minimize paper use by reading slides on a device when possible, rather than printing on paper. It is acceptable to take notes on a laptop or tablet during class. If you choose to print, please print double-sided on recycled paper. Multiple slides may be printed to a single sheet. Recycle unnecessary paper after the end of the semester.
 
-### Academic Integrity 
+### Academic Integrity
 
 Honesty, integrity, and personal responsibility are cornerstones of a Colby education and provide the foundation for scholarly inquiry, intellectual discourse, and an open and welcoming campus community. [These values](https://www.colby.edu/academics/academic-integrity/) are articulated in the Colby Affirmation and are central to this course. You are expected to demonstrate academic honesty in all aspects of this course. Academic dishonesty includes, but is not limited to: [plagiarism](https://libguides.colby.edu/avoidingplagiarism) (which includes paraphrasing from sources, even with a citation); claiming the work of another person or [AI](https://www.edweek.org/technology/new-data-reveal-how-many-students-are-using-ai-to-cheat/2024/04) as your own; buying or attempting to buy papers or other assignments; fabricating information or citations; knowingly assisting others in acts of academic dishonesty; violating clearly stated rules for taking an exam; misrepresentations to faculty within the context of a course; and submitting the same work, including an essay that you wrote, in more than one course. Sanctions for academic dishonesty are assigned by an [academic review board](https://www.colby.edu/wp-content/uploads/2021/01/StudentAcadDishFlowChart-7.pdf) and may include failure on the assignment, failure in the course, suspension or expulsion from the College.
 
 ### Sexual Misconduct
 
-Colby College prohibits [sexual misconduct or gender based discrimination](https://life.colby.edu/your-safety/sexual-violence-title-ix/title-ix-policy-guidance/) and is obligated, by federal and state laws, to respond to reports and provide resources to students. As your professor I am considered a "responsible employee" which requires me to report incidence of sexual assault, sexual harassment, dating violence, or stalking to the [Title IX Coordinator](https://life.colby.edu/your-safety/sexual-violence-title-ix/meet-the-staff/). 
+Colby College prohibits [sexual misconduct or gender based discrimination](https://life.colby.edu/your-safety/sexual-violence-title-ix/title-ix-policy-guidance/) and is obligated, by federal and state laws, to respond to reports and provide resources to students. As your professor I am considered a "responsible employee" which requires me to report incidence of sexual assault, sexual harassment, dating violence, or stalking to the [Title IX Coordinator](https://life.colby.edu/your-safety/sexual-violence-title-ix/meet-the-staff/).
 
-Confidential support services: 
+Confidential support services:
 
-- [Counseling Services](http://www.colby.edu/counseling/) (207-859-4490) 
-- [Title IX Confidential Advocate](https://life.colby.edu/your-safety/sexual-violence-title-ix/meet-the-staff/) (207-509-9122) 
+- [Counseling Services](http://www.colby.edu/counseling/) (207-859-4490)
+- [Title IX Confidential Advocate](https://life.colby.edu/your-safety/sexual-violence-title-ix/meet-the-staff/) (207-509-9122)
 - [Office of Religious and Spiritual Life](https://life.colby.edu/what-to-do/spiritual-life/) (207-859-4272 )
 - [Maine Coalition Against Sexual Assault](https://www.mecasa.org/) (24/7 helpline: 1-800-871-7741)
 
