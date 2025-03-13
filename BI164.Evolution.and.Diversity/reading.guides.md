@@ -464,32 +464,34 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 #### Reading
 
-- Chapter 19.2
+- Chapter 19.2 (pages 389-391)
+
+> [!TIP]
+> This reading is meant to reinforce our coverage of epigenetics. The level of molecular detail in this section should be considered supplemental.
+
 
 #### Define the following vocabulary terms
 
 <details closed>
   <summary><b>terms</b></summary>
   <ul>
-  <li>epigenetics
+  <li>epigenetics inheritance
   <li>DNA methylation
-  <li>chromatyin remodeling
+  <li>chromatin remodeling
   </ul>
 </details>
-
-#### Closely review the following tables/figures
-
-- TBD
 
 
 #### At the end of this reading you should be able to
 
-- TBD
+- Define epigenetic inheritance.
+- Know that DNA methylation is one mechanism of epigenetic change. 
 
 
 #### Relevant practice problems
 
-- TBD
+- **blue ✓** questions 1 and 3 at the end of section 19.2
+- End of chapter questions: 1 and 6
 
 
 
