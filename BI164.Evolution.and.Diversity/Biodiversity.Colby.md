@@ -25,7 +25,7 @@ An important goal of *[BI164 Evolution and Diversity](https://github.com/aphanot
 ### Course assignment
 
 | title       | points | description                                                  |
-| :----------- | :----: | :----------------------------------------------------------- |
+| :-------- | :----: | :----------------------------------------------------------- |
 | Team Member |   10   | Submit at least 10 observations, representing at least 5 different phyla |
 
 
@@ -37,7 +37,7 @@ Extra credit (bonus points) will also be awarded to students involved in this pr
 ### Bonus awards
 
 | title | points | description |
-|:------ |:---:|:--- |
+|:------ |:---:|:--------------- |
 | Above Average | 2 | In the upper 50% of observation numbers |
 | Award for Active Animals | 5 | Most phyla of animals |
 | Herald of Spring (Global)  |  5   | Earliest [bumble bee](https://www.inaturalist.org/taxa/52775-Bombus) observation of the year, outside Maine |
@@ -58,7 +58,7 @@ Extra credit (bonus points) will also be awarded to students involved in this pr
 These awards ago to the student who submits the most species in each taxon below.
 
 | title | points | taxon |
-|:-------- |:---:|:--- |
+|:-------- |:---:|:-------------- |
 | Master of Mammals | 5 | [mammals](https://www.inaturalist.org/taxa/40151-Mammalia) |
 | Dinosaur Hunter | 5 | [birds](https://www.inaturalist.org/observations?taxon_id=3) |
 | Herp Hero | 5 | [reptiles](https://www.inaturalist.org/taxa/26036-Reptilia) and [amphibians](https://www.inaturalist.org/taxa/20978-Amphibia) |
@@ -92,30 +92,29 @@ These awards ago to the student who submits the most species in each taxon below
 
 
 
-> [!IMPORTANT] 
-> **Rules**
->
-> - Remember, this is meant to be fun! (and educational)
-> - Observations must be submitted to iNaturalist between March 17 and May 11, 2025.
-> - Students must submit their own observations 
-> - Students must provide a reasonable identification of each organism at the time it is submitted. However, the observation will count towards the taxon that the iNaturalist community ultimately identifies it as.
-> - To count towards an award, organisms must be in their natural environment. (Greenhouses, zoos, aquariums, natural history collections, etc. don't count.) 
-> - Humans and pets cannot be submitted as observations
-> - New bonus awards may be added at any time!
-> - Runners-up will receive half the award value, rounded down, unless there is a tie.
-> - In the event of a tie, winners will split the point value, rounded up.
-> - The total for bonus points from this project will be capped at 20 points per student.
-> - Dr. Angelini has ultimate discretion to determine all outcomes of this competition, including judgements of "cuteness" and "danger".
+### Rules
+
+- Remember, this is meant to be fun! (and educational)
+- Observations must be submitted to iNaturalist between March 15 and May 11, 2025.
+- Students must submit their own observations 
+- Students must provide a reasonable identification of each organism at the time it is submitted. However, the observation will count towards the taxon that the iNaturalist community ultimately identifies it as.
+- To count towards an award, organisms must be in their natural environment. (Greenhouses, zoos, aquariums, natural history collections, etc. don't count.) 
+- Humans and pets cannot be submitted as observations
+- New bonus awards may be added at any time!
+- Runners-up will receive half the award value, rounded down, unless there is a tie.
+- In the event of a tie, winners will split the point value, rounded up.
+- The total for bonus points from this project will be capped at 20 points for each student.
+- Dr. Angelini has ultimate discretion to determine all outcomes of this competition, including judgements of "cuteness" and "danger".
 
 
 
-> [!TIP]
->
-> - This activity is meant to be fun and friendly. So please cheer on your classmates!
-> - You don't need to venture far away! Plenty of organisms live right beside us if you just look around, and slow down enough to be observant. 
-> - It's always a good idea to go in a group when venturing into natural areas. If you are unfamiliar with outdoor activities please seek the advice of more experienced people.
-> - If you collect organisms that are microscopic, talk with Dr. Angelini or your lab instructor about using a microscope to take pictures. Please realize that this might not always be possible due to timing or logistical constraints.
-> - The list of taxa above is really long! It's not expected that you should make observations of every one! This activity is not meant to take up all of your time!
+### Tips
+
+- This activity is meant to be fun and friendly. So please cheer on your classmates!
+- You don't need to venture far away! Plenty of organisms live right beside us if you just look around, and slow down enough to be observant. 
+- It's always a good idea to go in a group when [venturing into natural areas](https://www.nature.org/en-us/about-us/where-we-work/united-states/ohio/stories-in-ohio/top-10-tips-for-outdoor-safety/). If you are unfamiliar with outdoor activities please seek the advice of more experienced people.
+- If you collect organisms that are microscopic, talk with Dr. Angelini or your lab instructor about using a microscope to take pictures. Please realize that this might not always be possible due to timing or logistical constraints.
+- The list of taxa above is really long! It's not expected that you should make observations of every one! This activity is not meant to take up all of your time!
 
 
 
