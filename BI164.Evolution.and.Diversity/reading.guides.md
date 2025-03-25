@@ -764,7 +764,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 **Misconceptions About Evolution**
 
-> Reading
+#### Reading
 
 - Chapter 22.5
 
@@ -779,6 +779,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Constraint    
   </ul>
 </details>
+
 #### Closely review the following tables/figures
 
 - Table 22.3 (summarizes many common misconceptions about evolution)
