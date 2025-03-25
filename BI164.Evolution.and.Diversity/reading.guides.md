@@ -7,12 +7,12 @@
 > [What is a Reading Guide?](#What-is-a-Reading-Guide)<br>
 > **Material for Exam2**<br>
 > [Chapter 19](#Chapter-19): Epigenetics<br>
-> [Chapter 23 (Part 1)](#Chapter-23-(Part-1)): The Hardy-Weinberg Model and Nonrandom Mating<br>
-> [Chapter 23 (Part 2)](#Chapter-23-(Part-2)): Mutation and Genetic Drift<br>
-> [Chapter 23 (Part 3)](#Chapter-23-(Part-3)): Gene Flow and Selection<br>
-> [Chapter 22 (Part 1)](#Chapter-22-(Part-1)): Evolution by Natural Selection<br>
-> [Chapter 14 (Part 2)](#Chapter-14-(Part-2)): Quantitative Traits<br>
-> [Chapter 22 (Part 2)](#Chapter-22-(Part-2)): Common Misconceptions about Evolution<br>
+> [Chapter 23 (Part 1)](#Chapter-23-Part-1): The Hardy-Weinberg Model and Nonrandom Mating<br>
+> [Chapter 23 (Part 2)](#Chapter-23-Part-2): Mutation and Genetic Drift<br>
+> [Chapter 23 (Part 3)](#Chapter-23-Part-3): Gene Flow and Selection<br>
+> [Chapter 22 (Part 1)](#Chapter-22-Part-1): Evolution by Natural Selection<br>
+> [Chapter 14 (Part 2)](#Chapter-14-Part-2): Quantitative Traits<br>
+> [Chapter 22 (Part 2)](#Chapter-22-Part-2): Common Misconceptions about Evolution<br>
 
 
 
