@@ -183,16 +183,14 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 |        | March 5     | The Hardy-Weinberg Model            | 23.0-1                 |
 |        | March 7     | Non-random mating                   | 23.2                   |
 |   6    | March 10    | Mutation                            | 23.6                   |
-|        |             | Migration                           | 23.5                   |
 |        | March 12    | Genetic drift                       | 23.4                   |
+|        |             | Gene flow                           | 23.5                   |
 |        | March 14    | Wright's fixation index (Fst)       |                        |
 |   7    | March 17    | Artificial selection                | 22.3                   |
-|        |             | Quantitative traits                 | 14.5                   |
-|        | March 19    | Natural selection                   | 23.3                   |
-|        | March 21    | Population genetics of selection    |                        |
-|        |             | Fitness dominance                   |                        |
-|   8    | March 31    | Sexual selection                    | 23.3                   |
-|        | April 2     | Misconceptions about evolution      |                        |
+|        | March 19    | Quantitative traits                 | 14.5                   |
+|        | March 21    | Natural selection                   | 23.3                   |
+|   8    | March 31    | Misconceptions about evolution      | 22.5                   |
+|        | April 2     | Sexual selection                    | 23.3                   |
 |        | April 4     | time to catch up                    |                        |
 |   9    | April 7     | **Exam 2**                          |                        |
 |        | April 9     | Tree thinking                       |                        |

@@ -5,12 +5,14 @@
 > [!NOTE]
 > **Table of Contents**<br>
 > [What is a Reading Guide?](#What-is-a-Reading-Guide)<br>
-> [Chapter 1](#Chapter-1): Introduction, review and overview<br>
-> [Chapter 22](#Chapter-22): Overview of evolution by natural selection<br>
-> [Chapter 12](#Chapter-12): Mitosis<br>
-> [Chapter 27](#Chapter-27): Alternation of generation (with protists as an example) <br>
-> [Chapter 13](#Chapter-13): Meiosis<br>
-> [Chapter 14](#Chapter-14): Transmission Genetics (or “Mendel and the Gene”)
+> **Material for Exam2**<br>
+> [Chapter 19](#Chapter-19): Epigenetics<br>
+> [Chapter 23 (Part 1)](#Chapter-23-(Part-1)): The Hardy-Weinberg Model and Nonrandom Mating<br>
+> [Chapter 23 (Part 2)](#Chapter-23-(Part-2)): Mutation and Genetic Drift<br>
+> [Chapter 23 (Part 3)](#Chapter-23-(Part-3)): Gene Flow and Selection<br>
+> [Chapter 22 (Part 1)](#Chapter-22-(Part-1)): Evolution by Natural Selection<br>
+> [Chapter 14 (Part 2)](#Chapter-14-(Part-2)): Quantitative Traits<br>
+> [Chapter 22 (Part 2)](#Chapter-22-(Part-2)): Common Misconceptions about Evolution<br>
 
 
 
@@ -456,6 +458,8 @@ Practice problem answers are at the back of the book. If you cannot complete the
 > [!TIP]
 > Everyone loves Punnett Squares! \- But understanding how basic probabilities are used in the fork-line method will provide you with a more reliable and flexible way to approach genetics problems!
 
+
+
 ## Exam 2 Material
 
 ### Chapter 19
@@ -495,17 +499,17 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-### Chapter 23
+### Chapter 23 (Part 1)
 
 **Evolutionary Processes**
 
 > [!TIP]
-> Chapter 23 is important and we'll cover it slowly. Section 23.3 is something we'll initially pass over and return to later.
+> Chapter 23 is important and we'll cover it slowly.  Part 1 covers the Hardy-Weinberg model and nonrandom mating.
 
 
 #### Reading
 
-- Chapter 23.0-2, 6, 5, 4, 3
+- Chapter 23.0-2 
 
 #### Define the following vocabulary terms
 
@@ -522,22 +526,18 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Random mating
   <li>Nonrandom mating
   <li>Inbreeding
-  <li>Gene flow
-  <li>Migration
-  <li>Genetic drift
   <li>Genotype frequency
-  <li>Self-fertilization
   <li>Deleterious allele
-  <li>Fitness
-  <li>Inbreeding depression
   </ul>
 </details>
 
+
 #### Closely review the following tables/figures
 
-- Unnumbered Figure p470 for review of terms: allele, genotype, phenotype 
+- Unnumbered Figure on page 470 for review of terms (to review the terms allele, genotype, phenotype) 
 - Figures 23.2 and 23.3 (to understand how the Hardy-Weinberg equation is derived)
 - Figure 23.4 (to understand how inbreeding decreases heterozygosity)
+- Optional: Review BioSkills 4 "Working with Probabilities" (p 29)
 - Optional: Review Quantitative Methods 23.1 if you need more support understanding or practicing using the Hardy-Weinberg Principle
 
 
@@ -553,8 +553,297 @@ Practice problem answers are at the back of the book. If you cannot complete the
 #### Relevant practice problems
 
 - All of the **blue ✓** questions in sections 23.1-2
-- End of chapter questions: 1, 2, 5, 6
+- End of chapter questions: 1, 2, 5, 6, 9
 - Walk through the 23.1 "case study" section
+
+
+
+### Chapter 23 (Part 2)
+
+**Evolutionary Processes**
+
+> [!TIP]
+> Part 2 covers genetic drift and mutation.
+
+#### Reading
+
+- Chapter 23.4 (drift), 6 (mutation)
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Genetic drift
+  <li>Sampling error
+  <li>Founder effect
+  <li>Genetic Bottleneck
+  <li>Mutation
+  <li>Point mutation
+  <li>Deleterious mutation
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Figure 23.13 (as an example of genetic drift)
+- Figure 23.14 (to understand the founder effect)
+- Figure 23.15 (to understand the effect of a genetic bottleneck)
+
+
+#### At the end of this reading you should be able to
+
+- Remember the above vocabulary
+- Recognize the effect of genetic drift on allele frequencies
+- Recognize the relationship between population size and genetic drift
+- Recognize how genetic drift will affect allele frequencies across multiple populations, leading to population structure (*F<sub>ST</sub>*)
+- Recognize mutation as the fundamental source of genetic variation
+
+
+#### Relevant practice problems
+
+- All of the **blue ✓** questions in sections 23.4 and 23.6
+- End of chapter questions: 3, 7
+
+
+
+### Chapter 23 (Part 3)
+
+**Evolutionary Processes**
+
+> [!TIP]
+> Part 3 covers gene flow and selection.
+
+#### Reading
+
+- Chapter 23.5 (gene flow), 3 (selection)
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Gene flow
+  <li>Selection
+  <li>Artificial selection
+  <li>Natural selection
+  <li>Fitness
+  <li>Adaptation
+  <li>Directional selection
+  <li>Purifying selection
+  <li>Stabilizing selection
+  <li>Disruptive selection
+  <li>Balancing selection
+  <li>Heterozygote advantage
+  <li>Frequency-dependent selection
+  <li>Sexual selection
+  <li>Intersexual selection
+  <li>Intrasexual selection
+  <li>Mate choice
+  <li>Competition for mates
+  <li>Sexual dimorphism
+  <li>Sexual polymorphism
+  </ul>
+</details>
+
+
+
+#### Closely review the following tables/figures
+
+- Figure 23.16 (to understand gene flow)
+- Figures 23.6-8 (to understand directional, stabilizing and disruptive selection)
+- Table 23.3 (summarizes evolutionary processes)
+- *The Big Picture: Evolution* on p532-533 (focus on material from Chapters 22, 23; for now, ignore the concepts related to speciation and phylogeny)
+
+
+#### At the end of this reading you should be able to
+
+- Recognize ways in which populations deviate from Hardy-Weinberg equilibrium due to different evolutionary forces
+- Compare and contrast the effects of gene flow, mutation, genetic drift, and selection on allele frequencies, genetic variation, and average fitness
+- Recognize the effect of gene flow and how it impacts allele frequencies in source and recipient populations
+- Recognize different modes of selection, based on phenotypic and genotypic observations over time
+- Explain the effect of different modes of selection on allele frequencies, genetic variation, and average fitness
+- Analyze the effects of combinations of two evolutionary forces on allele frequencies
+- Recognize the pitfalls of adaptationism
+- Understand how competition for mates and variation in reproductive success can lead to sexual selection
+
+
+#### Relevant practice problems
+
+- All of the **blue ✓** questions in sections 23.5, 22.3, 22.4, 23.3
+- End of chapter questions: 4, 6, 8, 11, 12, 13, 14, 15
+- *The Big Picture: Evolution* questions: 1, 4
+
+> [!TIP]
+> Questions 11-15 at the end of Chapter 23 will help you practice putting all the evolutionary forces together.
+
+
+
+### Chapter 22 (Part 1)
+
+**Evolution by Natural Selection**
+
+> [!TIP]
+> This reading is a short chapter section that provides more detail on how Darwin used the concept of artificial selection to develop his more general principle of evolution by natural selection. 
+
+#### Reading
+
+- Chapter 22.3
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Artificial selection
+  <li>Natural selection
+  <li>Fitness
+  <li>Adaptation
+  <li>Charles Darwin
+  <li>Alfred Russell Wallace
+  <li>Charles Lyell
+  <li>Thomas Malthus    
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- List of Darwin's Postulates on page 458 (Note that this list is slightly different than how I presented these points in lecture. Idea is the same!)
+
+#### At the end of this reading you should be able to
+
+- Remember the above vocabulary
+- Explain how the ideas of Lyell and Malthus influenced Darwin and Wallace
+- Recognize the necessary conditions for evolution ("Darwin’s postulates")
+- Compare and contrast artificial selection with natural selection
+
+
+#### Relevant practice problems
+
+- All of the **blue ✓** questions in sections 22.3
+- End of chapter questions: 4, 5, 6, 7, 8, 9
+
+
+
+### Chapter 14 (Part 2)
+
+**Quantitative Traits**
+
+> [!TIP]
+> We will briefly return to Chapter 14 to cover how additive alleles influence quantitative traits.
+
+#### Reading
+
+- Chapter 14.5 (pages 314-316, the section entitled *Can Mendel's Principles Explain Traits That Don't Fall Into Distinct Categories?*)
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Discrete trait  
+  <li>Quantitative trait
+  <li>Additive allele (from lecture)
+  <li>Nonadditive allele (from lecture)
+  <li>Polygenic trait
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Figure 14.20 (to understand how a continuous distribution of trait values can be produced by additive alleles at several loci)
+#### At the end of this reading you should be able to
+
+- Remember the above vocabulary
+- Explain how quantitative traits arise from the action of multiple genes
+- Understand that additive alleles contributing to a quantitative trait exhibit partial dominance
+
+
+
+### Chapter 22 (Part 2)
+
+**Misconceptions About Evolution**
+
+> Reading
+
+- Chapter 22.5
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Acclimatization
+  <li>Fitness trade-off
+  <li>Genetic correlation
+  <li>Constraint    
+  </ul>
+</details>
+#### Closely review the following tables/figures
+
+- Table 22.3 (summarizes many common misconceptions about evolution)
+
+#### At the end of this reading you should be able to
+
+- Remember the above vocabulary
+- Recognize and correct common misconceptions about evolution
+- Understand the difference between acclimatization (by physiology or behavior) in an individual and adaptation (by evolution) in a population
+- Understand how genetic, historical and environmental constraints may influence evolution 
+
+#### Relevant practice problems
+
+- End of chapter question: 5, 7, 9
+
+
+
+## Exam 3 Material
+
+
+
+### Chapter 22 (Part 32)
+
+**The Pattern of Evolution**
+
+> [!TIP]
+> This section presents evidence of evolution over long periods of geological history (macroevolution). 
+
+#### Reading
+
+- Chapter 22.2
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>descent with modification
+  <li>fossil
+  <li>fossil record
+  <li>extant species
+  <li>extinct species
+  <li>sedimentary rocks
+  <li>geological time scale
+  <li>transitional feature
+  <li>vestigial trait
+  </ul>
+</details>
+
+
+#### Closely review the following tables/figures
+
+- TBA
+
+#### At the end of this reading you should be able to
+
+- Remember the above vocabulary
+- TBA
+
+
+#### Relevant practice problems
+
+- TBA
+
+
 
 
 ---
