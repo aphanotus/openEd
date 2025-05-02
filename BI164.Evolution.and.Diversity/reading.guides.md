@@ -5,15 +5,13 @@
 > [!NOTE]
 > **Table of Contents**<br>
 > [What is a Reading Guide?](#What-is-a-Reading-Guide)<br>
-> **Material for Exam2**<br>
-> [Chapter 19](#Chapter-19): Epigenetics<br>
-> [Chapter 23 (Part 1)](#Chapter-23-Part-1): The Hardy-Weinberg Model and Nonrandom Mating<br>
-> [Chapter 23 (Part 2)](#Chapter-23-Part-2): Mutation and Genetic Drift<br>
-> [Chapter 23 (Part 3)](#Chapter-23-Part-3): Gene Flow and Selection<br>
-> [Chapter 22 (Part 1)](#Chapter-22-Part-1): Evolution by Natural Selection<br>
-> [Chapter 14 (Part 2)](#Chapter-14-Part-2): Quantitative Traits<br>
-> [Chapter 22 (Part 2)](#Chapter-22-Part-2): Common Misconceptions about Evolution<br>
-
+> **Material for Exam 3**<br>
+> [Chapter 22 (Part 4)](#Chapter-22-Part-4): Macroevolution<br>
+> [Chapter 23 (Part 4)](#Chapter-23-Part-4): Sexual Selection<br>
+> [Chapter 24](#Chapter-24): Speciation<br>
+> [Chapter 25](#Chapter-25): Phylogenies<br>
+> [Chapter 30](#Chapter-30): Animals<br>
+> [Chapter 21](#Chapter-21): Animal Development<br>
 
 
 ---
@@ -127,7 +125,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-### Chapter 22
+### Chapter 22 (Part 1)
 
 **Evolution by Natural Selection**
 
@@ -636,13 +634,6 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Balancing selection
   <li>Heterozygote advantage
   <li>Frequency-dependent selection
-  <li>Sexual selection
-  <li>Intersexual selection
-  <li>Intrasexual selection
-  <li>Mate choice
-  <li>Competition for mates
-  <li>Sexual dimorphism
-  <li>Sexual polymorphism
   </ul>
 </details>
 
@@ -665,7 +656,6 @@ Practice problem answers are at the back of the book. If you cannot complete the
 - Explain the effect of different modes of selection on allele frequencies, genetic variation, and average fitness
 - Analyze the effects of combinations of two evolutionary forces on allele frequencies
 - Recognize the pitfalls of adaptationism
-- Understand how competition for mates and variation in reproductive success can lead to sexual selection
 
 
 #### Relevant practice problems
@@ -679,7 +669,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-### Chapter 22 (Part 1)
+### Chapter 22 (Part 2)
 
 **Evolution by Natural Selection**
 
@@ -760,7 +750,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-### Chapter 22 (Part 2)
+### Chapter 22 (Part 3)
 
 **Misconceptions About Evolution**
 
@@ -800,23 +790,37 @@ Practice problem answers are at the back of the book. If you cannot complete the
 ## Exam 3 Material
 
 
+### Chapter 22 (Part 4)
 
-### Chapter 22 (Part 32)
-
-**The Pattern of Evolution**
+**Macroevolution**
 
 > [!TIP]
-> This section presents evidence of evolution over long periods of geological history (macroevolution). 
+> This section presents evidence of evolution over long periods of geological history (macroevolution). I am also group in here many of the terms and concepts  introduced at this time on "tree thinking" (the interpretation of phylogenies).
 
 #### Reading
 
-- Chapter 22.2
+- Bioskill 13: Reading & Making Phylogenetic Trees (p50-51)
+- Chapter 22.2 (especially (pages 454-456)
 
 #### Define the following vocabulary terms
 
 <details closed>
   <summary><b>terms</b></summary>
   <ul>
+  <li>Phylogeny
+  <li>Phylogenetic tree
+  <li>Root
+  <li>Branch
+  <li>Node
+  <li>Tip
+  <li>Monophyletic group (lineage, clade)
+  <li>Trait
+  <li>Outgroup
+  <li>Homology
+  <li>Genetic homology
+  <li>Developmental homology
+  <li>Structural homology
+  <li>Morphology
   <li>descent with modification
   <li>fossil
   <li>fossil record
@@ -829,26 +833,288 @@ Practice problem answers are at the back of the book. If you cannot complete the
   </ul>
 </details>
 
-
 #### Closely review the following tables/figures
 
-- TBA
+- Figure B13.1
+- Table 22.1
 
 #### At the end of this reading you should be able to
 
 - Remember the above vocabulary
-- TBA
-
+- Interpret the components of a phylogeny: tips, node, branches
+- Interpret a phylogeny to determine the relatedness of species
+- Add a trait to a phylogeny
+- Identify a monophyletic group
+- Recognize that homologies indicate shared ancestry among species
 
 #### Relevant practice problems
 
-- TBA
+- Making Models 22.1, 22.3
+- Try to fill in Table 22.2
+- All of the **blue ✓** questions in Bioskills 13 (on page 51)
+
+
+### Chapter 23 (Part 4)
+
+**Sexual Selection**
+
+> [!TIP]
+> This is the only content from Chapter 23 that will be covered explicitly by Exam 3. But the exam will implicitly assume you know all previous voacbulary and undertsand earlier concepts like natural selection and population genetics.
+
+#### Reading
+
+- Chapter 23.4 (pages 479 - 482)
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>Fitness (still important in this context!)
+  <li>Sexual selection
+  <li>Sexual dimorphism
+  <li>Intersexual selection
+  <li>Intrasexual selection
+  <li>Mate choice
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Figure 23.10 (as an example of mate choice)
+- Figure 23.11b-c (as examples of ftiness based on strong sexual selection via competition for mates)
+
+#### At the end of this reading you should be able to
+
+- Understand how competition for mates and variation in reproductive success can lead to sexual selection
+
+> [!TIP]
+> Be aware of some of the critiques of and alternatives to mainstream sexual selection theory, which I mentioned in my recorded lecture on this topic.
+
+#### Relevant practice problems
+
+- **Blue ✓** questions on pages 480, 481, and 482
+- End of Chapter questions: 9
+
+
+### Chapter 24 
+
+**Speciation**
+
+#### Reading
+
+- 24.0-4
+
+#### Define the following vocabulary terms
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+    <li>Speciation
+    <li>Genetic isolation
+    <li>Genetic divergence
+    <li>Species
+    <li>Biological pecies concept
+    <li>Reproductive isolation
+    <li>Prezygotic isolation
+    <li>Postzygotic isolation
+    <li>Morphological species concept (a.k.a. morphospecies concept)
+    <li>Cryptic species
+    <li>Phylogenetic species concept
+    <li>Monophyletic group
+    <li>Clade
+    <li>Lineage
+    <li>Snynapomorphy
+    <li>Apomorphy
+    <li>Allopatry
+    <li>Allopatric speciation
+    <li>Dispersal
+    <li>Vicariance
+    <li>Sympatry
+    <li>Sympatric speciation
+    <li>Polyploidy
+    <li>Reinforcement
+    <li>Secondary contact
+    <li>Hybrid
+    <li>Hybridization
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Figures 24.3, 24.5, 24.7, 24.10
+- Tables 24.1, 24.2, 24.4
+
+#### At the end of this reading you should be able to
+
+- Remember the above vocabulary
+- Explain the two necessary components of speciation (reproductive isolation and genetic divergence)
+- Recognize reproductive isolation mechanisms 
+- Recognize the roles that gene flow, natural selection, genetic drift, and mutation can play in speciation
+- Understand the necessary factors that lead to…
+  - sympatric speciation (both lack of gene flow and presence of disruptive selection), vs.
+  - allopatric speciation (lack of gene flow due to allopatry)
+- Recognize secondary contact and its different potential outcomes based on hybrid fitness
+
+#### Relevant practice problems
+
+- Making Models 24.1
+- **Blue ✓** questions on pages 495-502, 505, 507
+- End of Chapter 24 questions: 1-6, 8, 9, 12, 13, 16
+
+
+### Chapter 25
+
+**Phylogenies**
+
+#### Reading
+
+- 25.0-1 (phylogenetics)
+- 25.3 (adaptive radiation; the Cambrian explosion; animal development)
+
+#### Define the following vocabulary terms
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+    <li>Phylogeny
+    <li>Phylogenetic tree
+    <li>Branch
+    <li>Root
+    <li>Node
+    <li>Tip
+    <li>Polytomy
+    <li>Outgroup
+    <li>Taxa
+    <li>Sister group
+    <li>Character
+    <li>Ancestral trait
+    <li>Derived trait
+    <li>Synapomorphy
+    <li>Clade/lineage
+    <li>Monophyletic group
+    <li>Homology
+    <li>Homoplasy
+    <li>Convergent evolution
+    <li>Parallelism
+    <li>Parsimony
+    <li>Adaptive radiation
+    <li>Cambrian explosion
+    <li>Hox genes
+    <li>Bodyplan
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Tables 25.1 - 25.2
+- Table 24.3 - Name the different types of trees here (cladogram, phylogram, chronogram)
+- Figures 25.1-25.4
+- "The Big Picture: Evolution" (pages 532-533)
+
+#### At the end of this reading you should be able to
+
+- Perform inference (finding) of a simple maximum parsimony tree
+- Interpret the components of a phylogeny: tips, node, branches
+- Interpret evolutionary relationships among organisms using a phylogeny: sister species or clades, monophyly, paraphyly
+- Read different types of phylogeny visualizations: style, informative vs. uninformative branch lengths
+- Recognize and apply synapomorphies toward phylogeny inference
+- Recognize homoplasies on a phylogeny: reversals, parallelism, convergence
+- Find the most recent common ancestor of any two given taxa
+- Explain the two hypotheses for the Cambrian explosion
+- Explain how Hox genes relate to animal bodyplan diversity
+
+#### Relevant practice problems
+
+- Making Models 25.1 - 25.2
+- All of the blue ✓ questions in section 25.1
+- **Blue ✓** question on page 522 (in section 25.3)
+- **Blue ✓** questions on page 532 ("The Big Picture: Evolution")
+- End of Chapter questions: 2 - 6, 8 - 11, 12, 14, 15
 
 
 
+### Chapter 30
+
+**Animals**
+
+#### Reading
+
+- 30.0-2
+- p645 "Life Cycles"
+
+#### Define the following vocabulary terms
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+    <li>Cambrian explosion
+    <li>Phyla
+    <li>body plan
+    <li> Choanoflagellate
+    <li>Zygote
+    <li>Embryo
+    <li>germ layers
+    <li>Bilaterian
+    <li>Segmentation
+    <li>Direct development
+    <li>Indirect development
+    <li>Metamorphosis
+    <li>Larvae
+    <li>Juvenile
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Figures 30.12
+
+#### At the end of this reading you should be able to
+
+- Complete a life cycle diagram of an animal labeling: adult, gamete, zygote, larva, juvenile, meiosis, mitosis, fertilization, and metamorphosis
+- Explain some key innovations that may have contyributed to the success of animals 
+
+#### Relevant practice problems
+
+- **Blue ✓** question  on page 632 (part of Fig 30.2)
+- **Blue ✓** question  on page 636
+- **Blue ✓** question 1 on page 639
+
+
+### Chapter 21
+
+**Animal Development**
+
+#### Reading
+
+- 21.2 (stem cells)
+- pages 440 - 443 (on Hox genes and the evolution of body plans)
+- page 653-654 "Compartmentalized and Flexible Body Plans" (from Chapter 31, but it supports the importance of Hox genes)
+
+#### Define the following vocabulary terms
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+    <li>determined
+    <li>stem cells
+    <li>pluripotent
+    <li>Hox genes
+    <li>homeotic mutation
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Figures 21.4, 21.13
+
+#### At the end of this reading you should be able to
+
+- Understand why the stem cell concept is important in animal development
+- Explain how changes in Hox genes expression may be associated with the volution of animal body plans 
+
+#### Relevant practice problems
+
+- **Blue ✓** questions  on pages 433, 435, 441 and 443
+- End of Chapter questions: 2-5
 
 ---
 
 > [!NOTE]
 > More guides coming soon!
-
