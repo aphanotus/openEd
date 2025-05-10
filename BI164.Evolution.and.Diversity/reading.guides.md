@@ -12,6 +12,8 @@
 > [Chapter 25](#Chapter-25): Phylogenies<br>
 > [Chapter 30](#Chapter-30): Animals<br>
 > [Chapter 21](#Chapter-21): Animal Development<br>
+> **Material after Exam 3**<br>
+> [Chapter 52](#Chapter-52): Biodiversity<br>
 
 
 ---
@@ -1114,7 +1116,47 @@ Practice problem answers are at the back of the book. If you cannot complete the
 - **Blue ✓** questions  on pages 433, 435, 441 and 443
 - End of Chapter questions: 2-5
 
+
+
+### Chapter 52
+
+**Biodiversity**
+
+> [!TIP]
+> While Chapter 52 is a good supplement for this topic, the slides from May 7 and 9 cover other important aspects of biodiversity.
+
+
+#### Reading
+
+- 52.2 (page 1128, "How Many Species Occur in Communities?")
+- 52.4
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+    <li>species richness
+    <li>species diversity
+    <li>evenness
+  </ul>
+</details>
+#### Closely review the following tables/figures
+
+- Making Models 52.2
+- Quantitative Methods 52.1
+
+#### At the end of this reading you should be able to
+
+- Understand difference between qualitative biodiversity metrics (like species richness) and quantitative biodiversity metrics that incorporate evenness of species
+- Explain how abiotic aspects of geography influence global patterns of biodiversity
+
+#### Relevant practice problems
+
+- **Blue ✓** questions  on page 1138
+- End of Chapter questions: 6
+
+
+
 ---
 
-> [!NOTE]
-> More guides coming soon!
