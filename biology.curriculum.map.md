@@ -46,7 +46,7 @@ flowchart LR
     ES276["ES276 Global Change Ecology"]
     ES282["ES282 Global Change Impacts"]        
   end
-  SC212 --> SC306
+  SC212["SC212 Stats"] --> SC306
   SC212 --> BI377
   subgraph level300["300 Level"]
         BI271 --> ES319["ES319 Conservation Biology"]
@@ -55,9 +55,8 @@ flowchart LR
         BI227 --> BI323
         BI278 --> BI323
         BI279 --> BI323
-        BC362 --> BI323
-        BC367 --> BI323
-        BC368 --> BI323
+        BC362["BC362 Med Biochem"] --> BI323
+        BC367["BC367 Biochem I"] --> BI323
         BI225 --> BI325["BI325 Advanced Immuno"]
         BI271 --> BI328["BI328 Community Ecology"]
         BI227 --> BI332["BI332 Dev Bio"]
@@ -93,9 +92,9 @@ config:
 ---
 flowchart LR
   subgraph Intro["General Chemistry"]
-    CH141 --> CH142
-    CH143
-    CH121 --> CH122
+    CH141["CH141 Gen Chem I"] --> CH142["CH142 Gen Chem II"]
+    CH143["CH143 Turbo Chem"]
+    CH121["CH121 Earth Systems Chem I"] --> CH122["CH122 Earth Systems Chem II"]
   end
   subgraph Orgo["Organic Chemistry"]
     CH241 --> CH242
@@ -105,7 +104,7 @@ flowchart LR
   subgraph Biochem["Biochemistry"]
     BC362["BC362 Med Biochem"]
     BC367["BC367 Biochem I"] --> BC368["BC368 Biochem II"]
-    BC378["BC378 Molecular Bio"]
+    BC378["BC378 Molecular Biology"]
   end
   Orgo --> Biochem
   BI279 --> BC378
